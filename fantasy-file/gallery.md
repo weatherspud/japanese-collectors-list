@@ -31,7 +31,7 @@
 </tr><tr>
 <td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/blue_forest_story_yoku_wakaru.jpg" height="240"><br/>ブルーフォレスト物語がよくわかる本<br/>Blue Forest Story Understand Well Book</td>
 <td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/battletech_yoku_wakaru.jpg" height="240"><br/>バトルテックがよくわかる本<br/>Battletech Understand Well Book</td>
-<td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/fnatasy_rpg_quiz_4.jpg" height="240"><br/>ファンタジーRPGクイズ4<br/>Fantasy RPG Quiz 4</td>
+<td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/fantasy_rpg_quiz_4.jpg" height="240"><br/>ファンタジーRPGクイズ4<br/>Fantasy RPG Quiz 4</td>
 <td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/100_common_sense_items.jpg" height="240"><br/>ファンタジーRPG100の常識 (アイテム編)<br/>100 Coomon Sense Fantasy RPG Practices (Items Edition)</td>
 </tr><tr>
 <td><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/shadowrun_yoku_wakaru.jpg" height="240"><br/>シャドウランがよくわかる本<br/>Shadowrun Understand Well Book</td>
