@@ -17,12 +17,12 @@ def gallery(args):
         header = rows[0]
         print('<table><tr>')
         for i, row in enumerate(rows[1:]):
-            if i % args.items_per_row == 3:
-                print('</tr><tr>')
             image = row[header.index(HEADER_IMAGE)]
             japanese = row[header.index(HEADER_JAPANESE)]
             english = row[header.index(HEADER_ENGLISH)]
-            print(f'<td><img src="{IMAGE_PREFIX}/{image}" style="height: 240px"><br/>{japanese}<br/>{english}</td>')
+            print(f'<td><img src="{IMAGE_PREFIX}/{image} height="240"><br/>{japanese}<br/>{english}</td>')
+            if i % args.items_per_row == 3:
+                print('</tr><tr>')
         print('</tr></table>')
 
 

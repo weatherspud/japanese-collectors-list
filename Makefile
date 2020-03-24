@@ -1,6 +1,6 @@
-all: fantasy-file/gallery.html
+all: fantasy-file/gallery.md
 
-%/gallery.html:
+%/gallery.md:
 	./gallery.py \
 	  --checklist-path $*/checklist.csv \
 	  > $@
