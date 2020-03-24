@@ -40,9 +40,10 @@
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/rpg_master_easy_reader.jpg" height="240"><br/><b>RPGマスターらくらく読本</b><br/><br/>RPG Master Easy Reader</td>
 </tr><tr>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/game_seeds.jpg" height="240"><br/><b>ゲームのタネ</b><br/><br/>Game Seeds</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/shadowrun_tokyo_eye_shot.jpg" height="240"><br/><b>TOKYO EYE‐SHOT シャドウランシティファイル</b><br/><br/>Tokyo Eye Shot: Shadowrun City File</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/monster_collection_down.jpg" height="240"><br/><b>モンスター・コレクション改訂版〈下〉</b><br/><br/>Monster Coillection 3</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/monster_collection_up.jpg" height="240"><br/><b>モンスター・コレクション〈上〉</b><br/><br/>Monster Collection 1</td>
-<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/monster_collection_middle.jpg" height="240"><br/><b>モンスター・コレクション 改訂版〈中〉</b><br/><br/>Monster Collection 2</td>
 </tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/monster_collection_middle.jpg" height="240"><br/><b>モンスター・コレクション 改訂版〈中〉</b><br/><br/>Monster Collection 2</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/mistake_dictionary_for_rpg.jpg" height="240"><br/><b>RPG用誤辞典</b><br/><br/>RPG Mistake Dictionary </td>
 </tr></table>
