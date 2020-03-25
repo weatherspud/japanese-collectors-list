@@ -1,4 +1,5 @@
-targets = fantasy-file/gallery.md
+dirs = comptiq fantasy-file
+targets = $(patsubst %,%/gallery.md,$(dirs))
 
 all: $(targets)
 
