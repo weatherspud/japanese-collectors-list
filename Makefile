@@ -8,5 +8,5 @@ clean:
 
 %/gallery.md:
 	./gallery.py \
-	  --checklist-path $*/checklist.csv \
+	  --subdir $* \
 	  > $@
