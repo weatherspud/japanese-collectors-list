@@ -1,4 +1,4 @@
-dirs = comptiq fantasy-file
+dirs = comptiq fantasy-file warlock
 targets = $(patsubst %,%/gallery.md,$(dirs))
 
 all: $(targets)
