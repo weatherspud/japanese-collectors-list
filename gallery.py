@@ -28,7 +28,7 @@ def gallery(args):
                 year = row[header.index(HEADER_YEAR)]
             except ValueError:
                 pass
-            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/><br/>{english}<br/><br/>{year}</td>')
+            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/>{english}<br/>{year}</td>')
             if i % args.items_per_row == 3:
                 print('</tr><tr>')
         print('</tr></table>')
