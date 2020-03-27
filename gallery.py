@@ -23,7 +23,12 @@ def gallery(args):
             image = row[header.index(HEADER_IMAGE)]
             japanese = row[header.index(HEADER_JAPANESE)]
             english = row[header.index(HEADER_ENGLISH)]
-            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/><br/>{english}</td>')
+            year = ''
+            try:
+                year = row[header.index(HEADER_YEAR)]
+            except ValueError:
+                ass
+            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/><br/>{english}<br/><br/>{year}</td>')
             if i % args.items_per_row == 3:
                 print('</tr><tr>')
         print('</tr></table>')
