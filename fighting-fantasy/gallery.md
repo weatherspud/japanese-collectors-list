@@ -1,5 +1,5 @@
 <table><tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/01.jpg" height="240"><br/><b>火吹山の魔法使い</b><br/><br/>The Warlock of Firetop Mountain[1<br/><br/>1984</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/01.jpg" height="240"><br/><b>火吹山の魔法使い</b><br/><br/>The Warlock of Firetop Mountain<br/><br/>1984</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/02.jpg" height="240"><br/><b>バルサスの要塞</b><br/><br/>The Citadel of Chaos<br/><br/>1985</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/03.jpg" height="240"><br/><b>運命の森</b><br/><br/>The Forest of Doom<br/><br/>1985</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/04.jpg" height="240"><br/><b>さまよえる宇宙船</b><br/><br/>Starship Traveller<br/><br/>1985</td>
