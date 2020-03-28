@@ -2,6 +2,7 @@
 import argparse
 import csv
 import os
+import sys
 
 IMAGE_PREFIX_FMT = 'https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/{subdir}'
 DEFAULT_ITEMS_PER_ROW = 4
@@ -17,18 +18,14 @@ def gallery(args):
     with open(checklist_path, encoding='utf-8') as f:
         reader = csv.reader(f)
         rows = list(reader)
-        header = rows[0]
+        header = [s.strip('\ufeff') for s in rows[0]]
         print('<table><tr>')
         for i, row in enumerate(rows[1:]):
             image = row[header.index(HEADER_IMAGE)]
             japanese = row[header.index(HEADER_JAPANESE)]
             english = row[header.index(HEADER_ENGLISH)]
-            year = ''
-            try:
-                year = row[header.index(HEADER_YEAR)]
-            except ValueError:
-                pass
-            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/>{english}<br/>{year}</td>')
+            year = row[header.index(HEADER_YEAR)]
+            print(f'<td valign="top"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/>{year}</td>')
             if i % args.items_per_row == 3:
                 print('</tr><tr>')
         print('</tr></table>')
