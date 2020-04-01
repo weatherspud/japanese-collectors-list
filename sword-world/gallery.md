@@ -11,4 +11,18 @@
 </tr><tr>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/western_countries_world_guide.jpg" height="240"><br/><b>西部諸国ワールドガイド</b><br/>Western Countries World Guide<br/>1996</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/lodoss_island_world_guide.jpg" height="240"><br/><b>ロードス島ワールドガイド―ソード</b><br/>Lodoss Island World Guide<br/>1998</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/stone_giant_labyrinth.jpg" height="240"><br/><b>石巨人の迷宮</b><br/>Stone Giant Labyrinth<br/>1989</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/unicorn_quest.jpg" height="240"><br/><b>ユニコーンの探索</b><br/>Unicorn Quest<br/>1989</td>
+</tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/tower_of_four_great_wizards.jpg" height="240"><br/><b>四大魔術師の塔</b><br/>Tower of the Four Great Wizards<br/>1990</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/rainbow_crystal_palace.jpg" height="240"><br/><b>虹の水晶宮</b><br/>Rainbow Crystal Palace<br/>1991</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/threat_from_darkness.jpg" height="240"><br/><b>闇からの脅威</b><br/>Threat from Darkness<br/>1991</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/only_cats_know.jpg" height="240"><br/><b>猫だけが知っている</b><br/>Only Cats Know<br/>1992</td>
+</tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/gates_to_another_world.jpg" height="240"><br/><b>異界への門</b><br/>Gates to Another World<br/>1993</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/ballard_house.jpg" height="240"><br/><b>バラールの館</b><br/>Ballard House<br/>1993</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/worlds_end_wall.jpg" height="240"><br/><b>世界の果ての壁</b><br/>World's End Wall<br/>1995</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/forest_of_the_black_demon.jpg" height="240"><br/><b>黒き魔人の森</b><br/>Forest of the Black Demon<br/>1997</td>
+</tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/city_where_devil_dances_in_the_dark.jpg" height="240"><br/><b>悪魔が闇に踊る街</b><br/>The City Where the Devil Dances in the Dark<br/>1997</td>
 </tr></table>
