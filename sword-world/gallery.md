@@ -25,4 +25,8 @@
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/forest_of_the_black_demon.jpg" height="240"><br/><b>黒き魔人の森</b><br/>Forest of the Black Demon<br/>1997</td>
 </tr><tr>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/city_where_devil_dances_in_the_dark.jpg" height="240"><br/><b>悪魔が闇に踊る街</b><br/>The City Where the Devil Dances in the Dark<br/>1997</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/rhapsody_of_rogues.jpg" height="240"><br/><b>盗賊たちの狂詩曲ソード・ワールドRPGリプレイ集〈1〉</b><br/>Rhapsody of Rogues: Sword World Replay 1<br/>1989</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/symphony_of_monsters.jpg" height="240"><br/><b>モンスターたちの交響曲ソード・ワールドRPGリプレイ集〈2〉</b><br/>Symphony of Monsters: Sword World Replay 2<br/>1990</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/endless_improvisation.jpg" height="240"><br/><b>終わりなき即興曲ソード・ワールドRPGリプレイ集〈3〉</b><br/>Endless Improvisation: Sword World Replay 3<br/>1991</td>
+</tr><tr>
 </tr></table>
