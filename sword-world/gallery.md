@@ -29,4 +29,15 @@
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/symphony_of_monsters.jpg" height="240"><br/><b>モンスターたちの交響曲ソード・ワールドRPGリプレイ集〈2〉</b><br/>Symphony of Monsters: Sword World Replay 2<br/>1990</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/endless_improvisation.jpg" height="240"><br/><b>終わりなき即興曲ソード・ワールドRPGリプレイ集〈3〉</b><br/>Endless Improvisation: Sword World Replay 3<br/>1991</td>
 </tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/makai_ruler.jpg" height="240"><br/><b>魔境の支配者ソード・ワールドRPGリプレイ集〈4〉</b><br/>Makai Ruler: Sword World Replay 4<br/>1992</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/south_sea_victor.jpg" height="240"><br/><b>南海の勝利者ソード・ワールドRPGリプレイ集〈5〉</b><br/>South Sea Victor: Sword World Replay 5<br/>1993</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/regain_20_000_gamel.jpg" height="240"><br/><b>2万ガメルを取り返せ! ソード・ワールドRPGリプレイ集</b><br/>Regain 20,000 Gamel! Sword World Replay 6<br/>1994</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/chaos_sorcerors_challenge.jpg" height="240"><br/><b>混沌魔術師の挑戦―ソード・ワールドRPGリプレイ集〈7〉</b><br/>Chaos Sorceror's Challenge: Sword World Replay 7<br/>1994</td>
+</tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/darkness_lurking_village_deceased.jpg" height="240"><br/><b>亡者の村に潜む闇ソード・ワールドRPGリプレイ集〈8〉</b><br/>Darkness Lurking in the Village of the Deceased: Sword World Replay 8<br/>1995</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/bablies_forever.jpg" height="240"><br/><b>バブリーズ・フォーエバーソード・ワールドRPGリプレイ集〈9〉</b><br/>Bablies Forever: Sword World Replay 9<br/>1995</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/talk_down_the_assassin.jpg" height="240"><br/><b>アサシンをやりこめろ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈1〉</b><br/>Talk Down the Assassin! Sword World Replay Collection 1<br/>1996</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/leave_it_to_the_adventurer.jpg" height="240"><br/><b>アドベンチャラーに任せとけ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈2〉</b><br/>Leave it to the Adventurer! Sword World Replay Collection 2<br/>1996</td>
+</tr><tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/heroes_gather_at_treasure_map.jpg" height="240"><br/><b>宝の地図に勇者が集う―ソード・ワールドRPGリプレイ集アンマント財宝編〈1〉</b><br/>Heroes Gather at the Treasure Map: Sword World Replace Collection 1<br/>1997</td>
 </tr></table>
