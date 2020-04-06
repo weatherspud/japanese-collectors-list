@@ -1,4 +1,4 @@
-dirs = adventure-hero-books comptiq fantasy-file fighting-fantasy magius operation roads-to-lord sword-world traveller warlock
+dirs = adventure-hero-books comptiq fantasy-file fighting-fantasy magius operation roads-to-lord sword-world traveller tunnels-trolls warlock
 targets = $(patsubst %,%/gallery.md,$(dirs))
 
 all: $(targets)
