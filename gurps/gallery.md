@@ -14,11 +14,11 @@
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_yoma_nocturnal.jpg" height="240"><br/><b>闇紀行―ガープス・妖魔夜行・データ集</b><br/>Dark Journey: GURPS Creatures of the Night: Data Collection<br/>1995</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/youmaiso_mystery_case.jpg" height="240"><br/><b>妖魔荘の怪事件―ガープス・妖魔夜行・アドベンチャー</b><br/>Yomaiso Mystery Case: GURPS Creatures of the Night Adventure<br/>1995</td>
 </tr><tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/tokyo_crises.jpg" height="240"><br/><b>東京クライシス―ガープス・妖魔夜行リプレイ</b><br/>Tokyo Crisis: GURPS Creatures of the Night Replay<br/>1996</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/tokyo_crisis.jpg" height="240"><br/><b>東京クライシス―ガープス・妖魔夜行リプレイ</b><br/>Tokyo Crisis: GURPS Creatures of the Night Replay<br/>1996</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/horrible_chess_game.jpg" height="240"><br/><b>戦慄のチェスゲーム : ガープス・妖魔夜行リプレイ</b><br/>Chess Game of Dread: GURPS Creatures of the Night Replay<br/>1997</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/ring-dream.jpg" height="240"><br/><b>ガープス・リング★ドリーム―女子プロレス最強伝説</b><br/>GURPS Ring Dream: Legend of the Strongest Female Wrestling<br/>1994</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/ring-dream-replay.jpg" height="240"><br/><b>ガープス・リング★ドリーム・リプレイ―少女たちのテンカウント</b><br/>GURPS Ring Dream Replay: Girls Countout<br/>1995</td>
 </tr><tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon.jpg_small" height="240"><br/><b>ガープス・コクーン コメディファンタジーRPG</b><br/>GURPS Cocoon: Comedy Fantasy RPG<br/>1996</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon.jpg" height="240"><br/><b>ガープス・コクーン コメディファンタジーRPG</b><br/>GURPS Cocoon: Comedy Fantasy RPG<br/>1996</td>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon_adventure.jpg" height="240"><br/><b>騒げ、悪党たち!―ガープス・コクーン・アドベンチャー</b><br/>Uproar, the Villains! GURPS Cacoon Adventure<br/>1996</td>
 </tr></table>
