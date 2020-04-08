@@ -20,5 +20,5 @@
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/ring-dream-replay.jpg" height="240"><br/><b>ガープス・リング★ドリーム・リプレイ―少女たちのテンカウント</b><br/>GURPS Ring Dream Replay: Girls Countout<br/>1995</td>
 </tr><tr>
 <td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon.jpg" height="240"><br/><b>ガープス・コクーン コメディファンタジーRPG</b><br/>GURPS Cocoon: Comedy Fantasy RPG<br/>1996</td>
-<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon_adventure.jpg" height="240"><br/><b>騒げ、悪党たち!―ガープス・コクーン・アドベンチャー</b><br/>Uproar, the Villains! GURPS Cacoon Adventure<br/>1996</td>
+<td valign="top"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon_adventure.jpg" height="240"><br/><b>騒げ、悪党たち!―ガープス・コクーン・アドベンチャー</b><br/>Uproar, the Villains! GURPS Cocoon Adventure<br/>1996</td>
 </tr></table>
