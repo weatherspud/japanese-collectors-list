@@ -22,4 +22,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/rebellion.jpg" height="240"><br/><b>反乱軍ソースブック</b><br/>Rebellion Sourcebook<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/knight_fall.jpg" height="240"><br/><b>ナイトフォール</b><br/>Knightfall<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/hard_times.jpg" height="240"><br/><b>ハードタイムズ</b><br/>Hard Times<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/megatraveller_imperial_encyclopedia.jpg" height="240"><br/><b>メガトラベラー帝国百科</b><br/>MegaTraveller Imperial Encyclopedia<br/></td>
+</tr><tr>
 </tr></table>
