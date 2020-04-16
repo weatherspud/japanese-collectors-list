@@ -1,6 +1,6 @@
 <table><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/prisoners_of_pax_tharkas2.jpg" height="240"><br/><b>パックス砦の囚人</b><br/>Prisoners of Pax Tharkas<br/>1985</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/prisoners_of_pax_tharkas1.jpg" height="240"><br/><b>パックス砦の囚人</b><br/>Prisoners of Pax Tharkas<br/>1985</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/prisoners_of_pax_tharkas2.jpg" height="240"><br/><b>パックス砦の囚人</b><br/>Prisoners of Pax Tharkas<br/>1985</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/the_ghost_tower1.jpg" height="240"><br/><b>ゴーストタワーの魂の石</b><br/>The Ghost Tower<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/the_ghost_tower2.png" height="240"><br/><b>ゴーストタワーの魂の石</b><br/>The Ghost Tower<br/>1986</td>
 </tr><tr>
