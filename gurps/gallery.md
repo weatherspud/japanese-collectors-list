@@ -21,4 +21,10 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon.jpg" height="240"><br/><b>ガープス・コクーン コメディファンタジーRPG</b><br/>GURPS Cocoon: Comedy Fantasy RPG<br/>1996</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_cocoon_adventure.jpg" height="240"><br/><b>騒げ、悪党たち!―ガープス・コクーン・アドベンチャー</b><br/>Uproar, the Villains! GURPS Cocoon Adventure<br/>1996</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_runal.jpg" height="240"><br/><b>ガープス・ルナル</b><br/>GURPS Runal<br/>1992</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_runal_monster.jpg" height="240"><br/><b>ガープス・ルナル・モンスター</b><br/>GURPS Runal Monster<br/>1994</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_runal_companion.jpg" height="240"><br/><b>ガープス・ルナル・コンパニオンズ</b><br/>GURPS Runal Companions<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_runal_adv.jpg" height="240"><br/><b>ガープス・ルナル・アドベンチャー 鬼面都市の冒険</b><br/>GURPS Runal Adventure: Demon Plane City<br/>1993</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/gurps/gurps_runal_adv2.jpg" height="240"><br/><b>ガープス・ルナル・アドベンチャー 月を追うものたち</b><br/>GURPS Runal Adventure: Those Who Chase the Moon<br/>1995</td>
 </tr></table>
