@@ -19,4 +19,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/seventh_wizard.jpg" height="240"><br/><b>第七の魔法使い</b><br/>Seventh Wizard<br/>1992</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/xevious.jpg" height="240"><br/><b>ゼビウス</b><br/>Xevious<br/>1985</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/one_fascinated_by_the_devil.jpg" height="240"><br/><b>悪魔に魅せられし者</b><br/>One Fascinated by the Devil<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/magical_heroes.jpg" height="240"><br/><b>魔宮の勇者たち</b><br/>Magical Heroes<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/destruction_of_the_demon_world.jpg" height="240"><br/><b>魔界の滅亡</b><br/>Destruction of the Demon World<br/>1986</td>
 </tr></table>
