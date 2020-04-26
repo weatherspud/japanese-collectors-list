@@ -32,4 +32,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/neverland_apple.jpg" height="240"><br/><b>ネバーランドのリンゴ</b><br/>Apple of Neverland<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/nilfheim_lily.jpg" height="240"><br/><b>ニフルハイムのユリ</b><br/>Lily of Nilfheim<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pumpkinman_of_neverland.jpg" height="240"><br/><b>ネバーランドのカボチャ男</b><br/>Pumpkinman of Neverland<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/birth_of_wolfhead.jpg" height="240"><br/><b>ウルフヘッドの誕生</b><br/>Birth of the Wolfhead<br/>1989</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/wolfhead_strikes_back.jpg" height="240"><br/><b>ウルフヘッドの逆襲</b><br/>The Wolfhead Strikes Back<br/>1989</td>
 </tr></table>
