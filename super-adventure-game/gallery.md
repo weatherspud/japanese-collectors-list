@@ -22,4 +22,14 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/one_fascinated_by_the_devil.jpg" height="240"><br/><b>悪魔に魅せられし者</b><br/>One Fascinated by the Devil<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/magical_heroes.jpg" height="240"><br/><b>魔宮の勇者たち</b><br/>Magical Heroes<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/destruction_of_the_demon_world.jpg" height="240"><br/><b>魔界の滅亡</b><br/>Destruction of the Demon World<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/dragon_buster.jpg" height="240"><br/><b>ドラゴンバスター</b><br/>Dragon Buster<br/>1987</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/labyrinth_dragon.jpg" height="240"><br/><b>迷宮のドラゴン</b><br/>Labyrinth Dragon<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pyramid_mystery.jpg" height="240"><br/><b>ピラミッドの謎</b><br/>Pyramid Mystery<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/legend_of_the_key_of_time.jpg" height="240"><br/><b>時の鍵伝説</b><br/>Legend of the Key of Time<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/kais_adventure.jpg" height="240"><br/><b>カイの冒険</b><br/>Kai's Adventure<br/>1990</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/neverland_apple.jpg" height="240"><br/><b>ネバーランドのリンゴ</b><br/>Apple of Neverland<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/nilfheim_lily.jpg" height="240"><br/><b>ニフルハイムのユリ</b><br/>Lily of Nilfheim<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pumpkinman_of_neverland.jpg" height="240"><br/><b>ネバーランドのカボチャ男</b><br/>Pumpkinman of Neverland<br/>1990</td>
 </tr></table>
