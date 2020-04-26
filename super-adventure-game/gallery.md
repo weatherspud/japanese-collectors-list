@@ -35,4 +35,11 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/birth_of_wolfhead.jpg" height="240"><br/><b>ウルフヘッドの誕生</b><br/>Birth of the Wolfhead<br/>1989</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/wolfhead_strikes_back.jpg" height="240"><br/><b>ウルフヘッドの逆襲</b><br/>The Wolfhead Strikes Back<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/vampire_cave.jpg" height="240"><br/><b>吸血鬼の洞窟</b><br/>Crypt of the Vampire<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/demon_king_of_fort_shadow.jpg" height="240"><br/><b>シャドー砦の魔王</b><br/>The Lord of Shadow Keep<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/temple_of_the_flame.jpg" height="240"><br/><b>炎の神殿 </b><br/>The Temple of Flame<br/>1986</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/castle_of_lost_souls.jpg" height="240"><br/><b>失われた魂の城</b><br/>Castle of Lost Souls<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/eye_of_the_dragon.jpg" height="240"><br/><b>ドラゴンの目</b><br/>The Eye of the Dragon<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/curse_of_the_pharaoh.jpg" height="240"><br/><b>ファラオの呪い</b><br/>Curse of the Pharaoh<br/>1986</td>
 </tr></table>
