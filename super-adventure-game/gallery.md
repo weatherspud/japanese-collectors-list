@@ -46,5 +46,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/way_of_wizardry.jpg" height="240"><br/><b>魔法使いへの道</b><br/>The Way of Wizardry<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/elven_crystals.jpg" height="240"><br/><b>エルフのクリスタル</b><br/>The Elven Crystals<br/>1991</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/conpiracy_of_the_dark_order.jpg" height="240"><br/><b>クトゥルー・ゲームブック暗黒教団の陰謀</b><br/>Cthulhu Gamebook: Conspiracy of the Dark Order<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/conspiracy_of_the_dark_order.jpg" height="240"><br/><b>クトゥルー・ゲームブック暗黒教団の陰謀</b><br/>Cthulhu Gamebook: Conspiracy of the Dark Order<br/>1987</td>
 </tr></table>
