@@ -49,7 +49,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/conspiracy_of_the_dark_order.jpg" height="240"><br/><b>クトゥルー・ゲームブック暗黒教団の陰謀</b><br/>Cthulhu Gamebook: Conspiracy of the Dark Order<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/treachery_in_draken_wood.jpg" height="240"><br/><b>魔王の地下要塞</b><br/>Treachery in Draken-Wood<br/>1987</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/fortress_of_the_firelord" height="240"><br/><b>ファイアーロードの砦 </b><br/>Fortress of the Firelord<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/fortress_of_the_firelord.jpg" height="240"><br/><b>ファイアーロードの砦 </b><br/>Fortress of the Firelord<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/painting_at_the_exhibition.jpg" height="240"><br/><b>展覧会の絵</b><br/>Painting at the Exhibition<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/super_black_onyx.jpg" height="240"><br/><b>スーパー・ブラックオニキス</b><br/>Super Black Onyx<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pantacle.jpg" height="240"><br/><b>パンタクル</b><br/>Pantacle<br/>1989</td>
