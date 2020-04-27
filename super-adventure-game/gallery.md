@@ -47,4 +47,14 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/way_of_wizardry.jpg" height="240"><br/><b>魔法使いへの道</b><br/>The Way of Wizardry<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/elven_crystals.jpg" height="240"><br/><b>エルフのクリスタル</b><br/>The Elven Crystals<br/>1991</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/conspiracy_of_the_dark_order.jpg" height="240"><br/><b>クトゥルー・ゲームブック暗黒教団の陰謀</b><br/>Cthulhu Gamebook: Conspiracy of the Dark Order<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/treachery_in_draken_wood.jpg" height="240"><br/><b>魔王の地下要塞</b><br/>Treachery in Draken-Wood<br/>1987</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/fortress_of_the_firelord" height="240"><br/><b>ファイアーロードの砦 </b><br/>Fortress of the Firelord<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/painting_at_the_exhibition.jpg" height="240"><br/><b>展覧会の絵</b><br/>Painting at the Exhibition<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/super_black_onyx.jpg" height="240"><br/><b>スーパー・ブラックオニキス</b><br/>Super Black Onyx<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pantacle.jpg" height="240"><br/><b>パンタクル</b><br/>Pantacle<br/>1989</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/teens_pantacle.jpg" height="240"><br/><b>ティーンズ・パンタクル</b><br/>Teens Pantacle<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/pantacle2.jpg" height="240"><br/><b>パンタクル2</b><br/>Pantacle 2<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/sleeping_dragon_lavance.jpg" height="240"><br/><b>眠れる竜ラヴァンス</b><br/>Sleeping Dragon Lavance<br/>1986</td>
 </tr></table>
