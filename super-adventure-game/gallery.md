@@ -42,4 +42,9 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/castle_of_lost_souls.jpg" height="240"><br/><b>失われた魂の城</b><br/>Castle of Lost Souls<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/eye_of_the_dragon.jpg" height="240"><br/><b>ドラゴンの目</b><br/>The Eye of the Dragon<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/curse_of_the_pharaoh.jpg" height="240"><br/><b>ファラオの呪い</b><br/>Curse of the Pharaoh<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/dragon_warriors.jpg" height="240"><br/><b>ドラゴンの戦士</b><br/>Dragon Warriors<br/>1990</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/way_of_wizardry.jpg" height="240"><br/><b>魔法使いへの道</b><br/>The Way of Wizardry<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/elven_crystals.jpg" height="240"><br/><b>エルフのクリスタル</b><br/>The Elven Crystals<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/conpiracy_of_the_dark_order.jpg" height="240"><br/><b>クトゥルー・ゲームブック暗黒教団の陰謀</b><br/>Cthulhu Gamebook: Conspiracy of the Dark Order<br/>1987</td>
 </tr></table>
