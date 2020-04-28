@@ -94,7 +94,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199002.jpg" height="240"><br/><b>No. 75 February 1990</b></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199003.jpg" height="240"><br/><b>No. 76 March 1990</b></td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199004.jpg" height="240"><br/><b>No. 77 Apri 1990</b></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199004.jpg" height="240"><br/><b>No. 77 April 1990</b></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199009.jpg" height="240"><br/><b>No.1 1990 Autumn</b></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199012.jpg" height="240"><br/><b>No 2 1990 Winter</b></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199103.jpg" height="240"><br/><b>No. 3 1991 Spring</b></td>
