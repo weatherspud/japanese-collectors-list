@@ -24,10 +24,4 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/sun_county.jpg" height="240"><br/><b>サンカウンティ</b><br/>Sun County<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/trollpak.jpg" height="240"><br/><b>トロウルパック</b><br/>Trollpak<br/></td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/gurps_runal.jpg" height="240"><br/><b>ガープス・ルナル</b><br/>GURPS Runal<br/>1992</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/gurps_runal_monster.jpg" height="240"><br/><b>ガープス・ルナル・モンスター</b><br/>GURPS Runal Monster<br/>1994</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/gurps_runal_companion.jpg" height="240"><br/><b>ガープス・ルナル・コンパニオンズ</b><br/>GURPS Runal Companions<br/></td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/gurps_runal_adv.jpg" height="240"><br/><b>ガープス・ルナル・アドベンチャー 鬼面都市の冒険</b><br/>GURPS Runal Adventure: Demon Plane City<br/>1993</td>
-</tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/runequest/gurps_runal_adv2.jpg" height="240"><br/><b>ガープス・ルナル・アドベンチャー 月を追うものたち</b><br/>GURPS Runal Adventure: Those Who Chase the Moon<br/>1995</td>
 </tr></table>
