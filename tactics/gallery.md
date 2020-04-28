@@ -104,4 +104,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199201.jpg" height="240"><br/><b>No. 6 1992 Winter</b></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/199204.jpg" height="240"><br/><b>No. 7 1992 Spring</b></td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/rpg_special_issue_1.jpg" height="240"><br/><b>Tactics 別冊 RPG マガジン No. 1</b></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tactics/rpg_special_issue_2.jpg" height="240"><br/><b>Tactics 別冊 RPG マガジン No. 2</b></td>
 </tr></table>
