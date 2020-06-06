@@ -5,4 +5,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/advanced-fighting-fantasy/riddling_reaver.jpg" height="240"><br/><b>謎かけ盗賊 ファイティング・ファンタジーRPGシナリオ</b><br/>The Riddling Reaver: Fighting Fantasy RPG Scenario<br/>1990</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/advanced-fighting-fantasy/titan.jpg" height="240"><br/><b>タイタン ファイティング・ファンタジーの世界</b><br/>Titan: The World of Fighting Fantasy<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/advanced-fighting-fantasy/titan_returns.jpg" height="240"><br/><b>タイタンふたたび—アドバンスト・ファイティング・ファンタジー・RPGリプレイ集</b><br/>Titan Returns: Advanced Fighting Fantasy RPG Replay Collection<br/>1991</td>
 </tr></table>
