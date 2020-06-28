@@ -18,23 +18,23 @@ checklist.csv: $(checklists)
 	  > $@
 
 stats.category:
-	echo "CATEGORY:"
-	csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$1}' \
+	@echo "CATEGORY:"
+	@csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$1}' \
 	  | sort | uniq -c | sort -nr
 
-stats.category:
-	echo "PRODUCT TYPE:"
-	csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$2}' \
+stats.product_type:
+	@echo "PRODUCT TYPE:"
+	@csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$2}' \
 	  | sort | uniq -c | sort -nr
 
 stats.publisher:
-	echo "PUBLISHER:"
-	csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$5}' \
+	@echo "PUBLISHER:"
+	@csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$5}' \
 	  | sort | uniq -c | sort -nr
 
 stats.year:
-	echo "YEAR:"
-	csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$6}' \
+	@echo "YEAR:"
+	@csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$6}' \
 	  | sort | uniq -c | sort -nr
 
-
+stats: stats.category stats.product_type stats.publisher stats.year
