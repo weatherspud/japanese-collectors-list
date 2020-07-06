@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import csv
 import os
 import sys
@@ -26,7 +26,7 @@ def checklist(paths, fout):
                     outrow.insert(0, category)
                     writer.writerow(outrow)
                 else:
-                    header = row
+                    header = [o.lstrip('\ufeff') for o in row]
                     assert('japanese' in header)
 
 
