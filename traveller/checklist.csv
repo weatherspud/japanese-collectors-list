@@ -1,21 +1,20 @@
-﻿year,japanese,english,publisher,image
-1984,トラベラー,Traveller,Hobby Japan,traveller.jpg
-,研究基地ガンマ,Research Station Gamma,Hobby Japan,research_station_gamma.jpg
-,宇宙海軍,High Guard,Hobby Japan,high_guard.jpg
-,黄昏の峰へ,Twilight's Peak,Hobby Japan,twilights_peak.jpg
-,レフリーアクセサリー,Referee's Accessories,Hobby Japan,referees_accessories.jpg
-,傭兵部隊,Mercenary,Hobby Japan,mercenary.jpg
-,偵察局,Scouts,Hobby Japan,scouts.jpg
-,トラベラーアドベンチャー,Traveller Adventure,Hobby Japan,traveller_adventure.jpg
-,ロボットマニュアル,Robot Manual,Hobby Japan,robot_manual.jpg
-,砂漠の傭兵,Uraqyad'n of the Seven Pillars,Hobby Japan,uraqyadn.jpg
-,インペリウム,Imperium,Hobby Japan,imperium.jpg
-,メイデイ,Mayday,Hobby Japan,mayday.jpg
-,アザンティ・ハイ・ライトニング,Azhanti High Lightning,Hobby Japan,azhanti_high_lightning.jpg
-,第五次辺境戦争,Fifth Frontier War,Hobby Japan,fifth_frontier_war.jpg
-,メガトラベラー,MegaTraveller,Hobby Japan,megatraveller.jpg
-,トラベラーハンドブック,Traveller Handbook,Hobby Japan,traveller_handbook.jpg
-,反乱軍ソースブック,Rebellion Sourcebook,Hobby Japan,rebellion.jpg
-,ナイトフォール,Knightfall,Hobby Japan,knight_fall.jpg
-,ハードタイムズ,Hard Times,Hobby Japan,hard_times.jpg
-,メガトラベラー帝国百科,MegaTraveller Imperial Encyclopedia,Hobby Japan,megatraveller_imperial_encyclopedia.jpg
+﻿year,japanese,english,publisher,image,product_type
+1984,トラベラー,Traveller,Hobby Japan,traveller.jpg,box set
+1984,研究基地ガンマ,Research Station Gamma,Hobby Japan,research_station_gamma.jpg,box set
+1985,宇宙海軍,High Guard,Hobby Japan,high_guard.jpg,box set
+1985,黄昏の峰へ,Twilight's Peak,Hobby Japan,twilights_peak.jpg,box set
+1987,レフリーアクセサリー,Referee's Accessories,Hobby Japan,referees_accessories.jpg,box set
+1986,傭兵部隊,Mercenary,Hobby Japan,mercenary.jpg,box set
+1988,偵察局,Scouts,Hobby Japan,scouts.jpg,box set
+1988,トラベラーアドベンチャー,Traveller Adventure,Hobby Japan,traveller_adventure.jpg,box set
+1989,ロボットマニュアル,Robot Manual,Hobby Japan,robot_manual.jpg,box set
+,砂漠の傭兵,Uraqyad'n of the Seven Pillars,Hobby Japan,uraqyadn.jpg,box set
+,インペリウム,Imperium,Hobby Japan,imperium.jpg,box set
+1985,メイデイ,Mayday,Hobby Japan,mayday.jpg,box set
+,アザンティ・ハイ・ライトニング,Azhanti High Lightning,Hobby Japan,azhanti_high_lightning.jpg,box set
+,第五次辺境戦争,Fifth Frontier War,Hobby Japan,fifth_frontier_war.jpg,box set
+1987,トラベラーハンドブック,Traveller Handbook,Hobby Japan,traveller_handbook.jpg,rulebook
+1991,メガトラベラー,MegaTraveller,Hobby Japan,megatraveller.jpg,box set
+,反乱軍ソースブック,Rebellion Sourcebook,Hobby Japan,rebellion.jpg,supplement
+,ナイトフォール,Knightfall,Hobby Japan,knight_fall.jpg,scenario
+,ハードタイムズ,Hard Times,Hobby Japan,hard_times.jpg,scenario
