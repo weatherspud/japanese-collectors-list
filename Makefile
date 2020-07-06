@@ -35,6 +35,6 @@ stats.publisher:
 stats.year:
 	@echo "YEAR:"
 	@csv-to-tab checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$6}' \
-	  | sort | uniq -c | sort -nr
+	  | sort | uniq -c | sort -k2,2 -n
 
 stats: stats.category stats.product_type stats.publisher stats.year
