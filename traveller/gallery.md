@@ -11,10 +11,10 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/robot_manual.jpg" height="240"><br/><b>ロボットマニュアル</b><br/>Robot Manual<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/uraqyadn.jpg" height="240"><br/><b>砂漠の傭兵</b><br/>Uraqyad'n of the Seven Pillars<br/></td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/imperium.jpg" height="240"><br/><b>インペリウム</b><br/>Imperium<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/imperium.jpg" height="240"><br/><b>インペリウム</b><br/>Imperium<br/>1985</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/mayday.jpg" height="240"><br/><b>メイデイ</b><br/>Mayday<br/>1985</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/azhanti_high_lightning.jpg" height="240"><br/><b>アザンティ・ハイ・ライトニング</b><br/>Azhanti High Lightning<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/azhanti_high_lightning.jpg" height="240"><br/><b>アザンティ・ハイ・ライトニング</b><br/>Azhanti High Lightning<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/fifth_frontier_war.jpg" height="240"><br/><b>第五次辺境戦争</b><br/>Fifth Frontier War<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/traveller_handbook.jpg" height="240"><br/><b>トラベラーハンドブック</b><br/>Traveller Handbook<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/megatraveller.jpg" height="240"><br/><b>メガトラベラー</b><br/>MegaTraveller<br/>1991</td>
