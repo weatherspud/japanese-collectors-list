@@ -1,48 +1,48 @@
-﻿year,japanese,english,publisher,image
-1985,魔法使いの丘,The Shamutanti Hills,Tokyo Sogensha,sorcery1.jpg
-1985,城砦都市カーレ,Kharé – Cityport of Traps,Tokyo Sogensha,sorcery2.jpg
-1985,七匹の大蛇,The Seven Serpents,Tokyo Sogensha,sorcery3.jpg
-1985,王たちの冠,The Crown of Kings,Tokyo Sogensha,sorcery4.jpg
-1985,ファイティング・ファンタジー,Fighting Fantasy Basic Rulebook,Tokyo Sogensha,fighting_fantasy.jpg
-1985,バック・トゥ・ザ・フューチャー,Back to the Future,Tokyo Sogensha,back_to_the_future.jpg
-1986,デュマレスト・ゲームブック・巨大コンピュータの謎,Dumarest Gamebook: Giant Computer Mystery,Tokyo Sogensha,giant_computer_mystery.jpg
-1988,デュマレスト・ゲームブック・惑星不時着,Dumarest Gamebook: Planet Landing,Tokyo Sogensha,planet_landing.jpg
-1988,紅蓮の騎士,Guren Knight,Tokyo Sogensha,guren_knight.jpg
-1989,暗黒の聖地,Dark Sacred Place,Tokyo Sogensha,dark_sacred_place.jpg
-1988,ベルゼブルの竜,Beezebul the Dragon,Tokyo Sogensha,beezebul_the_dragon.jpg
-1990,夜の馬,Horse of Night,Tokyo Sogensha,horse_of_night.jpg
-1989,エクセア,Ekusea,Tokyo Sogensha,ekusea.jpg
-1992,ギャランス・ハート,Gyrarance Heart,Tokyo Sogensha,gyarance_heart.jpg
-1992,第七の魔法使い,Seventh Wizard,Tokyo Sogensha,seventh_wizard.jpg
-1985,ゼビウス,Xevious,Tokyo Sogensha,xevious.jpg
-1986,悪魔に魅せられし者,One Fascinated by the Devil,Tokyo Sogensha,one_fascinated_by_the_devil.jpg
-1986,魔宮の勇者たち,Magical Heroes,Tokyo Sogensha,magical_heroes.jpg
-1986,魔界の滅亡,Destruction of the Demon World,Tokyo Sogensha,destruction_of_the_demon_world.jpg
-1987,ドラゴンバスター,Dragon Buster,Tokyo Sogensha,dragon_buster.jpg
-1988,迷宮のドラゴン,Labyrinth Dragon,Tokyo Sogensha,labyrinth_dragon.jpg
-1989,ピラミッドの謎,Pyramid Mystery,Tokyo Sogensha,pyramid_mystery.jpg
-1989,時の鍵伝説,Legend of the Key of Time,Tokyo Sogensha,legend_of_the_key_of_time.jpg
-1990,カイの冒険,Kai's Adventure,Tokyo Sogensha,kais_adventure.jpg
-1986,ネバーランドのリンゴ,Apple of Neverland,Tokyo Sogensha,neverland_apple.jpg
-1987,ニフルハイムのユリ,Lily of Nilfheim,Tokyo Sogensha,nilfheim_lily.jpg
-1990,ネバーランドのカボチャ男,Pumpkinman of Neverland,Tokyo Sogensha,pumpkinman_of_neverland.jpg
-1989,ウルフヘッドの誕生,Birth of the Wolfhead,Tokyo Sogensha,birth_of_wolfhead.jpg
-1989,ウルフヘッドの逆襲,The Wolfhead Strikes Back,Tokyo Sogensha,wolfhead_strikes_back.jpg
-1986,吸血鬼の洞窟,Crypt of the Vampire,Tokyo Sogensha,vampire_cave.jpg
-1986,シャドー砦の魔王,The Lord of Shadow Keep,Tokyo Sogensha,demon_king_of_fort_shadow.jpg
-1986,炎の神殿 ,The Temple of Flame,Tokyo Sogensha,temple_of_the_flame.jpg
-1986,失われた魂の城,Castle of Lost Souls,Tokyo Sogensha,castle_of_lost_souls.jpg
-1986,ドラゴンの目,The Eye of the Dragon,Tokyo Sogensha,eye_of_the_dragon.jpg
-1986,ファラオの呪い,Curse of the Pharaoh,Tokyo Sogensha,curse_of_the_pharaoh.jpg
-1990,ドラゴンの戦士,Dragon Warriors,Tokyo Sogensha,dragon_warriors.jpg
-1990,魔法使いへの道,The Way of Wizardry,Tokyo Sogensha,way_of_wizardry.jpg
-1991,エルフのクリスタル,The Elven Crystals,Tokyo Sogensha,elven_crystals.jpg
-1987,クトゥルー・ゲームブック暗黒教団の陰謀,Cthulhu Gamebook: Conspiracy of the Dark Order,Tokyo Sogensha,conspiracy_of_the_dark_order.jpg
-1987,魔王の地下要塞,Treachery in Draken-Wood,Tokyo Sogensha,treachery_in_draken_wood.jpg
-1987,ファイアーロードの砦 ,Fortress of the Firelord,Tokyo Sogensha,fortress_of_the_firelord.jpg
-1987,展覧会の絵,Painting at the Exhibition,Tokyo Sogensha,painting_at_the_exhibition.jpg
-1987,スーパー・ブラックオニキス,Super Black Onyx,Tokyo Sogensha,super_black_onyx.jpg
-1989,パンタクル,Pantacle,Tokyo Sogensha,pantacle.jpg
-1990,ティーンズ・パンタクル,Teens Pantacle,Tokyo Sogensha,teens_pantacle.jpg
-1991,パンタクル2,Pantacle 2,Tokyo Sogensha,pantacle2.jpg
-1986,眠れる竜ラヴァンス,Sleeping Dragon Lavance,Tokyo Sogensha,sleeping_dragon_lavance.jpg
+﻿year,japanese,english,publisher,image,product_type
+1985,魔法使いの丘,The Shamutanti Hills,Tokyo Sogensha,sorcery1.jpg,gamebook
+1985,城砦都市カーレ,Kharé – Cityport of Traps,Tokyo Sogensha,sorcery2.jpg,gamebook
+1985,七匹の大蛇,The Seven Serpents,Tokyo Sogensha,sorcery3.jpg,gamebook
+1985,王たちの冠,The Crown of Kings,Tokyo Sogensha,sorcery4.jpg,gamebook
+1985,ファイティング・ファンタジー,Fighting Fantasy Basic Rulebook,Tokyo Sogensha,fighting_fantasy.jpg,gamebook
+1985,バック・トゥ・ザ・フューチャー,Back to the Future,Tokyo Sogensha,back_to_the_future.jpg,gamebook
+1986,デュマレスト・ゲームブック・巨大コンピュータの謎,Dumarest Gamebook: Giant Computer Mystery,Tokyo Sogensha,giant_computer_mystery.jpg,gamebook
+1988,デュマレスト・ゲームブック・惑星不時着,Dumarest Gamebook: Planet Landing,Tokyo Sogensha,planet_landing.jpg,gamebook
+1988,紅蓮の騎士,Guren Knight,Tokyo Sogensha,guren_knight.jpg,gamebook
+1989,暗黒の聖地,Dark Sacred Place,Tokyo Sogensha,dark_sacred_place.jpg,gamebook
+1988,ベルゼブルの竜,Beezebul the Dragon,Tokyo Sogensha,beezebul_the_dragon.jpg,gamebook
+1990,夜の馬,Horse of Night,Tokyo Sogensha,horse_of_night.jpg,gamebook
+1989,エクセア,Ekusea,Tokyo Sogensha,ekusea.jpg,gamebook
+1992,ギャランス・ハート,Gyrarance Heart,Tokyo Sogensha,gyarance_heart.jpg,gamebook
+1992,第七の魔法使い,Seventh Wizard,Tokyo Sogensha,seventh_wizard.jpg,gamebook
+1985,ゼビウス,Xevious,Tokyo Sogensha,xevious.jpg,gamebook
+1986,悪魔に魅せられし者,One Fascinated by the Devil,Tokyo Sogensha,one_fascinated_by_the_devil.jpg,gamebook
+1986,魔宮の勇者たち,Magical Heroes,Tokyo Sogensha,magical_heroes.jpg,gamebook
+1986,魔界の滅亡,Destruction of the Demon World,Tokyo Sogensha,destruction_of_the_demon_world.jpg,gamebook
+1987,ドラゴンバスター,Dragon Buster,Tokyo Sogensha,dragon_buster.jpg,gamebook
+1988,迷宮のドラゴン,Labyrinth Dragon,Tokyo Sogensha,labyrinth_dragon.jpg,gamebook
+1989,ピラミッドの謎,Pyramid Mystery,Tokyo Sogensha,pyramid_mystery.jpg,gamebook
+1989,時の鍵伝説,Legend of the Key of Time,Tokyo Sogensha,legend_of_the_key_of_time.jpg,gamebook
+1990,カイの冒険,Kai's Adventure,Tokyo Sogensha,kais_adventure.jpg,gamebook
+1986,ネバーランドのリンゴ,Apple of Neverland,Tokyo Sogensha,neverland_apple.jpg,gamebook
+1987,ニフルハイムのユリ,Lily of Nilfheim,Tokyo Sogensha,nilfheim_lily.jpg,gamebook
+1990,ネバーランドのカボチャ男,Pumpkinman of Neverland,Tokyo Sogensha,pumpkinman_of_neverland.jpg,gamebook
+1989,ウルフヘッドの誕生,Birth of the Wolfhead,Tokyo Sogensha,birth_of_wolfhead.jpg,gamebook
+1989,ウルフヘッドの逆襲,The Wolfhead Strikes Back,Tokyo Sogensha,wolfhead_strikes_back.jpg,gamebook
+1986,吸血鬼の洞窟,Crypt of the Vampire,Tokyo Sogensha,vampire_cave.jpg,gamebook
+1986,シャドー砦の魔王,The Lord of Shadow Keep,Tokyo Sogensha,demon_king_of_fort_shadow.jpg,gamebook
+1986,炎の神殿 ,The Temple of Flame,Tokyo Sogensha,temple_of_the_flame.jpg,gamebook
+1986,失われた魂の城,Castle of Lost Souls,Tokyo Sogensha,castle_of_lost_souls.jpg,gamebook
+1986,ドラゴンの目,The Eye of the Dragon,Tokyo Sogensha,eye_of_the_dragon.jpg,gamebook
+1986,ファラオの呪い,Curse of the Pharaoh,Tokyo Sogensha,curse_of_the_pharaoh.jpg,gamebook
+1990,ドラゴンの戦士,Dragon Warriors,Tokyo Sogensha,dragon_warriors.jpg,gamebook
+1990,魔法使いへの道,The Way of Wizardry,Tokyo Sogensha,way_of_wizardry.jpg,gamebook
+1991,エルフのクリスタル,The Elven Crystals,Tokyo Sogensha,elven_crystals.jpg,gamebook
+1987,クトゥルー・ゲームブック暗黒教団の陰謀,Cthulhu Gamebook: Conspiracy of the Dark Order,Tokyo Sogensha,conspiracy_of_the_dark_order.jpg,gamebook
+1987,魔王の地下要塞,Treachery in Draken-Wood,Tokyo Sogensha,treachery_in_draken_wood.jpg,gamebook
+1987,ファイアーロードの砦 ,Fortress of the Firelord,Tokyo Sogensha,fortress_of_the_firelord.jpg,gamebook
+1987,展覧会の絵,Painting at the Exhibition,Tokyo Sogensha,painting_at_the_exhibition.jpg,gamebook
+1987,スーパー・ブラックオニキス,Super Black Onyx,Tokyo Sogensha,super_black_onyx.jpg,gamebook
+1989,パンタクル,Pantacle,Tokyo Sogensha,pantacle.jpg,gamebook
+1990,ティーンズ・パンタクル,Teens Pantacle,Tokyo Sogensha,teens_pantacle.jpg,gamebook
+1991,パンタクル2,Pantacle 2,Tokyo Sogensha,pantacle2.jpg,gamebook
+1986,眠れる竜ラヴァンス,Sleeping Dragon Lavance,Tokyo Sogensha,sleeping_dragon_lavance.jpg,gamebook
