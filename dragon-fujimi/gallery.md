@@ -161,4 +161,19 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/1998011.jpg" height="240"><br/><b>1998/11</b><br/><br/>1998</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/1998012.jpg" height="240"><br/><b>1998/12</b><br/><br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199901.jpg" height="240"><br/><b>1999/1</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199902.jpg" height="240"><br/><b>1999/2</b><br/><br/>1999</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199903.jpg" height="240"><br/><b>1999/3</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199904.jpg" height="240"><br/><b>1999/4</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199905.jpg" height="240"><br/><b>1999/5</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199906.jpg" height="240"><br/><b>1999/6</b><br/><br/>1999</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199907.jpg" height="240"><br/><b>1999/7</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199908.jpg" height="240"><br/><b>1999/8</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199909.jpg" height="240"><br/><b>1999/9</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199910.jpg" height="240"><br/><b>1999/10</b><br/><br/>1999</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199911.jpg" height="240"><br/><b>1999/11</b><br/><br/>1999</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dragon-fujimi/199912.jpg" height="240"><br/><b>1999/12</b><br/><br/>1999</td>
 </tr></table>
