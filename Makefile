@@ -1,4 +1,4 @@
-early_dirs = adnd-adventure-game-book advanced-fighting-fantasy adventure-hero-books call-of-cthulhu comp-rpg comptiq crystania dengeki-adventures dnd-media-works dnd-shinwa dragon-fujimi dragon-shinwa el-genesis enterprise fantasy-file fighting-fantasy game-graphix gamers-field gear-antique gurps hayakawa horai-school james-bond-007 logout magius mechwarrior metalhead new-goddess-reincarnation official-dnd-magazine oka-shujin operation phantasm-adventure record-of-lodoss-war roads-to-lord rpg-dragon rpg-fantasy-encyclopedia rpg-magazine runequest seven-fortress shakaishisosha-original-gamebook star-quest super-adventure-game sword-world tactics tokyo-nova traveller tunnels-trolls tunnels-trolls-kadokawa warlock wares-blade warhammer warps witch-quest wizardry ys
+early_dirs = adnd-adventure-game-book advanced-fighting-fantasy adventure-hero-books call-of-cthulhu comp-rpg comptiq crystania dengeki-adventures dnd-media-works dnd-shinwa dragon-fujimi dragon-shinwa el-genesis enterprise fantasy-file fighting-fantasy game-graphix gamers-field gear-antique gurps hayakawa horai-school james-bond-007 logout magius mechwarrior metalhead monster-maker new-goddess-reincarnation official-dnd-magazine oka-shujin operation phantasm-adventure record-of-lodoss-war roads-to-lord rpg-dragon rpg-fantasy-encyclopedia rpg-magazine runequest seven-fortress shakaishisosha-original-gamebook star-quest super-adventure-game sword-world tactics tokyo-nova traveller tunnels-trolls tunnels-trolls-kadokawa warlock wares-blade warhammer warps witch-quest wizardry ys
 early_targets = $(patsubst %,%/gallery.md,$(early_dirs))
 
 early_checklists = $(patsubst %,%/checklist.csv,$(early_dirs))
@@ -16,6 +16,10 @@ clean:
 early_checklist.csv: $(early_checklists)
 	./checklist.py $^ \
 	  > $@
+
+stats.total:
+	@echo "TOTAL:"
+	@tail +2 early_checklist.csv | wc -l
 
 stats.category:
 	@echo "CATEGORY:"
@@ -37,4 +41,4 @@ stats.year:
 	@csv-to-tab early_checklist.csv | awk 'BEGIN{FS="\t"} NR > 1 {print $$6}' \
 	  | sort | uniq -c | sort -k2,2 -n
 
-stats: stats.category stats.product_type stats.publisher stats.year
+stats: stats.total stats.category stats.product_type stats.publisher stats.year
