@@ -15,4 +15,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/lords_of_doom.jpg" height="240"><br/><b>ドラゴンランス・アドベンチャー 奪われた竜の</b><br/>Lords of Doom<br/>1987</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/clash_of_the_sorcerers.jpg" height="240"><br/><b>魔法の王国3 魔域の対決</b><br/>Clash of the Sorcerers<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/castle_arcania.jpg" height="240"><br/><b>アルカニア城の決闘</b><br/>Castle Arcania<br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/battle_for_ancient_robot.jpg" height="240"><br/><b>超古代ロボットを探せ </b><br/>Battle for the Ancient Robot<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/revenge_of_red_dragon.jpg" height="240"><br/><b>レッド・ドラゴンの逆襲</b><br/>Revenge of the Red Dragon<br/>1987</td>
+</tr><tr>
 </tr></table>
