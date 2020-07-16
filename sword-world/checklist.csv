@@ -1,35 +1,35 @@
-﻿year,japanese,english,publisher,image,product_type
-1989,ソード・ワールドRPG,Sword World RPG,Fujimi Shobo,sword_world.jpg,rulebook
-1990,ソード・ワールドRPG上級ルール〈分冊1〉,Sword World RPG Advanced Rules Part 1,Fujimi Shobo,supplement1.jpg,supplement
-1990,ソード・ワールドRPG上級ルール〈分冊2〉,Sword World RPG Advanced Rules Part 2,Fujimi Shobo,supplement2.jpg,supplement
-1996,ソード・ワールドRPG「Q&Aブック」,Sword World RPG Q&A Book,Fujimi Shobo,sword_world_qna_book.jpg,supplement
-1996,ソード・ワールドRPG 完全版,Sword World RPG Complete Edition,Fujimi Shobo,sword_world_complete.jpg,rulebook
-1997,ソード・ワールドRPGスタート・ブック,Sword World RPG Start Book,Fujimi Shobo,sword_world_start_book.jpg,rulebook
-2004,ソード・ワールドRPGベーシック ,Sword World RPG Basic,Fujimi Shobo,sword_world_basic.jpg,rulebook
-1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide.jpg,supplement
-1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide_alt.jpg,supplement
-1996,西部諸国ワールドガイド,Western Countries World Guide,Fujimi Shobo,western_countries_world_guide.jpg,supplement
-1989,石巨人の迷宮,Stone Giant Labyrinth,Fujimi Shobo,stone_giant_labyrinth.jpg,scenario
-1989,ユニコーンの探索,Unicorn Quest,Fujimi Shobo,unicorn_quest.jpg,scenario
-1990,四大魔術師の塔,Tower of the Four Great Wizards,Fujimi Shobo,tower_of_four_great_wizards.jpg,scenario
-1991,虹の水晶宮,Rainbow Crystal Palace,Fujimi Shobo,rainbow_crystal_palace.jpg,scenario
-1991,闇からの脅威,Threat from Darkness,Fujimi Shobo,threat_from_darkness.jpg,scenario
-1992,猫だけが知っている,Only Cats Know,Fujimi Shobo,only_cats_know.jpg,scenario
-1993,異界への門,Gates to Another World,Fujimi Shobo,gates_to_another_world.jpg,scenario
-1993,バラールの館,Ballard House,Fujimi Shobo,ballard_house.jpg,scenario
-1995,世界の果ての壁,World's End Wall,Fujimi Shobo,worlds_end_wall.jpg,scenario
-1997,黒き魔人の森,Forest of the Black Demon,Fujimi Shobo,forest_of_the_black_demon.jpg,scenario
-1997,悪魔が闇に踊る街,The City Where the Devil Dances in the Dark,Fujimi Shobo,city_where_devil_dances_in_the_dark.jpg,scenario
-1989,盗賊たちの狂詩曲ソード・ワールドRPGリプレイ集〈1〉,Rhapsody of Rogues: Sword World Replay 1,Fujimi Shobo,rhapsody_of_rogues.jpg,replay
-1990,モンスターたちの交響曲ソード・ワールドRPGリプレイ集〈2〉,Symphony of Monsters: Sword World Replay 2,Fujimi Shobo,symphony_of_monsters.jpg,replay
-1991,終わりなき即興曲ソード・ワールドRPGリプレイ集〈3〉,Endless Improvisation: Sword World Replay 3,Fujimi Shobo,endless_improvisation.jpg,replay
-1992,魔境の支配者ソード・ワールドRPGリプレイ集〈4〉,Makai Ruler: Sword World Replay 4,Fujimi Shobo,makai_ruler.jpg,replay
-1993,南海の勝利者ソード・ワールドRPGリプレイ集〈5〉,South Sea Victor: Sword World Replay 5,Fujimi Shobo,south_sea_victor.jpg,replay
-1994,2万ガメルを取り返せ! ソード・ワールドRPGリプレイ集,"Regain 20,000 Gamel! Sword World Replay 6",Fujimi Shobo,regain_20_000_gamel.jpg,replay
-1994,混沌魔術師の挑戦―ソード・ワールドRPGリプレイ集〈7〉,Chaos Sorceror's Challenge: Sword World Replay 7,Fujimi Shobo,chaos_sorcerors_challenge.jpg,replay
-1995,亡者の村に潜む闇ソード・ワールドRPGリプレイ集〈8〉,Darkness Lurking in the Village of the Deceased: Sword World Replay 8,Fujimi Shobo,darkness_lurking_village_deceased.jpg,replay
-1995,バブリーズ・フォーエバーソード・ワールドRPGリプレイ集〈9〉,Bablies Forever: Sword World Replay 9,Fujimi Shobo,bablies_forever.jpg,replay
-1996,アサシンをやりこめろ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈1〉,Talk Down the Assassin! Sword World Replay Collection 1,Fujimi Shobo,talk_down_the_assassin.jpg,replay
-1996,アドベンチャラーに任せとけ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈2〉,Leave It To the Adventurer: Sword World Replay Collection 2,Fujimi Shobo,leave_it_to_the_adventurer.jpg,replay
-1997,宝の地図に勇者が集う―ソード・ワールドRPGリプレイ集アンマント財宝編〈1〉,Heroes Gather at the Treasure Map: Sword World Replay Collection 1,Fujimi Shobo,heroes_gather_at_treasure_map.jpg,replay
-1998,大迷宮に勇者が挑ソード・ワールドRPGリプレイ集アンマント財宝編2,A Hero Challenges a Large Labyrinth: Sword World Replay Collection 2,Fujimi Shobo,hero_challenges_large_labyrinth.jpg,replay
+﻿year,japanese,english,publisher,image,product_type,product_code
+1989,ソード・ワールドRPG,Sword World RPG,Fujimi Shobo,sword_world.jpg,rulebook,6-1
+1990,ソード・ワールドRPG上級ルール〈分冊1〉,Sword World RPG Advanced Rules Part 1,Fujimi Shobo,supplement1.jpg,supplement,6-5
+1990,ソード・ワールドRPG上級ルール〈分冊2〉,Sword World RPG Advanced Rules Part 2,Fujimi Shobo,supplement2.jpg,supplement,6-5
+1996,ソード・ワールドRPG「Q&Aブック」,Sword World RPG Q&A Book,Fujimi Shobo,sword_world_qna_book.jpg,supplement,6-28
+1996,ソード・ワールドRPG 完全版,Sword World RPG Complete Edition,Fujimi Shobo,sword_world_complete.jpg,rulebook,
+1997,ソード・ワールドRPGスタート・ブック,Sword World RPG Start Book,Fujimi Shobo,sword_world_start_book.jpg,rulebook,6-35
+2004,ソード・ワールドRPGベーシック ,Sword World RPG Basic,Fujimi Shobo,sword_world_basic.jpg,rulebook,
+1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide.jpg,supplement,
+1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide_alt.jpg,supplement,
+1996,西部諸国ワールドガイド,Western Countries World Guide,Fujimi Shobo,western_countries_world_guide.jpg,supplement,
+1989,石巨人の迷宮,Stone Giant Labyrinth,Fujimi Shobo,stone_giant_labyrinth.jpg,scenario,6-2
+1989,ユニコーンの探索,Unicorn Quest,Fujimi Shobo,unicorn_quest.jpg,scenario,6-3
+1990,四大魔術師の塔,Tower of the Four Great Wizards,Fujimi Shobo,tower_of_four_great_wizards.jpg,scenario,6-8
+1991,虹の水晶宮,Rainbow Crystal Palace,Fujimi Shobo,rainbow_crystal_palace.jpg,scenario,6-9
+1991,闇からの脅威,Threat from Darkness,Fujimi Shobo,threat_from_darkness.jpg,scenario,6-11
+1992,猫だけが知っている,Only Cats Know,Fujimi Shobo,only_cats_know.jpg,scenario,6-13
+1993,異界への門,Gates to Another World,Fujimi Shobo,gates_to_another_world.jpg,scenario,6-15
+1993,バラールの館,Ballard House,Fujimi Shobo,ballard_house.jpg,scenario,
+1995,世界の果ての壁,World's End Wall,Fujimi Shobo,worlds_end_wall.jpg,scenario,6-20
+1997,黒き魔人の森,Forest of the Black Demon,Fujimi Shobo,forest_of_the_black_demon.jpg,scenario,6-27
+1997,悪魔が闇に踊る街,The City Where the Devil Dances in the Dark,Fujimi Shobo,city_where_devil_dances_in_the_dark.jpg,scenario,
+1989,盗賊たちの狂詩曲ソード・ワールドRPGリプレイ集〈1〉,Rhapsody of Rogues: Sword World Replay 1,Fujimi Shobo,rhapsody_of_rogues.jpg,replay,6-4
+1990,モンスターたちの交響曲ソード・ワールドRPGリプレイ集〈2〉,Symphony of Monsters: Sword World Replay 2,Fujimi Shobo,symphony_of_monsters.jpg,replay,6-7
+1991,終わりなき即興曲ソード・ワールドRPGリプレイ集〈3〉,Endless Improvisation: Sword World Replay 3,Fujimi Shobo,endless_improvisation.jpg,replay,6-10
+1992,魔境の支配者ソード・ワールドRPGリプレイ集〈4〉,Makai Ruler: Sword World Replay 4,Fujimi Shobo,makai_ruler.jpg,replay,
+1993,南海の勝利者ソード・ワールドRPGリプレイ集〈5〉,South Sea Victor: Sword World Replay 5,Fujimi Shobo,south_sea_victor.jpg,replay,
+1994,2万ガメルを取り返せ! ソード・ワールドRPGリプレイ集,"Regain 20,000 Gamel! Sword World Replay 6",Fujimi Shobo,regain_20_000_gamel.jpg,replay,
+1994,混沌魔術師の挑戦―ソード・ワールドRPGリプレイ集〈7〉,Chaos Sorceror's Challenge: Sword World Replay 7,Fujimi Shobo,chaos_sorcerors_challenge.jpg,replay,
+1995,亡者の村に潜む闇ソード・ワールドRPGリプレイ集〈8〉,Darkness Lurking in the Village of the Deceased: Sword World Replay 8,Fujimi Shobo,darkness_lurking_village_deceased.jpg,replay,
+1995,バブリーズ・フォーエバーソード・ワールドRPGリプレイ集〈9〉,Bablies Forever: Sword World Replay 9,Fujimi Shobo,bablies_forever.jpg,replay,
+1996,アサシンをやりこめろ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈1〉,Talk Down the Assassin! Sword World Replay Collection 1,Fujimi Shobo,talk_down_the_assassin.jpg,replay,
+1996,アドベンチャラーに任せとけ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈2〉,Leave It To the Adventurer: Sword World Replay Collection 2,Fujimi Shobo,leave_it_to_the_adventurer.jpg,replay,
+1997,宝の地図に勇者が集う―ソード・ワールドRPGリプレイ集アンマント財宝編〈1〉,Heroes Gather at the Treasure Map: Sword World Replay Collection 1,Fujimi Shobo,heroes_gather_at_treasure_map.jpg,replay,
+1998,大迷宮に勇者が挑ソード・ワールドRPGリプレイ集アンマント財宝編2,A Hero Challenges a Large Labyrinth: Sword World Replay Collection 2,Fujimi Shobo,hero_challenges_large_labyrinth.jpg,replay,
