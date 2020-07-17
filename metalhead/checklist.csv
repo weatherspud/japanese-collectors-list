@@ -1,10 +1,10 @@
-﻿year,japanese,english,publisher,image
-1990,メタルヘッド,Metal Head,Hobby Japan,metalhead.jpg
-,Metal Head Backup Screen,Metalhead Backup Screen,Hobby Japan,backup_screen.jpg
-,クロムビート,Chrome Beat,Hobby Japan,chromebeat.jpg
-,コアストライク,Core Strike,Hobby Japan,corestrike.jpg
-,Metal Head Hand Book,Metal Head Hand Book,Hobby Japan,frontier_2150_handbook.jpg
-,ハードブレイク,Hard Break,Hobby Japan,hardbreak.jpg
-,ヘビーソルジャー,Heavy Soldier,Hobby Japan,heavy_soldier.jpg
-,サイクロン,Psy-Clone,Hobby Japan,psyclone.jpg
-,ヴァーチャル・シティ,Virtual City,Hobby Japan,virtual_city.jpg
+﻿year,japanese,english,publisher,image,product_type
+1990,メタルヘッド,Metal Head,Hobby Japan,metalhead.jpg,box set
+,Metal Head Backup Screen,Metalhead Backup Screen,Hobby Japan,backup_screen.jpg,supplement
+,クロムビート,Chrome Beat,Hobby Japan,chromebeat.jpg,box set
+,コアストライク,Core Strike,Hobby Japan,corestrike.jpg,box set
+,Metal Head Hand Book,Metal Head Hand Book,Hobby Japan,frontier_2150_handbook.jpg,rulebook
+,ハードブレイク,Hard Break,Hobby Japan,hardbreak.jpg,scenario
+,ヘビーソルジャー,Heavy Soldier,Hobby Japan,heavy_soldier.jpg,box set
+,サイクロン,Psy-Clone,Hobby Japan,psyclone.jpg,supplement
+,ヴァーチャル・シティ,Virtual City,Hobby Japan,virtual_city.jpg,supplement
