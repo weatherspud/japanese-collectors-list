@@ -6,4 +6,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/mechwarrior/waltz_of_virtual_images.jpg" height="240"><br/><b>虚像たちのワルツ―メックウォリアーRPGリプレイ集 3 </b><br/>Waltz of Virtual Images: Mechwarrior RPG Replay Collection 3<br/>1997</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/mechwarrior/countdown_to_the_end.jpg" height="240"><br/><b>終末へのカウントダウン―メックウォリアーRPGリプレイ集〈4〉</b><br/>Countdown to the End: Mechwarrior RPG Replay Collection 4<br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/mechwarrior/battletech_replay1.jpg" height="240"><br/><b>魔女たちの饗宴ーバトルテック・リプレイ集〈1〉</b><br/>Witch's Feast: Battletech Replay Collection 1<br/>1992</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/mechwarrior/battletech_replay2.jpg" height="240"><br/><b>女神たちの彷徨ーバトルテック・リプレイ集〈2〉</b><br/>Goddess's Wandering: Battletech Replay Collection 2<br/>1993</td>
+</tr><tr>
 </tr></table>

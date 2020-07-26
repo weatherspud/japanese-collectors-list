@@ -1,7 +1,9 @@
-﻿year,japanese,english,publisher,image
-1993,メックウォリア,Mechwarrior,Fujimi Shobo,mechwarrior.jpg
-1993,メックウォリアーRPGシナリオ集(1) 戦乱のタマラー協定領,Mechwarrior RPG Scenario Collection 1: Battle of Tamara: Agreement,Fujimi Shobo,tamar.jpg
-1995,魔弾の射手―メックウォリアーRPGリプレイ集〈1〉,Magic Bullet Shooter: Mechwarrior RPG Replay Collection 1,Fujimi Shobo,magic_bullet_shooter.jpg
-1996,エニウェアの嵐―メックウォリアーRPGリプレイ集〈2〉,Anywhere's Storm: Mechwarrior RPG Replay Collection 2,Fujimi Shobo,anywheres_storm.jpg
-1997,虚像たちのワルツ―メックウォリアーRPGリプレイ集 3 ,Waltz of Virtual Images: Mechwarrior RPG Replay Collection 3,Fujimi Shobo,waltz_of_virtual_images.jpg
-1998,終末へのカウントダウン―メックウォリアーRPGリプレイ集〈4〉,Countdown to the End: Mechwarrior RPG Replay Collection 4,Fujimi Shobo,countdown_to_the_end.jpg
+﻿year,japanese,english,publisher,image,product_type,product_code
+1993,メックウォリア,Mechwarrior,Fujimi Shobo,mechwarrior.jpg,rulebook,
+1993,メックウォリアーRPGシナリオ集(1) 戦乱のタマラー協定領,Mechwarrior RPG Scenario Collection 1: Battle of Tamara: Agreement,Fujimi Shobo,tamar.jpg,scenario,
+1995,魔弾の射手―メックウォリアーRPGリプレイ集〈1〉,Magic Bullet Shooter: Mechwarrior RPG Replay Collection 1,Fujimi Shobo,magic_bullet_shooter.jpg,replay,10-3
+1996,エニウェアの嵐―メックウォリアーRPGリプレイ集〈2〉,Anywhere's Storm: Mechwarrior RPG Replay Collection 2,Fujimi Shobo,anywheres_storm.jpg,replay,10-4
+1997,虚像たちのワルツ―メックウォリアーRPGリプレイ集 3 ,Waltz of Virtual Images: Mechwarrior RPG Replay Collection 3,Fujimi Shobo,waltz_of_virtual_images.jpg,replay,10-5
+1998,終末へのカウントダウン―メックウォリアーRPGリプレイ集〈4〉,Countdown to the End: Mechwarrior RPG Replay Collection 4,Fujimi Shobo,countdown_to_the_end.jpg,replay,10-6
+1992,魔女たちの饗宴ーバトルテック・リプレイ集〈1〉,Witch's Feast: Battletech Replay Collection 1,Fujimi Shobo,battletech_replay1.jpg,replay,10-1
+1993,女神たちの彷徨ーバトルテック・リプレイ集〈2〉,Goddess's Wandering: Battletech Replay Collection 2,Fujimi Shobo,battletech_replay2.jpg,replay,10-2
