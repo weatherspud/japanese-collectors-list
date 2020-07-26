@@ -1,17 +1,17 @@
-﻿year,japanese,english,publisher,image,product_type
-1985,パックス砦の囚人,Prisoners of Pax Tharkas,Fujimi Shobo,prisoners_of_pax_tharkas1.jpg,gamebook
-1985,パックス砦の囚人,Prisoners of Pax Tharkas,Fujimi Shobo,prisoners_of_pax_tharkas2.jpg,gamebook
-1986,ゴーストタワーの魂の石,The Ghost Tower,Fujimi Shobo,the_ghost_tower1.jpg,gamebook
-1986,ゴーストタワーの魂の石,The Ghost Tower,Fujimi Shobo,the_ghost_tower2.png,gamebook
-1986,クォーラス城からの脱出,Escape from Castle Quarras,Fujimi Shobo,escape_from_castle_quarras.jpg,gamebook
-1986,ウェイレスの大魔術師,The Soulforge,Fujimi Shobo,the_soulforge.jpg,gamebook
-1986,忍者への道,Test of the Ninja,Fujimi Shobo,test_of_the_ninja.jpg,gamebook
-1986,暗黒城の領主,Master of Ravenloft,Fujimi Shobo,master_of_ravenloft.jpg,gamebook
-1987,魔法の王国1 魔力の杖,Sceptre of Power,Fujimi Shobo,sceptre_of_power.jpg,gamebook
-1987,ババ・ヤーガの悪夢の王国,Nightmare Realm of Baba Yaga,Fujimi Shobo,nightmare_realm_of_baba_yaga.jpg,gamebook
-1987,魔法の王国2 魔術師の宝冠,The Sorcerer's Crown,Fujimi Shobo,the_sorcerers_crown.jpg,gamebook
-1987,ドラゴンランス・アドベンチャー 奪われた竜の,Lords of Doom,Fujimi Shobo,lords_of_doom.jpg,gamebook
-1987,魔法の王国3 魔域の対決,Clash of the Sorcerers,Fujimi Shobo,clash_of_the_sorcerers.jpg,gamebook
-1986,アルカニア城の決闘,Castle Arcania,Fujimi Shobo,castle_arcania.jpg,gamebook
-1987,超古代ロボットを探せ ,Battle for the Ancient Robot,Fujimi Shobo,battle_for_ancient_robot.jpg,gamebook
-1987,レッド・ドラゴンの逆襲,Revenge of the Red Dragon,Fujimi Shobo,revenge_of_red_dragon.jpg,gamebook
+﻿year,japanese,english,publisher,image,product_type,product_code
+1985,パックス砦の囚人,Prisoners of Pax Tharkas,Fujimi Shobo,prisoners_of_pax_tharkas1.jpg,gamebook,1-1
+1985,パックス砦の囚人,Prisoners of Pax Tharkas,Fujimi Shobo,prisoners_of_pax_tharkas2.jpg,gamebook,1-1
+1986,ゴーストタワーの魂の石,The Ghost Tower,Fujimi Shobo,the_ghost_tower1.jpg,gamebook,1-2
+1986,ゴーストタワーの魂の石,The Ghost Tower,Fujimi Shobo,the_ghost_tower2.png,gamebook,1-2
+1986,クォーラス城からの脱出,Escape from Castle Quarras,Fujimi Shobo,escape_from_castle_quarras.jpg,gamebook,1-3
+1986,ウェイレスの大魔術師,The Soulforge,Fujimi Shobo,the_soulforge.jpg,gamebook,1-4
+1986,忍者への道,Test of the Ninja,Fujimi Shobo,test_of_the_ninja.jpg,gamebook,1-5
+1986,暗黒城の領主,Master of Ravenloft,Fujimi Shobo,master_of_ravenloft.jpg,gamebook,1-6
+1987,魔法の王国1 魔力の杖,Sceptre of Power,Fujimi Shobo,sceptre_of_power.jpg,gamebook,1-7
+1987,ババ・ヤーガの悪夢の王国,Nightmare Realm of Baba Yaga,Fujimi Shobo,nightmare_realm_of_baba_yaga.jpg,gamebook,1-8
+1987,魔法の王国2 魔術師の宝冠,The Sorcerer's Crown,Fujimi Shobo,the_sorcerers_crown.jpg,gamebook,1-9
+1987,ドラゴンランス・アドベンチャー 奪われた竜の,Lords of Doom,Fujimi Shobo,lords_of_doom.jpg,gamebook,1-10
+1987,魔法の王国3 魔域の対決,Clash of the Sorcerers,Fujimi Shobo,clash_of_the_sorcerers.jpg,gamebook,1-11
+1986,アルカニア城の決闘,Castle Arcania,Fujimi Shobo,castle_arcania.jpg,gamebook,
+1987,超古代ロボットを探せ ,Battle for the Ancient Robot,Fujimi Shobo,battle_for_ancient_robot.jpg,gamebook,
+1987,レッド・ドラゴンの逆襲,Revenge of the Red Dragon,Fujimi Shobo,revenge_of_red_dragon.jpg,gamebook,
