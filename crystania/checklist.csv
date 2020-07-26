@@ -1,11 +1,13 @@
-﻿year,japanese,english,publisher,image
-1992,クリスタニアコンパニオン,Crystania Companion,Kadokawa Shoten,crystania_companion.jpg
-1994,クリスタニアRPG ,Crystania RPG,Media Works,crystania_rpg.jpg
-1995,RPGリプレイ漂流伝説クリスタニア,RPG Replay The Drifting Legend Crystania,Media Works,replay1.jpg
-1997,RPGリプレイ蟻帝伝説クリスタニア,RPG Replay The Legend of Ant Empire Crystania,Media Works,replay2.jpg
-1998,RPGリプレイ 黄金伝説クリスタニア,RPG Replay Golden Legend Crystania,Media Works,replay3.jpg
-1994,RPGリプレイ封印伝説クリスタニア ,RPG Replay Sealed Legend Crystania,Media Works,dengeki_replay1.jpg
-1996,RPGリプレイ暗黒伝説クリスタニア,RPG Replay Dark Legend Crystania,Media Works,dengeki_replay2.jpg
-1998,RPGリプレイ傭兵伝説クリスタニア (上),RPG Replay Mercenary Legend Crystania Vol. 1,Media Works,dengeki_replay3a.jpg
-1998,RPGリプレイ 傭兵伝説クリスタニア(下),RPG Replay Mercenary Legend Crystania Vol. 2,Media Works,dengeki_replay3b.jpg
-1998,RPGリプレイ 秘境伝説クリスタニア,RPG Replay Unexplored Legend Crystania,Media Works,dengeki_replay4.jpg
+﻿year,japanese,english,publisher,image,product_type,product_code
+1992,クリスタニアコンパニオン,Crystania Companion,Kadokawa Shoten,crystania_companion.jpg,supplement,
+1994,クリスタニアRPG ,Crystania RPG,Media Works,crystania_rpg.jpg,rulebook,
+1995,RPGリプレイ漂流伝説クリスタニア,RPG Replay The Drifting Legend Crystania,Media Works,replay1.jpg,replay,
+1997,RPGリプレイ蟻帝伝説クリスタニア,RPG Replay The Legend of Ant Empire Crystania,Media Works,replay2.jpg,replay,
+1998,RPGリプレイ 黄金伝説クリスタニア,RPG Replay Golden Legend Crystania,Media Works,replay3.jpg,replay,
+1994,RPGリプレイ封印伝説クリスタニア ,RPG Replay Sealed Legend Crystania,Media Works,dengeki_replay1.jpg,replay,6-1
+1995,RPGリプレイ漂流伝説クリスタニア,RPG Replay Adrift Legend Crystania,Media Works,dengeki_replay5.jpg,replay,6-2
+1996,RPGリプレイ暗黒伝説クリスタニア,RPG Replay Dark Legend Crystania,Media Works,dengeki_replay2.jpg,replay,6-3
+1997,RPGリプレイ蟻帝伝説クリスタニア,RPG Replay Ant Emperor Legend Crystania,Media Works,dengeki_replay6.jpg,replay,6-4
+1998,RPGリプレイ傭兵伝説クリスタニア (上),RPG Replay Mercenary Legend Crystania Vol. 1,Media Works,dengeki_replay3a.jpg,replay,
+1998,RPGリプレイ 傭兵伝説クリスタニア(下),RPG Replay Mercenary Legend Crystania Vol. 2,Media Works,dengeki_replay3b.jpg,replay,
+1998,RPGリプレイ 秘境伝説クリスタニア,RPG Replay Unexplored Legend Crystania,Media Works,dengeki_replay4.jpg,replay,
