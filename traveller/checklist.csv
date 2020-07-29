@@ -1,20 +1,20 @@
-﻿year,japanese,english,publisher,image,product_type
-1984,トラベラー,Traveller,Hobby Japan,traveller.jpg,box set
-1984,研究基地ガンマ,Research Station Gamma,Hobby Japan,research_station_gamma.jpg,box set
-1985,宇宙海軍,High Guard,Hobby Japan,high_guard.jpg,box set
-1985,黄昏の峰へ,Twilight's Peak,Hobby Japan,twilights_peak.jpg,box set
-1987,レフリーアクセサリー,Referee's Accessories,Hobby Japan,referees_accessories.jpg,box set
-1986,傭兵部隊,Mercenary,Hobby Japan,mercenary.jpg,box set
-1988,偵察局,Scouts,Hobby Japan,scouts.jpg,box set
-1988,トラベラーアドベンチャー,Traveller Adventure,Hobby Japan,traveller_adventure.jpg,box set
-1989,ロボットマニュアル,Robot Manual,Hobby Japan,robot_manual.jpg,box set
-,砂漠の傭兵,Uraqyad'n of the Seven Pillars,Hobby Japan,uraqyadn.jpg,box set
-1985,インペリウム,Imperium,Hobby Japan,imperium.jpg,box set
-1985,メイデイ,Mayday,Hobby Japan,mayday.jpg,box set
-1987,アザンティ・ハイ・ライトニング,Azhanti High Lightning,Hobby Japan,azhanti_high_lightning.jpg,box set
-,第五次辺境戦争,Fifth Frontier War,Hobby Japan,fifth_frontier_war.jpg,box set
-1987,トラベラーハンドブック,Traveller Handbook,Hobby Japan,traveller_handbook.jpg,rulebook
-1991,メガトラベラー,MegaTraveller,Hobby Japan,megatraveller.jpg,box set
-,反乱軍ソースブック,Rebellion Sourcebook,Hobby Japan,rebellion.jpg,supplement
-,ナイトフォール,Knightfall,Hobby Japan,knight_fall.jpg,scenario
-,ハードタイムズ,Hard Times,Hobby Japan,hard_times.jpg,scenario
+﻿year,japanese,english,publisher,image,product_type,product_code
+1984,トラベラー,Traveller,Hobby Japan,traveller.jpg,box set,G-251
+1984,研究基地ガンマ,Research Station Gamma,Hobby Japan,research_station_gamma.jpg,box set,G-2511
+1985,宇宙海軍,High Guard,Hobby Japan,high_guard.jpg,box set,G-2512
+1985,黄昏の峰へ,Twilight's Peak,Hobby Japan,twilights_peak.jpg,box set,G-2513
+1987,レフリーアクセサリー,Referee's Accessories,Hobby Japan,referees_accessories.jpg,box set,G-2514
+1986,傭兵部隊,Mercenary,Hobby Japan,mercenary.jpg,box set,G-2515
+1988,偵察局,Scouts,Hobby Japan,scouts.jpg,box set,G-2516
+1988,トラベラーアドベンチャー,Traveller Adventure,Hobby Japan,traveller_adventure.jpg,box set,G-2517
+1989,ロボットマニュアル,Robot Manual,Hobby Japan,robot_manual.jpg,box set,G-2518
+,砂漠の傭兵,Uraqyad'n of the Seven Pillars,Hobby Japan,uraqyadn.jpg,box set,G-F01
+1985,インペリウム,Imperium,Hobby Japan,imperium.jpg,box set,G-802
+1985,メイデイ,Mayday,Hobby Japan,mayday.jpg,box set,G-601
+1987,アザンティ・ハイ・ライトニング,Azhanti High Lightning,Hobby Japan,azhanti_high_lightning.jpg,box set,G-818
+,第五次辺境戦争,Fifth Frontier War,Hobby Japan,fifth_frontier_war.jpg,box set,G-822
+1987,トラベラーハンドブック,Traveller Handbook,Hobby Japan,traveller_handbook.jpg,rulebook,
+1991,メガトラベラー,MegaTraveller,Hobby Japan,megatraveller.jpg,box set,
+,反乱軍ソースブック,Rebellion Sourcebook,Hobby Japan,rebellion.jpg,supplement,
+,ナイトフォール,Knightfall,Hobby Japan,knight_fall.jpg,scenario,
+,ハードタイムズ,Hard Times,Hobby Japan,hard_times.jpg,scenario,
