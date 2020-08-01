@@ -4,7 +4,7 @@ import os
 import sys
 
 PRODUCT_TYPES = ['box set', 'rulebook', 'supplement', 'scenario', 'replay', 'periodical', 'gamebook']
-HEADER = ['product_type', 'japanese', 'english', 'publisher', 'year']
+HEADER = ['product_type', 'japanese', 'english', 'publisher', 'year', 'product_code']
 
 
 def checklist(paths, fout):
