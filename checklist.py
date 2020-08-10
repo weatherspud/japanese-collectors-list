@@ -3,7 +3,7 @@ import csv
 import os
 import sys
 
-PRODUCT_TYPES = ['box set', 'rulebook', 'supplement', 'scenario', 'replay', 'periodical', 'gamebook']
+PRODUCT_TYPES = ['box set', 'rulebook', 'supplement', 'scenario', 'replay', 'periodical', 'gamebook', 'slipcase set']
 HEADER = ['product_type', 'japanese', 'english', 'publisher', 'year', 'product_code']
 
 
