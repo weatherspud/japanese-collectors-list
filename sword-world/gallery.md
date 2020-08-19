@@ -89,4 +89,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/promygy_sudden_turn.jpg" height="240"><br/><b>プロミジー急転!―ソード・ワールドRPGアドベンチャー〈4〉</b><br/>Promygy sudden turn!-Sword World RPG Adventure <4><br/>1996</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/night_breakers_explosion.jpg" height="240"><br/><b>ナイトブレイカーズ爆発!―ソード・ワールドRPGアドベンチャー〈5〉</b><br/>Night Breakers Explosion!-Sword World RPG Adventure <5><br/>1997</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/returning_dragon.png" height="240"><br/><b>帰ってきたドラゴン―西部諸国シアター〈1〉</b><br/>Returning Dragon-Western Countries Theater <1><br/>1997</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/hot_blood_blast.jpg" height="240"><br/><b>熱血爆風!プリンセス―西部諸国シアター〈2〉</b><br/>Hot Blood Blast! Princess-Western Theater <2><br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/mirror_country_war.jpg" height="240"><br/><b>鏡の国の戦争―西部諸国シアター〈3〉</b><br/>Mirror country war-Western countries theater <3><br/>1998</td>
 </tr></table>
