@@ -82,4 +82,11 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/rush_disaster_scholar_sama.jpg" height="240"><br/><b>新ソード・ワールドRPGリプレイ集Waltz〈3〉駆け込み・災厄・学者サマ</b><br/>New Sword World RPG Replay Collection Waltz <3> rush, disaster, scholar Sama<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/kidnapping_yakimochi.jpg" height="240"><br/><b>新ソード・ワールドRPGリプレイ集Waltz〈4〉誘拐・ヤキモチ・すれ違い</b><br/>New Sword World RPG Replay Collection Waltz <4> Kidnapping, Yakimochi, Passing each other<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/oath_conspiracy.jpg" height="240"><br/><b>新ソード・ワールドRPGリプレイ集Waltz5　誓い・陰謀・巣立ちの日</b><br/>New Sword World RPG Replay Collection Waltz 5 Oath, Conspiracy, Leaving Day<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/beldyne_enthusiasm.jpg" height="240"><br/><b>ベルダイン熱狂!―ソード・ワールドRPGアドベンチャー〈1〉</b><br/>Beldyne Enthusiasm!-Sword World RPG Adventure <1><br/>1994</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/albatross_pursuit.jpg" height="240"><br/><b>ソード・ワールドRPGアドベンチャー〈2〉アルバトロス追撃</b><br/>Sword World RPG Adventure <2> Albatross Pursuit<br/>1995</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/tyder_mayhem.jpg" height="240"><br/><b>タイデル騒乱!―ソード・ワールドRPGアドベンチャー〈3〉</b><br/>Tyder Mayhem!-Sword World RPG Adventure <3><br/>1996</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/promygy_sudden_turn.jpg" height="240"><br/><b>プロミジー急転!―ソード・ワールドRPGアドベンチャー〈4〉</b><br/>Promygy sudden turn!-Sword World RPG Adventure <4><br/>1996</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/night_breakers_explosion.jpg" height="240"><br/><b>ナイトブレイカーズ爆発!―ソード・ワールドRPGアドベンチャー〈5〉</b><br/>Night Breakers Explosion!-Sword World RPG Adventure <5><br/>1997</td>
+</tr><tr>
 </tr></table>
