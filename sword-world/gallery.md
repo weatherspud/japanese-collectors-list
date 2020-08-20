@@ -100,4 +100,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/darkness_lurking_village_deceased_2003.jpg" height="240"><br/><b>亡者の村に潜む闇―ソード・ワールドRPGリプレイ集 バブリーズ編〈3〉</b><br/>Darkness Hiding in the Village of the Dead-Sword World RPG Replay Collection Babureeze Edition <3><br/>2003</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/bablies_forever_2003.jpg" height="240"><br/><b>バブリーズ・フォーエバー―ソード・ワールドRPGリプレイ集バブリーズ編〈4〉</b><br/>Babble's Forever-Sword World RPG Replay Collection Babureeze Edition <4><br/>2003</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/detective_appears.jpg" height="240"><br/><b>迷探偵登場!デュダRPGリプレイ集〈1〉</b><br/>The Detective Appears! Duda RPG Replay Collection <1><br/>1995</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/alleged_stone_statue.jpg" height="240"><br/><b>疑惑の石像―デュダRPGリプレイ集〈2〉</b><br/>Alleged Stone Statue-Duda RPG Replay Collection <2><br/>1996</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world/lots_of_detectives.jpg" height="240"><br/><b>迷探偵がいっぱい―デュダRPGリプレイ集〈3〉</b><br/>Lots of Detectives-Duda RPG Replay Collection <3><br/>1997</td>
+</tr><tr>
 </tr></table>
