@@ -19,4 +19,11 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/battle_for_ancient_robot.jpg" height="240"><br/><b>超古代ロボットを探せ </b><br/>Battle for the Ancient Robot<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/revenge_of_red_dragon.jpg" height="240"><br/><b>レッド・ドラゴンの逆襲</b><br/>Revenge of the Red Dragon<br/>1987</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae1.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈1〉魔獣よみがえる</b><br/>Moonshae Saga 1: Revive the Beast<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae2.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈2〉竪琴と一角獣</b><br/>Moonshae Saga 2: Lyre and Unicorn<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae3.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈3〉七人の黒魔術師</b><br/>Moonshae Saga 3: Seven Black Magicians<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae4.jpeg" height="240"><br/><b>ムーンシェイ・サーガ〈4〉死せる王妃の預言</b><br/>Moonshae Saga 4: The Prophecy of the Dead Queen<br/>1989</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae5.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈5〉猫の爪・豹の牙</b><br/>Moonshae Saga 5: Cat's Claws, Panther's Fangs<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/adnd-adventure-game-book/moonshae6.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈6〉暗黒の解放</b><br/>Moonshae Saga 6: The Release of Darkness<br/>1990</td>
 </tr></table>
