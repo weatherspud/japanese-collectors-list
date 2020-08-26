@@ -1,10 +1,10 @@
-﻿year,japanese,english,publisher,image,product_type
-1991,フォーチュン・クエスト・コンパニオン,Fortune Quest Companion,Kadokawa Shoten,fortune_quest.jpg,rulebook
-1995,フォーチュン・クエストRPG,Fortune Quest RPG,Media Works,fortune_quest2.jpg,rulebook
-1997,新フォーチュン・クエスト リプレイ(1) 霧の谷のキノコ,New Fortune Quest Replay 1: Mist Valley Mushroom,Media Works,fortune_quest_replay_1.jpg,replay
-1997,新フォーチュン・クエストリプレイ (2) 鐘の音の響くとき,New Fortune Quest Replay 2: When the Bell Sounds,Media Works,fortune_quest_replay_2.jpg,replay
-1998,新フォーチュン・クエストリプレイ (3) 人形たちの踊る夜,New Fortune Quest Replay 3: Night of the Dancing Dolls,Media Works,fortune_quest_replay_3.jpg,replay
-1999,新フォーチュン・クエスト リプレイ(4) 雪狼と氷の娘,New Fortune Quest Replay 4: Snow Wolf and Ice Girl,Media Works,fortune_quest_replay_4.jpg,replay
-1999,新フォーチュン・クエスト リプレイ(5) 青い海のたからもの,New Fortune Quest Replay 5: Blue Sea Treasure,Media Works,fortune_quest_replay_5.jpg,replay
-2002,新フォーチュン・クエストリプレイ〈6〉はためいわくな夢,New Fortune Quest Replay 6: Fluttering Dream,Media Works,fortune_quest_replay_6.jpg,replay
-2005,フォーチュン・クエストRPG,Fortune Quest RPG,Chara-Ani,fortune_quest_box.jpg,box set
+﻿year,japanese,english,publisher,image,product_type,product_code
+1991,フォーチュン・クエスト・コンパニオン,Fortune Quest Companion,Kadokawa Shoten,fortune_quest.jpg,rulebook,
+1995,フォーチュン・クエストRPG,Fortune Quest RPG,Media Works,fortune_quest2.jpg,rulebook,
+1997,新フォーチュン・クエスト リプレイ(1) 霧の谷のキノコ,New Fortune Quest Replay 1: Mist Valley Mushroom,Media Works,fortune_quest_replay_1.jpg,replay,G-2-1
+1997,新フォーチュン・クエストリプレイ (2) 鐘の音の響くとき,New Fortune Quest Replay 2: When the Bell Sounds,Media Works,fortune_quest_replay_2.jpg,replay,
+1998,新フォーチュン・クエストリプレイ (3) 人形たちの踊る夜,New Fortune Quest Replay 3: Night of the Dancing Dolls,Media Works,fortune_quest_replay_3.jpg,replay,
+1999,新フォーチュン・クエスト リプレイ(4) 雪狼と氷の娘,New Fortune Quest Replay 4: Snow Wolf and Ice Girl,Media Works,fortune_quest_replay_4.jpg,replay,
+1999,新フォーチュン・クエスト リプレイ(5) 青い海のたからもの,New Fortune Quest Replay 5: Blue Sea Treasure,Media Works,fortune_quest_replay_5.jpg,replay,
+2002,新フォーチュン・クエストリプレイ〈6〉はためいわくな夢,New Fortune Quest Replay 6: Fluttering Dream,Media Works,fortune_quest_replay_6.jpg,replay,
+2005,フォーチュン・クエストRPG,Fortune Quest RPG,Chara-Ani,fortune_quest_box.jpg,box set,
