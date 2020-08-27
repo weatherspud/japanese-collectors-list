@@ -1,15 +1,16 @@
-﻿year,japanese,english,publisher,image,product_type
-1987,トンネルズ&トロールズ ファンタジーRPGルールブック,Tunnels & Trolls,Shakaishisosha,tunnels_trolls.jpg,rulebook
-1988,T&Tがよくわかる本,T&T Understand Well,Shakaishisosha,tnt_yoku_wakaru.jpg,supplement
-1989,モンスター!モンスター!T&T RPGシナリオ・追加ルール,Monsters! Monsters!,Shakaishisosha,monsters_monsters.jpg,rulebook
-1991,ハイパー・トンネルズ&トロールズ―ファンタジーRPGルールブック,Hyper Tunnels & Trolls,Shakaishisosha,hyper_tunnels_trolls.jpg,rulebook
-1988,ベア・ダンジョン T&T RPGシナリオ,Bear Dungeon,Shakaishisosha,bear_dungeon.png,scenario
-1990,魔術師の島 T&T RPGシナリオ,Isle of Darksmoke,Shakaishisosha,isle_of_darksmoke.jpg,scenario
-1988,傭兵剣士 T&Tソロ・アドベンチャー,Sword for Hire,Shakaishisosha,mercenary_for_hire.jpg,scenario
-1988,カザンの闘技場 T&T ソロ・アドベンチャー,Arena of Kazan,Shakaishisosha,arena_of_kazan.jpg,scenario
-1988,恐怖の街 T&T ソロ・アドベンチャー,City of Terrors,Shakaishisosha,city_of_terrors.jpg,scenario
-1989,デストラップ T&T ソロ・アドベンチャー,Deathtrap Equalizer,Shakaishisosha,deathtrap_equalizer.jpg,scenario
-1989,鏡の国のダンジョン T&T ソロ・アドベンチャー,Beyond the Silvered Pane,Shakaishisosha,beyond_the_silvered_pane.jpg,scenario
-1990,オーバーキル城 T&T ソロ・アドベンチャー,Overkill,Shakaishisosha,overkill.jpg,scenario
-1990,ゲームマンの挑戦 T&T ソロ・アドベンチャー,Gamesmen of Kasar,Shakaishisosha,gamesmen_of_kasar.jpg,scenario
-1991,嘆きの壁を越えて T&T ソロ・アドベンチャー,Beyond the Wall of Tears,Shakaishisosha,beyond_the_wailing_wall.jpg,scenario
+﻿year,japanese,english,publisher,image,product_type,product_code
+1987,トンネルズ&トロールズ ファンタジーRPGルールブック,Tunnels & Trolls,Shakaishisosha,tunnels_trolls.jpg,rulebook,101
+1988,T&Tがよくわかる本,T&T Understand Well,Shakaishisosha,tnt_yoku_wakaru.jpg,supplement,
+1989,モンスター!モンスター!T&T RPGシナリオ・追加ルール,Monsters! Monsters!,Shakaishisosha,monsters_monsters.jpg,rulebook,110
+1991,ハイパー・トンネルズ&トロールズ―ファンタジーRPGルールブック,Hyper Tunnels & Trolls,Shakaishisosha,hyper_tunnels_trolls.jpg,rulebook,124
+1988,ベア・ダンジョン T&T RPGシナリオ,Bear Dungeon,Shakaishisosha,bear_dungeon.png,scenario,
+1990,魔術師の島 T&T RPGシナリオ,Isle of Darksmoke,Shakaishisosha,isle_of_darksmoke.jpg,scenario,107
+1988,傭兵剣士 T&Tソロ・アドベンチャー,Sword for Hire,Shakaishisosha,mercenary_for_hire.jpg,scenario,102
+1988,カザンの闘技場 T&T ソロ・アドベンチャー,Arena of Kazan,Shakaishisosha,arena_of_kazan.jpg,scenario,103
+1988,恐怖の街 T&T ソロ・アドベンチャー,City of Terrors,Shakaishisosha,city_of_terrors.jpg,scenario,104
+1989,デストラップ T&T ソロ・アドベンチャー,Deathtrap Equalizer,Shakaishisosha,deathtrap_equalizer.jpg,scenario,105
+1989,鏡の国のダンジョン T&T ソロ・アドベンチャー,Beyond the Silvered Pane,Shakaishisosha,beyond_the_silvered_pane.jpg,scenario,106
+1990,オーバーキル城 T&T ソロ・アドベンチャー,Overkill,Shakaishisosha,overkill.jpg,scenario,112
+1990,ゲームマンの挑戦 T&T ソロ・アドベンチャー,Gamesmen of Kasar,Shakaishisosha,gamesmen_of_kasar.jpg,scenario,113
+1991,嘆きの壁を越えて T&T ソロ・アドベンチャー,Beyond the Wall of Tears,Shakaishisosha,beyond_the_wailing_wall.jpg,scenario,114
+,ゲームマスター・スクリーン,Gamemasters Screen,Shakaishisosha,game_masters_screen.jpg,supplement,
