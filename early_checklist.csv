@@ -766,8 +766,8 @@ ghost-hunter,scenario,月光のクリスタル,Moonlight Crystal,ASCII,1994,
 ghost-hunter,rulebook,ゴーストハンターRPG02,Ghosthunter RPG 02,Yellow Submarine,2002,
 ghost-hunter,supplement,モーガン・レポート,Morgan Report,Arclight,2003,
 ghost-hunter,supplement,ワールド・ミステリー・ツアー,World Mystery Tour,Yellow Submarine,2003,
-gundam-dainihonkaiga,rulebook,ガンダムセンチネルRPG,Gundam Sentinel RPG,,1990,
-gundam-dainihonkaiga,rulebook,ガンダム：００７９ ＲＰＧ,Gundam 0079 RPG,,1991,
+gundam-dainihonkaiga,rulebook,ガンダムセンチネルRPG,Gundam Sentinel RPG,Dainihonkaiga,1990,
+gundam-dainihonkaiga,rulebook,ガンダム：００７９ ＲＰＧ,Gundam 0079 RPG,Dainihonkaiga,1991,
 gurps,rulebook,ガープス・ベーシック―汎用RPGルールブック,GURPS Basic: General Purpose RPG Rulebook,Kadokawa Shoten,1992,614-1
 gurps,supplement,ガープス・マジック―汎用RPG呪文ガイド,GURPS Magic: General Purpose RPG Spell Guide,Kadokawa Shoten,1993,614-2
 gurps,supplement,ガープス・ルナル,GURPS Runal,Kadokawa Shoten,1992,614-20
@@ -1210,7 +1210,7 @@ sengoku-reiden,rulebook,戦国霊異伝,Sengoku Reiden,Kirameki,1993,
 seven-fortress,box set,セブン＝フォートレス,Seven Fortress,Hobby Japan,1996,
 seven-fortress,rulebook,セブン＝フォートレス Advanced,Seven Fortress Advanced,Aspect,1998,
 seven-fortress,rulebook,セブン＝フォートレス クラシック,Seven Fortress Classic,Game Field,1999,
-seven-fortress,supplement,セブン＝フォートレス EX,Seven Fortress EX,,2001,
+seven-fortress,supplement,セブン＝フォートレス EX,Seven Fortress EX,Game Field,2001,
 seven-fortress,replay,アルセイルの氷砦,Arsale Ice Fort,Game Field,1997,
 seven-fortress,replay,アルセイルの氷砦,Arsale Ice Fort (Advanced),Game Field,2000,
 seven-fortress,replay,フォーラの森砦,Fora Fortress Fort,Game Field,2002,
@@ -1536,13 +1536,13 @@ tunnels-trolls,scenario,オーバーキル城 T&T ソロ・アドベンチャー
 tunnels-trolls,scenario,ゲームマンの挑戦 T&T ソロ・アドベンチャー,Gamesmen of Kasar,Shakaishisosha,1990,113
 tunnels-trolls,scenario,嘆きの壁を越えて T&T ソロ・アドベンチャー,Beyond the Wall of Tears,Shakaishisosha,1991,114
 tunnels-trolls,supplement,ゲームマスター・スクリーン,Gamemasters Screen,Shakaishisosha,,
-tunnels-trolls-kadokawa,rulebook,ハイパーT(トンネルズ)&T(トロールズ)ルールブック,Hyper T&T Rulebook,,1994,805-2
-tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈1〉ハイパーT&Tリプレイ,Dragons' Heaven 1: Hyper T&T Replay,,1994,
-tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈2〉ハイパーT&Tリプレイ,Dragons' Heaven 2: Hyper T&T Replay,,1994,
-tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈3〉ハイパーT&Tリプレイ,Dragons' Heaven 3: Hyper T&T Replay,,1994,
-tunnels-trolls-kadokawa,rulebook,モンスター!モンスター!!,Monsters! Monsters!!,,1995,
-tunnels-trolls-kadokawa,supplement,ドラゴン大陸 ハイパーT＆Tワールドガイド,Dragon Continent: Hyper T&T World Guide,,1995,805-5
-tunnels-trolls-kadokawa,replay,空からの落とし物―ハイパーT&Tリプレイ ,Drops from the Sky: Hyper T&T Replay,,1996,805-7
+tunnels-trolls-kadokawa,rulebook,ハイパーT(トンネルズ)&T(トロールズ)ルールブック,Hyper T&T Rulebook,Kadokawa Shoten,1994,805-2
+tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈1〉ハイパーT&Tリプレイ,Dragons' Heaven 1: Hyper T&T Replay,Kadokawa Shoten,1994,
+tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈2〉ハイパーT&Tリプレイ,Dragons' Heaven 2: Hyper T&T Replay,Kadokawa Shoten,1994,
+tunnels-trolls-kadokawa,replay,ドラゴンズ’ヘヴン〈3〉ハイパーT&Tリプレイ,Dragons' Heaven 3: Hyper T&T Replay,Kadokawa Shoten,1994,
+tunnels-trolls-kadokawa,rulebook,モンスター!モンスター!!,Monsters! Monsters!!,Kadokawa Shoten,1995,
+tunnels-trolls-kadokawa,supplement,ドラゴン大陸 ハイパーT＆Tワールドガイド,Dragon Continent: Hyper T&T World Guide,Kadokawa Shoten,1995,805-5
+tunnels-trolls-kadokawa,replay,空からの落とし物―ハイパーT&Tリプレイ ,Drops from the Sky: Hyper T&T Replay,Kadokawa Shoten,1996,805-7
 twilight-zone-in-school,rulebook,放課後怪奇くらぶ ,Twilight Zone in School,Hobby Japan,1997,
 warlock,periodical,1986/12,,Shakaishisosha,1986,
 warlock,periodical,1987/01,,Shakaishisosha,1987,
