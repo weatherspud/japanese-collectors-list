@@ -15,4 +15,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/moon_song_story.jpg" height="240"><br/><b>月歌物語</b><br/>Melyun Esion<br/></td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/sword_and_magic.jpg" height="240"><br/><b>剣と魔法</b><br/>Severnn & Selmeri<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/beyond_roads_to_lord_primer1.jpg" height="240"><br/><b>ビヨンド・ローズ・トゥ・ロードでわかる実践RPG入門</b><br/>A practical introduction to RPGs by means of Beyond Roads to Lord<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/beyond_roads_to_lord_primer2.jpg" height="240"><br/><b>精霊の大地―ビヨンド・ローズ・トゥ・ロードでわかる実践RPG入門 2</b><br/>Earth Spirits: A practical introduction to RPGs by means of Beyond Roads to Lord Vol 2<br/>1991</td>
 </tr></table>
