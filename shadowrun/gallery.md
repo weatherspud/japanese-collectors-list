@@ -7,4 +7,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/replay2.jpg" height="240"><br/><b>悪夢の刻印―シャドウランリプレイ集〈2〉</b><br/>Nightmare Stamp: Shadowrun Replay Collection 2<br/>1995</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/replay3.jpg" height="240"><br/><b>影への助走―シャドウランリプレイ集〈3〉</b><br/>Run-up to Shadow: Shadowrun Replay Collection 3<br/>1996</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/replay4.jpg" height="240"><br/><b>侵蝕の魔手―シャドウランリプレイ集〈4〉</b><br/>Evil Magic: Shadowrun Replay Collection 4<br/>1997</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/shadowrun_tokyo_eye_shot.jpg" height="240"><br/><b>TOKYO EYE‐SHOT シャドウランシティファイル</b><br/>Tokyo Eye Shot: Shadowrun City File<br/>1995</td>
+</tr><tr>
 </tr></table>

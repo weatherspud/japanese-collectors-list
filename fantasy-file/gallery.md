@@ -45,5 +45,4 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/game_seeds.jpg" height="240"><br/><b>ゲームのタネ</b><br/>Game Seeds<br/>1995</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/mistake_dictionary_for_rpg.jpg" height="240"><br/><b>RPG用誤辞典</b><br/>RPG Mistake Dictionary <br/>1997</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fantasy-file/shadowrun_tokyo_eye_shot.jpg" height="240"><br/><b>TOKYO EYE‐SHOT シャドウランシティファイル</b><br/>Tokyo Eye Shot: Shadowrun City File<br/>1995</td>
 </tr></table>
