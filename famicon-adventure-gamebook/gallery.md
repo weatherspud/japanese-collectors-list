@@ -12,7 +12,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon-quest2a.jpg" height="240"><br/><b>ドラゴンクエストII 悪霊の神々上</b><br/><br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon-quest2b.jpg" height="240"><br/><b>ドラゴンクエストII 悪霊の神々下</b><br/><br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gradius.jpg" height="240"><br/><b>グラディウス 未知との戦い </b><br/><br/>1986</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/mursame-castle.jpg" height="240"><br/><b>謎の村雨城 不思議時代の旅</b><br/><br/>1986</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/murasame-castle.jpg" height="240"><br/><b>謎の村雨城 不思議時代の旅</b><br/><br/>1986</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/castlevania.jpg" height="240"><br/><b>悪魔城ドラキュラ 古城の死闘 </b><br/><br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/castlevania2.jpg" height="240"><br/><b>悪魔城伝説 真正バンパイアハンター</b><br/><br/>1990</td>
