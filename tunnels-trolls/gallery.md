@@ -16,5 +16,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tunnels-trolls/gamesmen_of_kasar.jpg" height="240"><br/><b>ゲームマンの挑戦 T&T ソロ・アドベンチャー</b><br/>Gamesmen of Kasar<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tunnels-trolls/beyond_the_wailing_wall.jpg" height="240"><br/><b>嘆きの壁を越えて T&T ソロ・アドベンチャー</b><br/>Beyond the Wall of Tears<br/>1991</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tunnels-trolls/game_masters_screen.jpg" height="240"><br/><b>ゲームマスター・スクリーン</b><br/>Gamemasters Screen<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tunnels-trolls/game_masters_screen.jpg" height="240"><br/><b>ゲームマスター・スクリーン</b><br/>Gamemaster Screen<br/></td>
 </tr></table>
