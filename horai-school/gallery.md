@@ -6,7 +6,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/master-screen.jpg" height="240"><br/><b>蓬萊学園のついたて</b><br/>Horai School Screen<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/revised-edition.jpg" height="240"><br/><b>蓬萊学園の冒険!! 改訂版</b><br/>Horai School Adventure!! Revised Edition<br/>1995</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/horai_school_living_encyclopedia.jpg" height="240"><br/><b>蓬莱生活事典　蓬莱学園の冒険！！ー改訂版ーサプリメント</b><br/>Horai Life Encyclopedia: Adventure of Horai Gakuen!! Revised version<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/horai_school_living_encyclopedia.jpg" height="240"><br/><b>蓬莱生活事典　蓬莱学園の冒険！！ー改訂版ーサプリメント</b><br/>Horai Life Encyclopedia: Adventure of Horai Gakuen!! Revised Editio<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/horai_gakuen_biographical_dictionary.jpg" height="240"><br/><b>蓬莱学園人名事典</b><br/>Horai Gakuen Biographical Dictionary<br/>1995</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/horai-school/taking_the_exam.jpg" height="240"><br/><b>試験に出る蓬莱学園!</b><br/>Taking the Exam Horai Gakuen<br/>1991</td>
