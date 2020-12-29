@@ -40,4 +40,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/32.jpg" height="240"><br/><b>奈落の帝王</b><br/>Slaves of the Abyss<br/>1990</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/33.jpg" height="240"><br/><b>天空要塞アーロック</b><br/>Sky Lord<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fighting-fantasy/clash-of-princes.jpg" height="240"><br/><b>王子の対決</b><br/>Clash of Princes<br/>1987</td>
 </tr></table>
