@@ -5,6 +5,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/ghost-hunter/voice-calling-apollon-replay.jpg" height="240"><br/><b>アポルオンを呼ぶ声―ゴーストハンターRPGリプレイ</b><br/>Voice Calling Apollon-Ghost Hunter RPG Replay<br/>1995</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/ghost-hunter/ghost_hunter_02.jpg" height="240"><br/><b>ゴーストハンターRPG02</b><br/>Ghosthunter RPG 02<br/>2002</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/ghost-hunter/black-death-mask-replay2.jpg" height="240"><br/><b>ゴーストハンターRPG02リプレイ 黒き死の仮面―草壁健一郎の事件簿</b><br/>Ghost Hunter RPG02 Replay Black Death Mask-Kenichiro Kusakabe's Casebook<br/>2002</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/ghost-hunter/morgan_report.jpg" height="240"><br/><b>モーガン・レポート</b><br/>Morgan Report<br/>2003</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/ghost-hunter/world_mystery_tour.jpg" height="240"><br/><b>ワールド・ミステリー・ツアー</b><br/>World Mystery Tour<br/>2003</td>
+</tr><tr>
 </tr></table>
