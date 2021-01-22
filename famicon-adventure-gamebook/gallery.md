@@ -85,4 +85,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/hero-wataru.jpg" height="240"><br/><b>魔神英雄伝ワタル 異次元の救世主</b><br/>Mashin Hero Wataru, a savior of another dimension<br/>1988</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/hero-wataru2.jpg" height="240"><br/><b>魔神英雄伝ワタル外伝 救世主再び!!</b><br/>Genie Hero Den Wataru Gaiden Savior Again !!<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gakuen-yokai-busters.jpg" height="240"><br/><b>学園妖怪バスターズ 天魔が来た！</b><br/>Gakuen Yokai Busters Tenma is here!<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gakuen-yokai-busters2.jpg" height="240"><br/><b>学園妖怪バスターズ2 大天空丸を救え！</b><br/>Gakuen Yo-Kai Busters 2 Save the Great Sky Maru!<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gakuen-yokai-busters3.jpg" height="240"><br/><b>学園妖怪バスターズ3 ジャングル魔王の恋</b><br/>Gakuen Yokai Busters 3 Jungle Demon King's Love<br/>1989</td>
+</tr><tr>
 </tr></table>
