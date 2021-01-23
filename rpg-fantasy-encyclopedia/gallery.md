@@ -1,8 +1,15 @@
 <table><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/rpg-fantasy-encyclopedia.jpg" height="240"><br/><b>RPG幻想事典</b><br/>RPG Fantasy Encyclopedia<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/japan-edition.png" height="240"><br/><b>RPG幻想事典 日本編</b><br/>RPG Fantasy Encyclopedia Japan<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/chamber-heroes.jpg" height="240"><br/><b>RPG幻想事典チャンバラ英雄伝</b><br/>RPG Fantasy Encyclopedia Chamber Heroes<br/>1993</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/age-of-warriors.jpg" height="240"><br/><b>RPG幻想事典 戦士たちの時代</b><br/>RPG Fantasy Encyclopedia The Age of Warriors<br/>1994</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/wesstern-monster-guide.jpg" height="240"><br/><b>RPG幻想事典モンスターガイド西洋編</b><br/>RPG Fantasy Encyclopedia Monster Guide Western Edition<br/>1994</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/eastern-monster-guide.jpg" height="240"><br/><b>RPG幻想事典モンスターガイド東洋編</b><br/>RPG Fantasy Encyclopedia Monster Guide Eastern Edition<br/>1994</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/item-guide.jpg" height="240"><br/><b>RPG幻想事典 アイテムガイド</b><br/>RPG Fantasy Encyclopedia Item Guide<br/>1995</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/battlefield-maidens.jpg" height="240"><br/><b>RPG幻想事典戦場の乙女たち</b><br/>RPG Fantasy Encyclopedia Battlefield Maidens<br/>1996</td>
+</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/sword_and_magic_museum.jpg" height="240"><br/><b>新説 RPG幻想事典 剣と魔法の博物誌</b><br/>New RPG Fantasy Encyclopedia Sword and Magic Museum<br/>2006</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/monster_edition.jpg" height="240"><br/><b>新説RPG幻想事典 剣と魔法の博物誌~モンスター編~</b><br/>New RPG Fantasy Encyclopedia Sword and Magic Museum: Monster Edition<br/>2008</td>
-</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rpg-fantasy-encyclopedia/monster_edition_vol2.jpg" height="240"><br/><b>新説 RPG幻想事典 剣と魔法の博物誌 ~モンスター編2~</b><br/>New RPG Illusion Encyclopedia Sword and Magic Museum: Monster Edition 2<br/>2009</td>
 </tr></table>
