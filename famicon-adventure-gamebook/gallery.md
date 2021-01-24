@@ -96,4 +96,9 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/kingdom1.jpg" height="240"><br/><b>地層階級王国I まほろばの壁を越えて </b><br/>Strata Class Kingdom I Beyond the Mahoroba Wall<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/kingdom2.jpg" height="240"><br/><b>幻のドラゴン伝説 地層階級王国II </b><br/>Phantom Dragon Legend Geoclass Kingdom II<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/planet-of-the-end.jpg" height="240"><br/><b>終末の惑星 遥かなる西の帝国</b><br/>The Planet of the End The Far West Empire<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/earth-defense-girl-ikochan.jpg" height="240"><br/><b>天空の魔王 地球防衛少女イコちゃん </b><br/>Demon King of the Sky Earth Defense Girl Iko-chan<br/>1988</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/disappearance-in-okhotsk.jpg" height="240"><br/><b>オホーツクに消ゆ</b><br/>Disappearance in Okhotsk<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/miracle-warriors.jpg" height="240"><br/><b>覇邪の封印 バァンドゥラの魔獣</b><br/>Miracle Warriors Bandura's Demon Beast<br/>1988</td>
 </tr></table>
