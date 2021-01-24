@@ -102,6 +102,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/disappearance-in-okhotsk.jpg" height="240"><br/><b>オホーツクに消ゆ</b><br/>Disappearance in Okhotsk<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/miracle-warriors.jpg" height="240"><br/><b>覇邪の封印 バァンドゥラの魔獣</b><br/>Miracle Warriors Bandura's Demon Beast<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/three-people-of-the-galaxy.jpg" height="240"><br/><b>銀河の三人復活のヴィザーン</b><br/>Three People of the Galaxy Resurrection of Vizan<br/>1988</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/" height="240"><br/><b>邪聖剣ネクロマンサー イシュメリアの悪夢</b><br/>Jaseiken Necromancer Nightmare of Ishmeria<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/jaseiken-necromancer.jpg" height="240"><br/><b>邪聖剣ネクロマンサー イシュメリアの悪夢</b><br/>Jaseiken Necromancer Nightmare of Ishmeria<br/>1988</td>
 </tr><tr>
 </tr></table>
