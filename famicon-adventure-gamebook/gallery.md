@@ -94,4 +94,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dimensional-karakuri.jpg" height="240"><br/><b>次元からくり漂流記 タイムマシン冒険号発進</b><br/>Dimensional Karakuri Drifting Record Time Machine Adventure Issue Launched<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dimensional-karakuri2.jpg" height="240"><br/><b>次元からくり漂流記2 ヤマタイ王国を救え！</b><br/>Dimensional Karakuri Drifting Record 2 Save the Kingdom of Yamatai!<br/>1989</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/kingdom1.jpg" height="240"><br/><b>地層階級王国I まほろばの壁を越えて </b><br/>Strata Class Kingdom I Beyond the Mahoroba Wall<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/kingdom2.jpg" height="240"><br/><b>幻のドラゴン伝説 地層階級王国II </b><br/>Phantom Dragon Legend Geoclass Kingdom II<br/>1988</td>
 </tr></table>
