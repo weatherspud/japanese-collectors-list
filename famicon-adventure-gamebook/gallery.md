@@ -89,4 +89,9 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gakuen-yokai-busters2.jpg" height="240"><br/><b>学園妖怪バスターズ2 大天空丸を救え！</b><br/>Gakuen Yo-Kai Busters 2 Save the Great Sky Maru!<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gakuen-yokai-busters3.jpg" height="240"><br/><b>学園妖怪バスターズ3 ジャングル魔王の恋</b><br/>Gakuen Yokai Busters 3 Jungle Demon King's Love<br/>1989</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon-rally.jpg" height="240"><br/><b>魔界横断ドラゴンラリー 栄光への戦い</b><br/>Cross-Makai Dragon Rally Battle for Glory<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon-rally2.jpg" height="240"><br/><b>ドラゴンラリー2 魔界大陸の逆襲</b><br/>Dragon Rally 2 Counterattack on the Makai Continent<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dimensional-karakuri.jpg" height="240"><br/><b>次元からくり漂流記 タイムマシン冒険号発進</b><br/>Dimensional Karakuri Drifting Record Time Machine Adventure Issue Launched<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dimensional-karakuri2.jpg" height="240"><br/><b>次元からくり漂流記2 ヤマタイ王国を救え！</b><br/>Dimensional Karakuri Drifting Record 2 Save the Kingdom of Yamatai!<br/>1989</td>
+</tr><tr>
 </tr></table>
