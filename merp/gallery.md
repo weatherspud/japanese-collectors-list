@@ -6,4 +6,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/merp/riders_of_rohan.jpg" height="240"><br/><b>ローハンの乗り手</b><br/>Riders of Rohan<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/merp/adventure_guidebook.jpg" height="240"><br/><b>ミドルアース言語ガイド</b><br/>Middle-Earth Adventure Guidebook<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/merp/handbook.j[pg" height="240"><br/><b>ミドルアースハンドブック</b><br/>Middle Earth Handbook<br/>1990</td>
 </tr></table>
