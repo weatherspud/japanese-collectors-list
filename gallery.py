@@ -15,21 +15,24 @@ HEADER_IMAGE = 'image'
 def gallery(args):
     checklist_path = os.path.join(args.subdir, 'checklist.csv')
     image_prefix = IMAGE_PREFIX_FMT.format(subdir=args.subdir)
-    with open(checklist_path, encoding='utf-8') as f:
-        reader = csv.reader(f)
-        rows = list(reader)
-        header = [s.strip('\ufeff') for s in rows[0]]
-        print('<table><tr>')
-        for i, row in enumerate(rows[1:]):
-            image = row[header.index(HEADER_IMAGE)]
-            japanese = row[header.index(HEADER_JAPANESE)]
-            english = row[header.index(HEADER_ENGLISH)]
-            year = row[header.index(HEADER_YEAR)]
-            width_pct = int(100.0 / args.items_per_row)
-            print(f'<td valign="top" width="{width_pct}%"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/>{english}<br/>{year}</td>')
-            if i % args.items_per_row == 3:
-                print('</tr><tr>')
-        print('</tr></table>')
+    try:
+        with open(checklist_path, encoding='utf-8') as f:
+            reader = csv.reader(f)
+            rows = list(reader)
+            header = [s.strip('\ufeff') for s in rows[0]]
+            print('<table><tr>')
+            for i, row in enumerate(rows[1:]):
+                image = row[header.index(HEADER_IMAGE)]
+                japanese = row[header.index(HEADER_JAPANESE)]
+                english = row[header.index(HEADER_ENGLISH)]
+                year = row[header.index(HEADER_YEAR)]
+                width_pct = int(100.0 / args.items_per_row)
+                print(f'<td valign="top" width="{width_pct}%"><img src="{image_prefix}/{image}" height="240"><br/><b>{japanese}</b><br/>{english}<br/>{year}</td>')
+                if i % args.items_per_row == 3:
+                    print('</tr><tr>')
+            print('</tr></table>')
+    except FileNotFoundError:
+        sys.stderr.write(f'WARNING not found: {checklist_path}\n')
 
 
 if __name__ == '__main__':
