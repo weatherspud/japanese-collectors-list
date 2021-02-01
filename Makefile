@@ -1,15 +1,13 @@
-game_checklists = $(shell find . -name checklist.csv -depth 2)
+game_checklists = $(patsubst ./%,%,$(shell find . -name checklist.csv -depth 2))
 
-game_dirs = $(patsubst %/checklist.csv,%,$(game_checklists))
+game_galleries = $(patsubst %/checklist.csv,%/gallery.md,$(game_checklists))
 
-game_targets = $(patsubst %/checklist.csv,%/gallery.md,$(game_dirs))
-
-all: $(game_targets) checklist.csv
+all: $(game_galleries) checklist.csv
 
 clean:
 	rm -f $(targets) checklist.csv
 
-%/gallery.md:
+%/gallery.md: %/checklist.csv
 	./gallery.py \
 	  --subdir $* \
 	  > $@
