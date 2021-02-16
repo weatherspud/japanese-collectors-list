@@ -11,4 +11,14 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/contrast-side.jpg" height="240"><br/><b>ントラストサイド</b><br/>Contrast Side<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/heartless-memory.jpg" height="240"><br/><b>ハートレスメモリー</b><br/>Heartless Memory<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/double-cross-3rd.jpg" height="240"><br/><b>ダブルクロス The 3rd Edition ルールブック1</b><br/>Double Cross: The 3rd Edition Rulebook 1<br/>2009</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/double-cross-3rd-v2.jpg" height="240"><br/><b>ダブルクロス The 3rd Edition ルールブック2</b><br/>Double Cross: The 3rd Edition Rulebook 2<br/>2009</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/double-cross-3rd-advanced.jpg" height="240"><br/><b>ダブルクロスThe 3rd Edition 上級ルールブック</b><br/>Double Cross: The 3rd Edition Advanced Rulebook<br/>2009</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/deep-front.jpg" height="240"><br/><b>ディープフロント</b><br/>Deep Front<br/>2009</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/moonless-night.jpg" height="240"><br/><b>ムーンレスナイト</b><br/>Moonless Night<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/public-enemy.jpg" height="240"><br/><b>パブリックエネミー</b><br/>Public Enemy<br/>2010</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/infinity-code.jpg" height="240"><br/><b>インフィニティコード</b><br/>Infinity Code<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/double-cross/discolored-realm.jpg" height="240"><br/><b>ディスカラードレルム</b><br/>Discolored Realm<br/>2011</td>
 </tr></table>
