@@ -19,18 +19,18 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/battle_for_ancient_robot.jpg" height="240"><br/><b>超古代ロボットを探せ </b><br/>Battle for the Ancient Robot<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/revenge_of_red_dragon.jpg" height="240"><br/><b>レッド・ドラゴンの逆襲</b><br/>Revenge of the Red Dragon<br/>1987</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword1.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ1〉勝利の紋章を奪え!</b><br/>The Battlepits of Krath<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword2.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ2〉魔術王をたおせ!</b><br/>The Kingdom of Wyrd<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword3.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ3〉悪魔の爪を折れ!</b><br/>The Demon's Claw<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword4.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ4〉死者の国から還れ!</b><br/>Doomwalk<br/>1989</td>
+</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae1.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈1〉魔獣よみがえる</b><br/>Moonshae Saga 1: Revive the Beast<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae2.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈2〉竪琴と一角獣</b><br/>Moonshae Saga 2: Lyre and Unicorn<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae3.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈3〉七人の黒魔術師</b><br/>Moonshae Saga 3: Seven Black Magicians<br/>1989</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae4.jpeg" height="240"><br/><b>ムーンシェイ・サーガ〈4〉死せる王妃の預言</b><br/>Moonshae Saga 4: The Prophecy of the Dead Queen<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae4.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈4〉死せる王妃の預言</b><br/>Moonshae Saga 4: The Prophecy of the Dead Queen<br/>1989</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae5.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈5〉猫の爪・豹の牙</b><br/>Moonshae Saga 5: Cat's Claws, Panther's Fangs<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/moonshae6.jpg" height="240"><br/><b>ムーンシェイ・サーガ〈6〉暗黒の解放</b><br/>Moonshae Saga 6: The Release of Darkness<br/>1990</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword1.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ1〉勝利の紋章を奪え!</b><br/>The Battlepits of Krath<br/>1988</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword2.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ2〉魔術王をたおせ!</b><br/>The Kingdom of Wyrd<br/>1988</td>
-</tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword3.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ3〉悪魔の爪を折れ!</b><br/>The Demon's Claw<br/>1989</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/blood_sword4.jpg" height="240"><br/><b>ブラッド・ソード〈シナリオ4〉死者の国から還れ!</b><br/>Doomwalk<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/call-of-the-nile.jpg" height="240"><br/><b>魔境遊撃隊―ナイルの呼び声</b><br/>Magic Brigade: Call of the Nile<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/quest_of_the_falcon.jpg" height="240"><br/><b>鷹の探索</b><br/>Quest of the Falcon<br/>1986</td>
 </tr><tr>
