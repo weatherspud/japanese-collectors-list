@@ -104,4 +104,17 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/three-people-of-the-galaxy.jpg" height="240"><br/><b>銀河の三人復活のヴィザーン</b><br/>Three People of the Galaxy Resurrection of Vizan<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/jaseiken-necromancer.jpg" height="240"><br/><b>邪聖剣ネクロマンサー イシュメリアの悪夢</b><br/>Jaseiken Necromancer Nightmare of Ishmeria<br/>1988</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/space_time_pirates.jpeg" height="240"><br/><b>超時空パイレーツ おみそれ3人組の冒険</b><br/>Super Space Time Pirates<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/tokimeki_high_school.jpeg" height="240"><br/><b>トキメキハイスクール 恋の学園祭大作戦</b><br/>Tokimeki High School<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/mr_vampire.jpeg" height="240"><br/><b>霊幻道士 キョンシー大戦争</b><br/>Mr. Vampire Jiangshi Great War<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gaias_coat_of_arms.jpg" height="240"><br/><b>ガイアの紋章 エルスリード英雄列伝</b><br/>Gaia's Coat of Arms<br/>1988</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/visit_yamato_genie.jpg" height="240"><br/><b>ヤマト魔神伝 サギリ見参! </b><br/>Visit Yamato Genie<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/deep_dungeon_3.jpeg" height="240"><br/><b>ディープダンジョンIII</b><br/>Deep Dungeon III<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon_rock.jpeg" height="240"><br/><b>ドラゴンロック 浮遊要塞の死闘 </b><br/>Dragon Rock<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/genpei_tomaden.jpeg" height="240"><br/><b>源平討魔伝 神異妖魔界の変</b><br/>Genpei Tomaden<br/>1988</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dark_fortress_guardian.jpg" height="240"><br/><b>暗黒要塞ガルディアン オセロ神話の謎</b><br/>Dark Fortress Guardian<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/kaiju_monogatari.jpeg" height="240"><br/><b>貝獣物語 シェルドラド伝説</b><br/>Kaiju Monogatari<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/space_harrier.jpeg" height="240"><br/><b>スペース・ハリアー ホワイトドラゴンの勇者</b><br/>Space Harrier<br/>1988</td>
 </tr></table>
