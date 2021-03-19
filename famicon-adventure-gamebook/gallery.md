@@ -109,7 +109,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/mr_vampire.jpeg" height="240"><br/><b>霊幻道士 キョンシー大戦争</b><br/>Mr. Vampire Jiangshi Great War<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/gaias_coat_of_arms.jpg" height="240"><br/><b>ガイアの紋章 エルスリード英雄列伝</b><br/>Gaia's Coat of Arms<br/>1988</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/visit_yamato_genie.jpg" height="240"><br/><b>ヤマト魔神伝 サギリ見参! </b><br/>Visit Yamato Genie<br/>1988</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/visit_yamato_genie.jpeg" height="240"><br/><b>ヤマト魔神伝 サギリ見参! </b><br/>Visit Yamato Genie<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/deep_dungeon_3.jpeg" height="240"><br/><b>ディープダンジョンIII</b><br/>Deep Dungeon III<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dragon_rock.jpeg" height="240"><br/><b>ドラゴンロック 浮遊要塞の死闘 </b><br/>Dragon Rock<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/genpei_tomaden.jpeg" height="240"><br/><b>源平討魔伝 神異妖魔界の変</b><br/>Genpei Tomaden<br/>1988</td>
