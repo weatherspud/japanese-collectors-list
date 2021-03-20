@@ -147,4 +147,21 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/sweet_home.jpg" height="240"><br/><b>スウィートホーム 魔性の棲む館</b><br/>Sweet Home Devil's House<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/penguin_ninja_core.jpeg" height="240"><br/><b>ペンギン忍者隊 白き勇者の伝説 </b><br/>Penguin Ninja Core<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/child_quest.jpeg" height="240"><br/><b>ラサール石井のチャイルズクエスト</b><br/>LaSalle Ishii's Child's Quest<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/final_fantasy_legend.jpeg" height="240"><br/><b>魔界塔士Sa・Ga 冒険者たちのレクイエム</b><br/>The Final Fantasy Legend Sa ・ Ga Adventurers' Requiem<br/>1990</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/yuyuki_goku.jpg" height="240"><br/><b>遊遊記 ゴクウよ天竺を目指せ！</b><br/>Yuyuki Goku, aim for Tenjiku!<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/fire_emblem.jpg" height="240"><br/><b>ファイアーエムブレム 幻の王国</b><br/>Fire Emblem Phantom Kingdom<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/holy_rebel.jpg" height="240"><br/><b>魍魎戦記MADARA 聖なる反逆者</b><br/>Madara Holy Rebel<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/ninjas_hoi.jpg" height="240"><br/><b>忍者らホイ! 痛快うんがちょこ忍法伝!!</b><br/>Ninjas Hoi! Exciting Ungachoco Ninpoden !!<br/>1990</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/sansara_naga.jpg" height="240"><br/><b>サンサーラ・ナーガ めざせ究極の竜使い</b><br/>Sansara Naga Aiming for the ultimate dragon messenger<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/digital_devil_story.jpg" height="240"><br/><b>デジタルデビル物語 女神転生II メシアプロジェクト2036</b><br/>Digital Devil Story Megami Tensei II Messiah Project 2036<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/valkyrie_legend.jpg" height="240"><br/><b>ワルキューレの伝説 舞い降りた女神</b><br/>Valkyrie Legend: The Falling Goddess<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/last_armageddon.jpeg" height="240"><br/><b>ラストハルマゲドン 魔界創世記</b><br/>Last Armageddon Makai Genesis<br/>1990</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/rainbow_silk_road.jpg" height="240"><br/><b>虹のシルクロード 東方不思議見聞録</b><br/>Rainbow Silk Road Touhou Mystery Record<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/jungle_wars.jpg" height="240"><br/><b>ジャングルウォーズ ジャングルを守れ!</b><br/>Jungle Wars Protect the jungle!<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/jube.jpeg" height="240"><br/><b>じゅうべえくえすと 超編時空物語</b><br/>Jube Ekuesuto Super Edition Space-Time Story<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/metal_max.jpg" height="240"><br/><b>メタルマックス 爆走タンク冒険戦記</b><br/>Metal Max Bombing Tank Adventure Senki<br/>1991</td>
+</tr><tr>
 </tr></table>
