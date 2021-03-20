@@ -130,7 +130,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/mini_4wd_challenger.jpg" height="240"><br/><b>ミニ四駆チャレンジャー 熱走改造バルセロナ編 </b><br/>Mini 4WD Challenger<br/>1989</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/cat_story.jpg" height="240"><br/><b>ねこまんまの大逆転 無責任一代ねこ物語 </b><br/>Nekomanma's Great Reversal An Irresponsible One-generation Cat Story<br/>1989</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dreams_of_peach.jpg" height="240"><br/><b>ねこまんまの鬼退治 ポチは桃の夢を見る</b><br/>Nekomanma's Demon Extermination Pochi Dreams of Peach<br/>1989</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dreams_of_peach.jpeg" height="240"><br/><b>ねこまんまの鬼退治 ポチは桃の夢を見る</b><br/>Nekomanma's Demon Extermination Pochi Dreams of Peach<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/dungeon_explorer.jpeg" height="240"><br/><b>ダンジョンエクスプローラー 探せ！破邪の宝玉</b><br/>Dungeon Explorer<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/famicon-adventure-gamebook/human_hunter.jpeg" height="240"><br/><b>恐竜伝説 倒せ!人間ハンター</b><br/>Human Hunter<br/>1989</td>
 </tr><tr>
