@@ -15,7 +15,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/horse_of_night.jpg" height="240"><br/><b>夜の馬</b><br/>Horse of Night<br/>1990</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/ekusea.jpg" height="240"><br/><b>エクセア</b><br/>Ekusea<br/>1989</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/gyarance_heart.jpg" height="240"><br/><b>ギャランス・ハート</b><br/>Gyrarance Heart<br/>1992</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/gyarance_heart.jpg" height="240"><br/><b>ギャランス・ハート</b><br/>Gyrance Heart<br/>1992</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/seventh_wizard.jpg" height="240"><br/><b>第七の魔法使い</b><br/>Seventh Wizard<br/>1992</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/super-adventure-game/xevious.jpg" height="240"><br/><b>ゼビウス</b><br/>Xevious<br/>1985</td>
 </tr><tr>
