@@ -19,4 +19,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/the_asylum.jpg" height="240"><br/><b>療養所の悪魔</b><br/>The Asylum & other tales<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/twilight_angel.jpg" height="240"><br/><b>黄昏の天使 夜叉姫伝説：第一部</b><br/>The Twilight Angel: The Stories of the Demon Princess: First Part<br/></td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/13_horrors.jpeg" height="240"><br/><b>13の恐怖 </b><br/>13 Horrors<br/></td>
 </tr></table>
