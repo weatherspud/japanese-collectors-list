@@ -24,4 +24,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/wizardry/advanced_wizardry_power_up_kit.jpg" height="240"><br/><b>アドバンスト・ウィザードリィRPG　パワーアップキット</b><br/>Advanced Wizardry RPG Power Up Kit<br/>1995</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/wizardry/advanced_wizardry_replay_adventurer_disqualified.jpg" height="240"><br/><b>アドバンスト・ウィザードリィRPGリプレイ冒険者・失格！</b><br/>Advanced Wizardry RPG Replay: Adventurer / Disqualified!<br/>1995</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/wizardry/wizardry_reprint.jpg" height="240"><br/><b>ウィザードリィRPG</b><br/>Wizardry RPG<br/>2008</td>
 </tr></table>
