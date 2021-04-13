@@ -24,4 +24,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/200x-ragnarok.jpg" height="240"><br/><b>ラグナロク 真・女神転生TRPG魔都東京200X</b><br/>Ragnarok: Shin Megami Tensei TRPG Magic City Tokyo 200X<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/200x-variant-science.jpg" height="240"><br/><b>異形科学 －ストレンジ・サイエンス 真・女神転生TRPG 魔都東京200X</b><br/>Variant Science-Strange Science Shin Megami Tensei TRPG Magic City Tokyo 200X<br/>2010</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/successor-to-the-white-blade.jpg" height="240"><br/><b>白き刃の後継者 真・女神転生TRPG魔都東京200Xリプレイ</b><br/>The Successor to the White Blade: Shin Megami Tensei TRPG Magic Tokyo 200X Replay<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/heavenly-cage.jpg" height="240"><br/><b>天界の檻 真・女神転生TRPG魔都東京200Xリプレイ</b><br/>Heavenly Cage: Shin Megami Tensei TRPG Magic City Tokyo 200X Replay<br/>2006</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/false-millenial-kingdom.jpg" height="240"><br/><b>偽りの千年王国 真・女神転生TRPG魔都東京200X</b><br/>False Millennial Kingdom: Shin Megami Tensei TRPG Magic City Tokyo 200X<br/>2007</td>
 </tr></table>
