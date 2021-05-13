@@ -4,7 +4,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/red_moon_priestess.jpg" height="240"><br/><b>紅き月の巫女</b><br/>Red Moon Priestess<br/>2003</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/longinus.jpg" height="240"><br/><b>ロンギヌス</b><br/>Longinus<br/>2005</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/sun_of_the_white_sun.jpg" height="240"><br/><b>白き陽の御子</b><br/>The Son of the White Sun<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/son_of_the_white_sun.jpg" height="240"><br/><b>白き陽の御子</b><br/>The Son of the White Sun<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/infinity_mirror_shrine_maiden.jpg" height="240"><br/><b>合わせ鏡の神子</b><br/>Shrine Maiden of the Infinity Mirror<br/>2006</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/overnight.jpg" height="240"><br/><b>オーバーナイト</b><br/>Overnight<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/night-wizard/2nd_edition.jpg" height="240"><br/><b>ナイトウィザード The 2nd Edition</b><br/>Night Wizard: The 2nd Edition<br/>2007</td>
