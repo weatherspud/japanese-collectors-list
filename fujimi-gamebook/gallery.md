@@ -36,13 +36,14 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/eldorado.jpg" height="240"><br/><b>エルドラード 闇の黄金郷</b><br/>El Dorado: The Golden Town of Darkness<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/dirty-pair-vasser-insel-great-track.jpg" height="240"><br/><b>ダーティペア―ヴァッサーインゼルの大追跡</b><br/>Dirty Pair: Great Track of Wasser Insel<br/>1987</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/wizards_quest.jpg" height="240"><br/><b>ウィザーズ・クエスト</b><br/>Wizard's Quest<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/ixar_1.jpg" height="240"><br/><b>戦え！！イクサー１ クトゥルフの逆襲</b><br/>Fight! Ixar-1: Cthulhu's Counterattack<br/>1987</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/magicians-challenge.jpg" height="240"><br/><b>魔術師の挑戦 デュエル・マスター</b><br/>Magician's Challenge: Duel Master<br/>1989</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/magicians-challenge.jpg" height="240"><br/><b>魔術師の挑戦 デュエル・マスター</b><br/>Magician's Challenge: Duel Master<br/>1989</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/underground-labyrinth-gorgias.jpg" height="240"><br/><b>地下迷宮ゴルギアス メイズ・ファイト！①</b><br/>Underground Labyrinth: Gorgias Maze Fight<br/>1991</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/legends-of-skyfall1.jpg" height="240"><br/><b>魔人の沼</b><br/>Monsters of the Marsh<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/legends-of-skyfall2.jpg" height="240"><br/><b>黒いピラミッドの謎</b><br/>The Black Pyramid<br/>1986</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/legends-of-skyfall3.jpg" height="240"><br/><b>呪われた鉱山</b><br/>Mine of Torments<br/>1986</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/legends-of-skyfall3.jpg" height="240"><br/><b>呪われた鉱山</b><br/>Mine of Torments<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/legends-of-skyfall4.jpg" height="240"><br/><b>魔宮の人喰い植物</b><br/>The Garden of Madness<br/>1987</td>
 </tr></table>
