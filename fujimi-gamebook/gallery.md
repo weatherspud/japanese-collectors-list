@@ -36,7 +36,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/eldorado.jpg" height="240"><br/><b>エルドラード 闇の黄金郷</b><br/>El Dorado: The Golden Town of Darkness<br/>1986</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/dirty-pair-vasser-insel-great-track.jpg" height="240"><br/><b>ダーティペア―ヴァッサーインゼルの大追跡</b><br/>Dirty Pair: Great Track of Wasser Insel<br/>1987</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/wizards_quest.jpg" height="240"><br/><b>ウィザーズ・クエスト</b><br/>Wizard's Quest<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/wizards-quest.jpg" height="240"><br/><b>ウィザーズ・クエスト</b><br/>Wizard's Quest<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/ixar_1.jpg" height="240"><br/><b>戦え！！イクサー１ クトゥルフの逆襲</b><br/>Fight! Ixar-1: Cthulhu's Counterattack<br/>1987</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/fujimi-gamebook/magicians-challenge.jpg" height="240"><br/><b>魔術師の挑戦 デュエル・マスター</b><br/>Magician's Challenge: Duel Master<br/>1989</td>
