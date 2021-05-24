@@ -26,7 +26,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/apocalypse_maiden_shinkigensha.jpg" height="240"><br/><b>迷宮キングダムリプレイ　黙示録の乙女</b><br/>Apocalypse Maiden<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/prince_of_disaster_shinkigensha.jpg" height="240"><br/><b>迷宮キングダム・リプレイ　災厄の王子</b><br/>Prince of Disaster<br/></td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/frontier_forest_and_cheese_kingdom.jpg" height="240"><br/><b>迷宮キングダム・リプレイ 辺境王国とチーズの森</b><br/>Frontier Kingdom and Cheese Forest<br/>2011</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/frontier_kingdom_and_cheese_forest.jpg" height="240"><br/><b>迷宮キングダム・リプレイ 辺境王国とチーズの森</b><br/>Frontier Kingdom and Cheese Forest<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/overkill_paradise.jpg" height="240"><br/><b>大殺階域</b><br/>Overkill Paradise<br/>2012</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/weekly_sandglass.jpg" height="240"><br/><b>砂時計週報 日本語版 2010-2011</b><br/>Weekly Sandglass<br/>2012</td>
