@@ -24,6 +24,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asian-punk-satasupe/nightmare_island.jpg" height="240"><br/><b>悪夢の棲む島</b><br/>Nightmare Island<br/>2013</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asian-punk-satasupe/deborah.jpg" height="240"><br/><b>ダボラ 虎と宝とうろんな奴ら</b><br/>Deborah: Tigers and Teasures<br/>2013</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asian-punk-satasupe/red_and_black_bridge.jpg" height="240"><br/><b>赤と黒の花嫁</b><br/>Red and Black Bride<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asian-punk-satasupe/red_and_black_bride.jpg" height="240"><br/><b>赤と黒の花嫁</b><br/>Red and Black Bride<br/>2015</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asian-punk-satasupe/gambling_house.jpg" height="240"><br/><b>鉄火場と鉄砲玉</b><br/>Gambling House and Gunball<br/>2016</td>
 </tr></table>
