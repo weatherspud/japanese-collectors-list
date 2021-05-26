@@ -57,4 +57,24 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>蛇人間の城塞</b><br/>Fortress of the Yuan-Ti<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>モンスターマニュアルⅡ</b><br/>Monster Manual II<br/>2009</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>モンスターマニュアルⅢ</b><br/>Monster Manual III<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>グレイホーク・ワールドガイド</b><br/>Living Greyhawk Gazetteer<br/>2003</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>フォーゴトン・レルム・ワールドガイド</b><br/>Forgotten Realms Campaign Setting<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>ウォーターディープ： 壮麗な都</b><br/>City of Splendors: Waterdeep<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>アンダーダーク</b><br/>Underdark<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>フェイルーン・プレイヤーズ・ガイド</b><br/>Player's Guide to Faerûn<br/>2006</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>フェイルーンのモンスター</b><br/>Monsters of Faerûn<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>フェイルーンの魔法</b><br/>Magic of Faerûn<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>エベロン・ワールドガイド</b><br/>Eberron Campaign Setting<br/>2006</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>エベロン・プレイヤーズ・ガイド</b><br/>Player's Guide to Eberron<br/>2009</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>ゼンドリックの秘密</b><br/>Secrets of Xen'drik<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>五つ国：ファイヴ・ネイションズ</b><br/>Five Nations<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>シャーン：塔の街</b><br/>Sharn: City of Towers<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>ドラゴンマーク</b><br/>Dragonmarked<br/>2007</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>翡翠の鉤爪</b><br/>Grasp of the Emerald Claw<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>最終戦争の影</b><br/>Shadows of the Last War<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/" height="240"><br/><b>魔剣の囁き</b><br/>Whispers of the Vampire's Blade<br/>2007</td>
 </tr></table>
