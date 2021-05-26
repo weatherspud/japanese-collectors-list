@@ -25,7 +25,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/dmg_35.jpg" height="240"><br/><b>ダンジョンマスターズガイド  第3.5版</b><br/>Dungeon Master's Guide v.3.5<br/>2005</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/mm_35.jpg" height="240"><br/><b>モンスターマニュアル  第3.5版</b><br/>Monster Manual v.3.5<br/>2005</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/psion" height="240"><br/><b>サイオニクスハンドブック</b><br/>Expanded Psionics Manual<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/psion.jpg" height="240"><br/><b>サイオニクスハンドブック</b><br/>Expanded Psionics Manual<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/comwar.jpg" height="240"><br/><b>戦士大全</b><br/>Complete Warrior<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/masscr.jpg" height="240"><br/><b>マスタースクリーン</b><br/>Master Screen<br/>2005</td>
 </tr><tr>
@@ -56,7 +56,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/yuanti.jpg" height="240"><br/><b>蛇人間の城塞</b><br/>Fortress of the Yuan-Ti<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/mm2.jpg" height="240"><br/><b>モンスターマニュアルⅡ</b><br/>Monster Manual II<br/>2003</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/mm3" height="240"><br/><b>モンスターマニュアルⅢ</b><br/>Monster Manual III<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/mm3.jpg" height="240"><br/><b>モンスターマニュアルⅢ</b><br/>Monster Manual III<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/livgrey.jpg" height="240"><br/><b>グレイホーク・ワールドガイド</b><br/>Living Greyhawk Gazetteer<br/>2003</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/dnd-3e/frcam.jpg" height="240"><br/><b>フォーゴトン・レルム・ワールドガイド</b><br/>Forgotten Realms Campaign Setting<br/>2004</td>
