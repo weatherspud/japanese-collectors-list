@@ -17,4 +17,13 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/sword_and_magic.jpg" height="240"><br/><b>剣と魔法</b><br/>Severnn & Selmeri<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/beyond_roads_to_lord_primer1.jpg" height="240"><br/><b>ビヨンド・ローズ・トゥ・ロードでわかる実践RPG入門</b><br/>A practical introduction to RPGs by means of Beyond Roads to Lord<br/>1991</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/beyond_roads_to_lord_primer2.jpg" height="240"><br/><b>精霊の大地―ビヨンド・ローズ・トゥ・ロードでわかる実践RPG入門 2</b><br/>Earth Spirits: A practical introduction to RPGs by means of Beyond Roads to Lord Vol 2<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/session_guide.jpg" height="240"><br/><b>ファー・ローズトゥ・ロードリプレイ-RPGセッションガイド</b><br/>Far Rose to Road Replay RPG Session Guide<br/></td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/roads_to_lord_2002.jpg" height="240"><br/><b>ローズ・トゥ・ロード</b><br/>Roads to Lord<br/>2002</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/strange_song.jpg" height="240"><br/><b>ザ・ストレンジソング</b><br/>The Strange Song<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/tatuno.jpg" height="240"><br/><b>タトゥーノ〜“風に絵を書く”かりそめの魔法〜</b><br/>Tatuno ~ "Drawing a picture in the wind" Karisome's magic ~<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/gamemasters_screen.jpg" height="240"><br/><b>ゲームマスター・スクリーン〜忘却の呪縛、近づく頃〜</b><br/>Gamemaster's Screen-The Curse of Oblivion, When It's Approaching-<br/></td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/song_seeker.jpg" height="240"><br/><b>ソングシーカー</b><br/>Song Seeker<br/>2006</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/roads-to-lord/roads_to_lord_2010.jpg" height="240"><br/><b>ローズ・トゥ・ロード</b><br/>Roads to Lord<br/>2010</td>
 </tr></table>
