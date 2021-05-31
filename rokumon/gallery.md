@@ -11,7 +11,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/cursed_swordfighter.jpg" height="240"><br/><b>呪われ剣士と夢の島</b><br/>Cursed Swordfighter and the Island of Dreams<br/>2004</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/protected_knight.jpg" height="240"><br/><b>守られ騎士と死者の鍵</b><br/>Protected Knight and Dead Key<br/>2004</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/overkill archers.jpg" height="240"><br/><b>やりすぎ射手と燃える森</b><br/>Overdoing Archers and the Burning Forest <br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/overkill_archers.jpg" height="240"><br/><b>やりすぎ射手と燃える森</b><br/>Overdoing Archers and the Burning Forest <br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/giant_birth.jpg" height="240"><br/><b>迷宮に巨人誕生を見た!? </b><br/>I saw the birth of a giant in the labyrinth !?<br/>2006</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/rokumon/sea_animals.jpg" height="240"><br/><b>幻の島に大海獣を追う！</b><br/>Follow the sea animals on a phantom island!<br/>2006</td>
