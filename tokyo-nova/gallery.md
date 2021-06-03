@@ -9,4 +9,9 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/kamui_star.jpg" height="240"><br/><b>カムイSTAR</b><br/>Kamui Star<br/>1997</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/blakk_box.jpg" height="240"><br/><b>BLAKK box ブラックボックス</b><br/>Blakk Box<br/>1997</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/revolution.jpg" height="240"><br/><b>トーキョーN◎VA The Revolution</b><br/>Tokyo Nova The Revolution<br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/total_eclipse.jpg" height="240"><br/><b>トータルエクリプス</b><br/>Total Eclipse<br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/revolution_revised.jpg" height="240"><br/><b>トーキョーN◎VA The Revolution REVISED</b><br/>Tokyo Nova The Revolution REVISED<br/>2002</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/grand_cross.jpg" height="240"><br/><b>グランド×クロス</b><br/>Grand X<br/>2003</td>
+</tr><tr>
 </tr></table>
