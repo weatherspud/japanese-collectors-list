@@ -6,7 +6,7 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_by_gaslight.jpg" height="240"><br/><b>ガス灯に浮かぶクトゥルフ</b><br/>Cthulhu by Gaslight<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_companion.jpg" height="240"><br/><b>クトゥルフ・コンパニオン</b><br/>Cthulhu Companion<br/>1987</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_handbook.jpg" height="240"><br/><b>クトゥルフ・ハンドブック</b><br/>Cthulhu Handbook<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_handbook.jpg" height="240"><br/><b>クトゥルフ・ハンドブック</b><br/>Cthulhu Handbook<br/>1988</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_monsters.jpg" height="240"><br/><b>クトゥルフ モンスターガイド</b><br/>Cthulhu Monsters<br/></td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu/cthulhu_monsters_ii.jpg" height="240"><br/><b>クトゥルフ モンスターガイドⅡ</b><br/>Cthulhu Monsters II<br/></td>
