@@ -12,7 +12,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 8：小さな勇気</b><br/>Traders! Super Session Support 8: Little Courage<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/sss9.jpg" height="240"><br/><b>トレイダーズ！スーパーシナリオサポート 9：神封じの混沌</b><br/>Traders! Super Session Support 9: Chaos God of Sealing<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 10：魔弾の射手</b><br/>Traders! Super Session Support 10<br/></td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/sss11.jpg" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 11</b><br/>Traders! Super Session Support 11<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/sss11.jpg" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 11：蒼空の騎士</b><br/>Traders! Super Session Support 11: Knight of the Blue Sky<br/></td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 12：漆黒の仮面</b><br/>Traders! Super Session Support 12: Jet Black Mask<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 13：辺境の覇者</b><br/>Traders! Super Session Support 13: Frontier Champion<br/></td>
