@@ -14,4 +14,9 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 10：魔弾の射手</b><br/>Traders! Super Session Support 10<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/sss11.jpg" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 11</b><br/>Traders! Super Session Support 11<br/></td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 12：漆黒の仮面</b><br/>Traders! Super Session Support 12: Jet Black Mask<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 13：辺境の覇者</b><br/>Traders! Super Session Support 13: Frontier Champion<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 14：聖バレストール祭</b><br/>Traders! Super Session Support 14: St. Valestor Festival<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traders/" height="240"><br/><b>トレイダーズ! スーパーシナリオサポート 15：遙かなる封土</b><br/>Traders! Super Session Support 15: A Far Reaching Lord<br/></td>
+</tr><tr>
 </tr></table>
