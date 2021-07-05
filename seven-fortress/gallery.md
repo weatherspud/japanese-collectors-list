@@ -11,4 +11,15 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_pt2.jpg" height="240"><br/><b>フォーチューンの海砦（上）</b><br/>Fortune Sea Fort Vol.2<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/leans_dark_fortress.jpg" height="240"><br/><b>リーンの闇砦</b><br/>Lean's Dark Fortress<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_v3.jpg" height="240"><br/><b>セブン＝フォートレス V3</b><br/>Seven Fortress V3<br/>2002</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_powered.jpg" height="240"><br/><b>セブン=フォートレスパワード</b><br/>Seven Fortress Powered<br/>2005</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/angel_princess.jpg" height="240"><br/><b>エンジェルプリンセス</b><br/>Angel Princess<br/>2006</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/lars_feria_storm.jpg" height="240"><br/><b>ラース=フェリアの嵐</b><br/>Lars Feria Storm<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fraces_flame_fort_up.jpg" height="240"><br/><b>フレイスの炎砦V3〈上〉</b><br/>Frace's Flame Fort V3 vol. 1<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fraces_flame_fort_down.jpg" height="240"><br/><b>フレイスの炎砦V3〈下〉</b><br/>Frace's Flame Fort V3 vol. 2.<br/>2004</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/black_star_prince.jpg" height="240"><br/><b>黒き星の皇子</b><br/>Black Star Prince<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_up.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<上> </b><br/>La Almeia's Phantom Fort V3 vol. 1<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_down.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<下></b><br/>La Almeia's Phantom Fort V3 vol. 2<br/>2007</td>
 </tr></table>
