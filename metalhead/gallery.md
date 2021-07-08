@@ -10,4 +10,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/psyclone.jpg" height="240"><br/><b>サイクロン</b><br/>Psy-Clone<br/></td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/virtual_city.jpg" height="240"><br/><b>ヴァーチャル・シティ</b><br/>Virtual City<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/metalhead_maximum.png" height="240"><br/><b>メタルヘッド・マキシマム</b><br/>Metal Head Maximum<br/>2000</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/mind_crime.jpg" height="240"><br/><b>マインドクライム</b><br/>Mind Crime<br/>2001</td>
 </tr></table>
