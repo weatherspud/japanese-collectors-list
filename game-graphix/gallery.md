@@ -36,4 +36,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/game-graphix/29.jpg" height="240"><br/><b>Game Graphix Vol. 29</b><br/>Game Graphix Vol. 29<br/>1991</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/game-graphix/30.jpg" height="240"><br/><b>Game Graphix Vol. 30</b><br/>Game Graphix Vol. 30<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/game-graphix/excallibur.jpg" height="240"><br/><b>エクスカリバー</b><br/>Excallibur<br/>1987</td>
 </tr></table>
