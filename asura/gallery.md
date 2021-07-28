@@ -16,4 +16,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/exorcism_master_screen.jpg" height="240"><br/><b>退魔戦記 伝奇ホラーRPGマスタースクリーン</b><br/>Exorcism Mystery Horror RPG Master Screen<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/twelve_devil_general.jpg" height="240"><br/><b>エキスパートセット 十二魔将 伝奇ホラーRPG</b><br/>Expert Set Twelve Devil General Mystery Horror RPG<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/oni_drizzle.jpg" height="240"><br/><b>鬼霧雨 伝奇ホラーＲＰＧ退魔戦記シナリオ集</b><br/>Oni Drizzle: Exorcism Mystery Horror RPG Scenario Collection<br/></td>
 </tr></table>
