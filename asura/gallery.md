@@ -19,4 +19,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/oni_drizzle.jpg" height="240"><br/><b>鬼霧雨 伝奇ホラーＲＰＧ退魔戦記シナリオ集</b><br/>Oni Drizzle: Exorcism Mystery Horror RPG Scenario Collection<br/></td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/cosmo_complete_vol1.jpg" height="240"><br/><b>COSMO全集!! Vol.1</b><br/>Cosmo Complete Collection Vol. 1<br/>1995</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/asura_fantasy_v2.jpg" height="240"><br/><b>アシュラファンタジーTRPG　基本ルール
+汎用ロールプレイングゲーム　Asuraシステム</b><br/>ASURA Fantasy TRPG<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/asura/asura_horror_v2.jpg" height="240"><br/><b>真退魔戦記TRPG　基本ルール
+汎用ロールプレイングゲーム　Asuraシステム</b><br/>ASURA System Exorcism Horror RPG<br/>2004</td>
 </tr></table>
