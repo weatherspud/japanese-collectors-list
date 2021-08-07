@@ -15,4 +15,13 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/seven_phantom_stories.jpg" height="240"><br/><b>クトゥルフ神話TRPGシナリオ集 七つの怪談</b><br/>Seven Phantom Stories<br/>2007</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/malleus_monstrorum.jpg" height="240"><br/><b>クトゥルフ神話TRPG マレウス・モンストロルム</b><br/>Malleus Monstrorum<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/dreamlands.jpg" height="240"><br/><b>クトゥルフ神話TRPG ラヴクラフトの幻夢境</b><br/>H.P Lovecraft's Dreamlands<br/>2009</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_2010.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフ2010</b><br/>Cthulhu 2010<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/escape_from_innsmouth.jpg" height="240"><br/><b>クトゥルフ神話TRPG インスマスからの脱出</b><br/>Escape from Innsmouth<br/>2011</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/dunwich.jpg" height="240"><br/><b>クトゥルフ神話TRPG ダニッチの怪</b><br/>H.P. Lovecraft's Dunwich<br/>2012</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_cults_now.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフカルト・ナウ</b><br/>Cthulhu Cults Now<br/>2013</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/keepers_companion_v2.jpg" height="240"><br/><b>クトゥルフ神話TRPG キーパーコンパニオン 改訂新版</b><br/>The Keeper's Companion Revised Edition<br/>2013</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/fragments.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフ・フラグメント</b><br/>Cthulhu Fragments<br/>2015</td>
+</tr><tr>
 </tr></table>
