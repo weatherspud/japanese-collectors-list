@@ -7,7 +7,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/akatsuki_warriors.jpg" height="240"><br/><b>異界戦記カオスフレア・リプレイ 暁の戦士たち</b><br/>Akatsuki Warriors<br/>2006</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/rio_fred_magic_academy.jpg" height="240"><br/><b>異界戦記カオスフレア リプレイ リオフレード魔法学院 </b><br/>Rio Fred Magic Academy<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/second_chapter.jpg" height="240"><br/><b>異界戦記カオスフレア Second Chapter</b><br/>Second Chapter<br/>2008</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/lapis_philosphy_form.jpg" height="240"><br/><b>異界戦記カオスフレア Second Chapter データブック ラピスフィロソフォルム</b><br/>Lapis Philosopher<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/lapis_philosophy_form.jpg" height="240"><br/><b>異界戦記カオスフレア Second Chapter データブック ラピスフィロソフォルム</b><br/>Lapis Philosopher<br/>2008</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/world_egg.jpg" height="240"><br/><b>異界戦記カオスフレア Second Chapter リプレイ 世界の卵</b><br/>World Egg<br/>2009</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/chaos-flare/fluorite_prison.jpg" height="240"><br/><b>異界戦記カオスフレア Second Chapter サプリメント フローライトプリズン</b><br/>Fluorite Prison<br/>2010</td>
