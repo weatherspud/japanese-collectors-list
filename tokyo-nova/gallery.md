@@ -62,4 +62,36 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssdet2.jpg" height="240"><br/><b>トーキョーN◎VA The Detonation スーパー・シナリオ・サポート Vol. 2 暗黒の世界</b><br/>Tokyo Nova The Detonation Super Scenario Support Vol. 2: World of Darkness<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssdet3.jpg" height="240"><br/><b>トーキョーN◎VA The Detonation スーパー・シナリオ・サポート Vol. 3 仮面舞踏会</b><br/>Tokyo Nova The Detonation Super Scenario Support Vol. 3: Behind the Mask<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssdet4.jpg" height="240"><br/><b>トーキョーN◎VA The Detonation スーパー・シナリオ・サポート Vol. 4 人間以上</b><br/>Tokyo Nova The Detonation Super Scenario Support Vol. 4: Manplus<br/>2005</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/tokyo_nova_axleration.jpg" height="240"><br/><b>トーキョーN◎VA THE AXLERATION</b><br/>Tokyo Nova The Axleration<br/>2013</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/the_other_side.jpg" height="240"><br/><b>ジ・アザーサイド</b><br/>The Other Side<br/>2013</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/cross_the_line.jpg" height="240"><br/><b>クロス・ザ・ライン</b><br/>Cross the Line<br/>2014</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/chrome_memories.jpg" height="240"><br/><b>クローム・メモリーズ</b><br/>Chrome Memories<br/>2014</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/calamity_box.jpg" height="240"><br/><b>カラミティボックス</b><br/>Calamity Box<br/>2014</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/phantom_lady.jpg" height="240"><br/><b>ファントムレディ</b><br/>Phantom Lady<br/>2014</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/behind_the_dark.jpg" height="240"><br/><b>ビハインド・ザ・ダーク</b><br/>Behind the Dark<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/angel_of_death.jpg" height="240"><br/><b>エンジェル・オブ・デス</b><br/>Angel of Death<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/heaven_down_below.jpg" height="240"><br/><b>ヘヴン・ダウンビロウ</b><br/>Heaven Down Below<br/>2016</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/alternative_sight.jpg" height="240"><br/><b>オルタナティヴサイト</b><br/>Alternative Sight<br/>2017</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/skill_dictionary.jpg" height="240"><br/><b>スキルディクショナリ</b><br/>Skill Dictionary<br/>2019</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/farewell_blue_light.jpg" height="240"><br/><b>さらば、青き光</b><br/>Farewell, Blue Light<br/>2019</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax01.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.1 ナイト・ムーヴズ</b><br/>Super Scenario Support Vol.1 Night Moves<br/>2015</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax02.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.2 悪魔のいる天国</b><br/>Super Scenario Support Vol.2 Heaven with the Devil<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax03.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.3 アウト・オブ・シャドウ</b><br/>Super Scenario Support Vol.3 Out of Shadow<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax04.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.4 プラチナムレイダー</b><br/>Super Scenario Support Vol.4 Platinum Raider<br/>2016</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax05.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.5 フール・フォー・ザ・シティ</b><br/>Super Scenario Support Vol.5 Fool for the City<br/>2016</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax06.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.6 ケース・オブ・マーダー</b><br/>Super Scenario Support Vol.6 Case of Murder<br/>2016</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax07.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.7 鋼鉄の嵐</b><br/>Super Scenario Support Vol.7 Steel Storm<br/>2016</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax08.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.8 一撃必殺</b><br/>Super Scenario Support Vol.8 One-shot Special<br/>2017</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax09.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.9 神は天にあり、世はすべて事もなし</b><br/>Super Scenario Support Vol.9 God is in heaven and the world is nothing<br/>2017</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax10.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.10 アージェント・メジャーズ</b><br/>Super Scenario Support Vol.10 Argent Majors<br/>2017</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax11.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.11 デモンスレイヤー</b><br/>Super Scenario Support Vol.11 Demon Slayer<br/>2018</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax12.jpg" height="240"><br/><b>スーパー・シナリオ・サポート Vol.12 遙か遠くより</b><br/>Super Scenario Support Vol.12 Far away<br/>2018</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/tokyo-nova/sssax13.jpg" height="240"><br/><b>トーキョーN◎VA THE AXLERATION スーパー・シナリオ・サポート Vol.13 立ち止まるな夜明けまで</b><br/>Tokyo N ◎ VA THE AXLERATION Super Scenario Support Vol.13 Don't stop until dawn<br/>2018</td>
+</tr><tr>
 </tr></table>
