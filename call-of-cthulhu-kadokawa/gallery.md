@@ -42,4 +42,6 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/modular_cthulhu.jpg" height="240"><br/><b>クトゥルフ神話TRPG モジュラー・クトゥルフ</b><br/>Modular Cthulhu<br/>2016</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_codex.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフ・コデックス</b><br/>Cthulhu Codex<br/>2017</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/call-of-cthulhu-7th.jpg" height="240"><br/><b>新クトゥルフ神話TRPG ルールブック</b><br/>Call of Cthulhu<br/>2019</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/maleus_monstrorum_vol1.jpg" height="240"><br/><b>新クトゥルフ神話TRPG マレウス・モンストロルム Vol.1 クリーチャー編</b><br/>Maleus Monstrolum Vol.1 Creature Edition<br/>2021</td>
+</tr><tr>
 </tr></table>
