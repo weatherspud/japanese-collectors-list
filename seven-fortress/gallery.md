@@ -12,16 +12,21 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_ex.jpg" height="240"><br/><b>セブン＝フォートレス EX</b><br/>Seven Fortress EX<br/>2001</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fora_forest_fort_source_book.jpg" height="240"><br/><b>フォーラの森砦</b><br/>Fora Forest Fort<br/>2002</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_v3.jpg" height="240"><br/><b>セブン＝フォートレス V3</b><br/>Seven Fortress V3<br/>2002</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fraces_flame_fort_up.jpg" height="240"><br/><b>フレイスの炎砦V3〈上〉</b><br/>Frace's Flame Fort V3 vol. 1<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/arsail_ice_fort_replay.jpg" height="240"><br/><b>アルセイルの氷砦(V3 Edition)</b><br/>Arsail's Ice Fort (V3 Edition)<br/>2003</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fraces_flame_fort_up.jpg" height="240"><br/><b>フレイスの炎砦V3〈上〉</b><br/>Frace's Flame Fort V3 vol. 1<br/>2004</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fraces_flame_fort_down.jpg" height="240"><br/><b>フレイスの炎砦V3〈下〉</b><br/>Frace's Flame Fort V3 vol. 2.<br/>2004</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/black_star_prince.jpg" height="240"><br/><b>黒き星の皇子</b><br/>Black Star Prince<br/>2004</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/lean_dark_fort_replay.jpg" height="240"><br/><b>リーンの闇砦(V3 Edition)</b><br/><br/>2004</td>
+</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_powered.jpg" height="240"><br/><b>セブン=フォートレスパワード</b><br/>Seven Fortress Powered<br/>2005</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/angel_princess.jpg" height="240"><br/><b>エンジェルプリンセス</b><br/>Angel Princess<br/>2006</td>
-</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/lars_feria_storm.jpg" height="240"><br/><b>ラース=フェリアの嵐</b><br/>Lars Feria Storm<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_up.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<上> </b><br/>La Almeia's Phantom Fort V3 vol. 1<br/>2007</td>
+</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_down.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<下></b><br/>La Almeia's Phantom Fort V3 vol. 2<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay_vol1.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈上〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 1<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay_vol2.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈下〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 2<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_mobius.jpg" height="240"><br/><b>セブン=フォートレス Mobius</b><br/>Seven Fortress Mobius<br/>2008</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/lars_felia.jpg" height="240"><br/><b>ラース=フェリア</b><br/>Lars Felia<br/>2008</td>
@@ -41,7 +46,8 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/cross_world.jpg" height="240"><br/><b>クロスワールド</b><br/>Cross World<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/sherotia_sky_fort3.jpg" height="240"><br/><b>シェローティアの空砦 (3) 死線に踊る道化者</b><br/>Sherotia's Sky Fort (3) A clown dancing to the deadline<br/>2011</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/heavens_gate.jpg" height="240"><br/><b>ヘブンズゲート</b><br/>Heaven's Gate<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/sherotia_sky_fort4.jpg" height="240"><br/><b>シェローティアの空砦 (4)七宝珠、覚醒</b><br/>Sherotia's Sky Fort (4) Cloisonne, Awakening<br/>2012</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/sherotia_sky_fort5.jpg" height="240"><br/><b>シェローティアの空砦 (5)The End of Time</b><br/>Sherotia Sky Fort (5) The End of Time<br/>2013</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/sherotia_sky_fort5.jpg" height="240"><br/><b>シェローティアの空砦 (5)The End of Time</b><br/>Sherotia Sky Fort (5) The End of Time<br/>2013</td>
 </tr></table>
