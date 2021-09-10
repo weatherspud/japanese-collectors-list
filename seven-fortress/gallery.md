@@ -25,8 +25,8 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_up.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<上> </b><br/>La Almeia's Phantom Fort V3 vol. 1<br/>2007</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/phantom_fort_down.jpg" height="240"><br/><b>ラ・アルメイアの幻砦V3<下></b><br/>La Almeia's Phantom Fort V3 vol. 2<br/>2007</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay_vol1.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈上〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 1<br/>2007</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay_vol2.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈下〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 2<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay1.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈上〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 1<br/>2007</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/fortune_sea_fort_replay2.jpg" height="240"><br/><b>フォーチューンの海砦(V3 Edition)〈下〉</b><br/>Fortune Sea Fort (V3 Edition) vol. 2<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/seven_fortress_mobius.jpg" height="240"><br/><b>セブン=フォートレス Mobius</b><br/>Seven Fortress Mobius<br/>2008</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/seven-fortress/lars_felia.jpg" height="240"><br/><b>ラース=フェリア</b><br/>Lars Felia<br/>2008</td>
