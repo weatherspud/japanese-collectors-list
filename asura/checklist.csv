@@ -1,19 +1,19 @@
-﻿year,japanese,english,publisher,image,product_type
-1992,阿修羅fantasy,ASURA Fantasy,Cosmo Engineering,asura.jpg,box set
-,ディテクティヴ・ストーリー,Detective Story,Cosmo Engineering,detective_story.jpg,box set
-,ASURAシステム 阿修羅fantasy サプリメント2 “Do Evils”,"ASURA Fantasy Supplement 2 ""Do Evils""",Cosmo Engineering,do_evils.jpg,box set
-,ASURAシステム 退魔戦記 サプリメント4 オネスティー,ASURA System Exorcism Supplement 4 Honesty,Cosmo Engineering,excorcism_record.jpg,box set
-1994,ASURA Fantasy 十字軍遠征 Expert Set,ASURA Fantasy Crusade Expedition Expert Set,Cosmo Engineering,expert_set.jpg,box set
-,ASURAイージーシステム 場内大乱闘！FATMAN  基本セット,ASURA Easy System Battle in the Hall! Fatman Basic Set,Cosmo Engineering,fat_man.jpg,box set
-,Asuraシステム 銀河開拓史 ギャラクティックアーク,ASURA Fantasy Galactic Ark,Cosmo Engineering,galactic_ark.jpg,box set
-,ASURAシステム 銀河開拓史ギャラクティックアーク マスタースクリーン,ASURA Fantasy Galactic Ark Master Screen,Cosmo Engineering,galactic_ark_masters_screen.jpg,supplement
-,AsuraシステムV4 サイコマスターズAD2065,ASURA SystemV4 Psycho Masters AD 2065,Cosmo Engineering,psycho_masters.jpg,box set
-,サイコマスターズ・マスタースクリーン,Pyscho Masters Master Screen,Cosmo Engineering,psycho_masters_master_screen.jpg,supplement
-1993,阿修羅fantasyマスタースクリーン,ASURA Fantasy Master Screen,Cosmo Engineering,asura_master_screen.jpg,supplement
-,退魔戦記 伝奇ホラーRPG,Exorcism Mystery Horror RPG,Cosmo Engineering,exorcism.jpg,box set
-,退魔戦記 伝奇ホラーRPGマスタースクリーン,Exorcism Mystery Horror RPG Master Screen,Cosmo Engineering,exorcism_master_screen.jpg,supplement
-,エキスパートセット 十二魔将 伝奇ホラーRPG,Expert Set Twelve Devil General Mystery Horror RPG,Cosmo Engineering,twelve_devil_general.jpg,box set
-,鬼霧雨 伝奇ホラーＲＰＧ退魔戦記シナリオ集,Oni Drizzle: Exorcism Mystery Horror RPG Scenario Collection,Cosmo Engineering,oni_drizzle.jpg,scenario
-1995,COSMO全集!! Vol.1,Cosmo Complete Collection Vol. 1,Cosmo Engineering,cosmo_complete_vol1.jpg,scenario
-2004,アシュラファンタジーTRPG　基本ルール 汎用ロールプレイングゲーム　Asuraシステム,ASURA Fantasy TRPG,Terranets,asura_fantasy_v2.jpg,box set
-2004,真退魔戦記TRPG　基本ルール 汎用ロールプレイングゲーム　Asuraシステム,ASURA System Exorcism Horror RPG,Terranets,asura_horror_v2.jpg,box set
+﻿year,japanese,english,publisher,image,product_type,product_code
+1992,退魔戦記 伝奇ホラーRPG,Exorcism Mystery Horror RPG,Cosmo Engineering,exorcism.jpg,box set,A003
+,退魔戦記 伝奇ホラーRPGマスタースクリーン,Exorcism Mystery Horror RPG Master Screen,Cosmo Engineering,exorcism_master_screen.jpg,supplement,TS1
+1992,鬼霧雨 伝奇ホラーＲＰＧ退魔戦記シナリオ集,Oni Drizzle: Exorcism Mystery Horror RPG Scenario Collection,Cosmo Engineering,oni_drizzle.jpg,scenario,TS2
+1992,エキスパートセット 十二魔将 伝奇ホラーRPG,Expert Set Twelve Devil General Mystery Horror RPG,Cosmo Engineering,twelve_devil_general.jpg,box set,TS3
+1992,阿修羅fantasy,ASURA Fantasy,Cosmo Engineering,asura.jpg,box set,A004
+1993,ASURAシステム 退魔戦記 サプリメント4 オネスティー,ASURA System Exorcism Supplement 4 Honesty,Cosmo Engineering,excorcism_record.jpg,box set,TS4
+1993,ASURAイージーシステム 場内大乱闘！FATMAN  基本セット,ASURA Easy System Battle in the Hall! Fatman Basic Set,Cosmo Engineering,fat_man.jpg,box set,A005
+1993,ディテクティヴ・ストーリー,Detective Story,Cosmo Engineering,detective_story.jpg,box set,A006
+1993,阿修羅fantasyマスタースクリーン,ASURA Fantasy Master Screen,Cosmo Engineering,asura_master_screen.jpg,supplement,AS1
+1993,ASURAシステム 阿修羅fantasy サプリメント2 “Do Evils”,"ASURA Fantasy Supplement 2 ""Do Evils""",Cosmo Engineering,do_evils.jpg,box set,AS2
+1993,Asuraシステム 銀河開拓史 ギャラクティックアーク,ASURA Fantasy Galactic Ark,Cosmo Engineering,galactic_ark.jpg,box set,A007
+1994,ASURA Fantasy 十字軍遠征 Expert Set,ASURA Fantasy Crusade Expedition Expert Set,Cosmo Engineering,expert_set.jpg,box set,AS3
+1994,ASURAシステム 銀河開拓史ギャラクティックアーク マスタースクリーン,ASURA Fantasy Galactic Ark Master Screen,Cosmo Engineering,galactic_ark_masters_screen.jpg,supplement,GS1
+1994,AsuraシステムV4 サイコマスターズAD2065,ASURA SystemV4 Psycho Masters AD 2065,Cosmo Engineering,psycho_masters.jpg,box set,A008
+,サイコマスターズ・マスタースクリーン,Pyscho Masters Master Screen,Cosmo Engineering,psycho_masters_master_screen.jpg,supplement,PS1
+1995,COSMO全集!! Vol.1,Cosmo Complete Collection Vol. 1,Cosmo Engineering,cosmo_complete_vol1.jpg,scenario,CZ1
+2004,アシュラファンタジーTRPG　基本ルール 汎用ロールプレイングゲーム　Asuraシステム,ASURA Fantasy TRPG,Terranets,asura_fantasy_v2.jpg,box set,
+2004,真退魔戦記TRPG　基本ルール 汎用ロールプレイングゲーム　Asuraシステム,ASURA System Exorcism Horror RPG,Terranets,asura_horror_v2.jpg,box set,
