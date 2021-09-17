@@ -1,16 +1,16 @@
-﻿year,japanese,english,publisher,image,product_type
-1990,メタルヘッド,Metal Head,Hobby Japan,metalhead.jpg,box set
-,Metal Head Backup Screen,Metalhead Backup Screen,Hobby Japan,backup_screen.jpg,supplement
-,クロムビート,Chrome Beat,Hobby Japan,chromebeat.jpg,box set
-,コアストライク,Core Strike,Hobby Japan,corestrike.jpg,box set
-,メタルヘッド・ハンドブック,Metal Head Hand Book,Hobby Japan,frontier_2150_handbook.jpg,rulebook
-,ハードブレイク,Hard Break,Hobby Japan,hardbreak.jpg,scenario
-,ヘビーソルジャー,Heavy Soldier,Hobby Japan,heavy_soldier.jpg,box set
-,サイクロン,Psy-Clone,Hobby Japan,psyclone.jpg,supplement
-,ヴァーチャル・シティ,Virtual City,Hobby Japan,virtual_city.jpg,supplement
-2000,メタルヘッド・マキシマム,Metal Head Maximum,Game Field,metalhead_maximum.png,rulebook
-2001,マインドクライム,Mind Crime,Game Field,mind_crime.jpg,supplement
-2008,d20対応ルールブック メタルヘッド/d20,Metal Head d20 edition,Hobby Japan,metalhead_d20.jpg,rulebook
-2008,メタルヘッド エクストリーム,Metal Head Extreme,Shinkigensha,metalhead_extreme.jpg,rulebook
-2009,星屑のリグレット,Stardust Regret,Shinkigensha,stardust_regret.jpg,replay
-2010,エンドレスホライゾン,Endless Horizon,Shinkigensha,endless_horizon.jpg,supplement
+﻿year,japanese,english,publisher,image,product_type,product_code
+1990,メタルヘッド,Metal Head,Hobby Japan,metalhead.jpg,box set,158
+1990,サイクロン,Psy-Clone,Hobby Japan,psyclone.jpg,supplement,158-1
+1991,Metal Head Backup Screen,Metalhead Backup Screen,Hobby Japan,backup_screen.jpg,supplement,158-2
+1991,コアストライク,Core Strike,Hobby Japan,corestrike.jpg,box set,158-3
+1991,ハードブレイク,Hard Break,Hobby Japan,hardbreak.jpg,scenario,158-4
+1992,クロムビート,Chrome Beat,Hobby Japan,chromebeat.jpg,box set,158-5
+1993,ヴァーチャル・シティ,Virtual City,Hobby Japan,virtual_city.jpg,supplement,158-6
+1994,メタルヘッド・ハンドブック,Metal Head Hand Book,Hobby Japan,frontier_2150_handbook.jpg,rulebook,
+1994,ヘビーソルジャー,Heavy Soldier,Hobby Japan,heavy_soldier.jpg,box set,158-9
+2000,メタルヘッド・マキシマム,Metal Head Maximum,Game Field,metalhead_maximum.png,rulebook,
+2001,マインドクライム,Mind Crime,Game Field,mind_crime.jpg,supplement,
+2008,d20対応ルールブック メタルヘッド/d20,Metal Head d20 edition,Hobby Japan,metalhead_d20.jpg,rulebook,
+2008,メタルヘッド エクストリーム,Metal Head Extreme,Shinkigensha,metalhead_extreme.jpg,rulebook,
+2009,星屑のリグレット,Stardust Regret,Shinkigensha,stardust_regret.jpg,replay,
+2010,エンドレスホライゾン,Endless Horizon,Shinkigensha,endless_horizon.jpg,supplement,
