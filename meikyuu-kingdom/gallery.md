@@ -36,4 +36,5 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/basic_rulebook.jpeg" height="240"><br/><b>迷宮キングダム 基本ルールブック</b><br/>Make You Kingdom Basic Rulebook<br/>2018</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/advanced_rulebook.jpeg" height="240"><br/><b>迷宮キングダム 上級ルールブック</b><br/>Make You Kingdom Advanced Rulebook<br/>2020</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/great_adventure_book.jpg" height="240"><br/><b>大冒険ブック 旅する王国と無名階域</b><br/>Great Adventure Book: Traveling Kingdom and Anonymous Floors<br/>2021</td>
 </tr></table>
