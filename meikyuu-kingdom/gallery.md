@@ -14,7 +14,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/chronicles8.jpeg" height="240"><br/><b>迷宮クロニクルVol.8「ハレ時々迷宮」</b><br/>Make You Chronicle!! Vol. 8<br/>2006</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/apocalypse_maiden.jpg" height="240"><br/><b>迷宮キングダム・リプレイ1　黙示録の乙女</b><br/>Apocalypse Maiden<br/>2007</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/prince_of_disaster.jpg" height="240"><br/><b>迷宮キングダム・リプレイ2　災厄の王子</b><br/>Prince of Disaster<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/prince_of_disaster.jpg" height="240"><br/><b>迷宮キングダム・リプレイ2　災厄の王子</b><br/>Prince of Disaster<br/>2007</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/million_labyrinth_encyclopedia.jpg" height="240"><br/><b>百万迷宮大百科</b><br/>Million Labyrinth Encyclopedia<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/getchu_kingdom.jpg" height="240"><br/><b>げっちゅー★キングダム!</b><br/>Get You Kingdom!!<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/city_adventure.jpg" height="240"><br/><b>シティアドベンチャー</b><br/>City Adventure<br/>2008</td>
@@ -25,7 +25,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/baroque_campaign.jpg" height="240"><br/><b>猟奇戦役</b><br/>Baroque Campaign<br/>2011</td>
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/apocalypse_maiden_shinkigensha.jpg" height="240"><br/><b>迷宮キングダムリプレイ　黙示録の乙女</b><br/>Apocalypse Maiden<br/>2011</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/prince_of_disaster_shinkigensha.jpg" height="240"><br/><b>迷宮キングダム・リプレイ　災厄の王子</b><br/>Prince of Disaster<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/prince_of_disaster_shinkigensha.jpg" height="240"><br/><b>迷宮キングダム・リプレイ　災厄の王子</b><br/>Prince of Disaster<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/frontier_kingdom_and_cheese_forest.jpg" height="240"><br/><b>迷宮キングダム・リプレイ 辺境王国とチーズの森</b><br/>Frontier Kingdom and Cheese Forest<br/>2011</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/overkill_paradise.jpg" height="240"><br/><b>大殺階域</b><br/>Overkill Paradise<br/>2012</td>
 </tr><tr>
