@@ -44,4 +44,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/angel_birthday_festival.jpg" height="240"><br/><b>退魔生徒会天使降誕祭</b><br/>Devil Student Organization Angel Birthday Festival<br/>2010</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/night_tale_iv.jpg" height="240"><br/><b>ナイト・テイルIV</b><br/>Night Tale IV<br/>2010</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shin-megami-tensei/yukemuri_goddess.jpg" height="240"><br/><b>湯けむり女神とアバドン王</b><br/>Yukemuri Goddess and King Abadon<br/>2011</td>
 </tr></table>
