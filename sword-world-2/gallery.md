@@ -26,4 +26,22 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/lumiere_legacy.jpg" height="240"><br/><b>ルミエルレガシィ</b><br/>Lumiere Legacy<br/>2014</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/fortuna_code.jpg" height="240"><br/><b>フォルトナコード</b><br/>Fortuna Code<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/faydan_museum.jpg" height="240"><br/><b>プレイヤーズ・ハンドブック フェイダン博物誌</b><br/>Players Handbook Faydan Museum<br/>2012</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/salz_museum.jpg" height="240"><br/><b>プレイヤーズ・ハンドブック ザルツ博物誌</b><br/>Players Handbook Salz Museum<br/>2012</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/eurelia.jpg" height="240"><br/><b>プレイヤーズ・ハンドブック ユーレリア博物誌</b><br/>Players Handbook Eurelia Natural History<br/>2013</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/dagnia_museum.jpg" height="240"><br/><b>プレイヤーズ・ハンドブック ダグニア博物誌</b><br/>Players Handbook Dagnia Museum<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/dilfram_museum.jpg" height="240"><br/><b>プレイヤーズ・ハンドブック ディルフラム博物誌 </b><br/>Players Handbook Dilfram Museum<br/>2016</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/luferia.jpg" height="240"><br/><b>ソード・ワールド2.0 ツアー(1) ルーフェリア</b><br/>Sword World 2.0 Tour 1: Luferia<br/>2009</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/lios.jpg" height="240"><br/><b>ソード・ワールド2.0ツアー (2)　リオス</b><br/>Sword World 2.0 Tour 2: Lios<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/calzorals_magic_angel.jpg" height="240"><br/><b>バトルキャンペーンブックカルゾラルの魔動天使</b><br/>Battle Campaign Book Calzoral's Magic Angel<br/>2014</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/procercia_secret_history.jpg" height="240"><br/><b>バトルキャンペーンブック プロセルシア秘史 ―暁をうたう竜の姫</b><br/>Battle Campaign Book Procercia Secret History-Dawn Princess<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/dragon_raid_senryuden.jpg" height="240"><br/><b>ストーリー&データブックドラゴンレイド戦竜伝 </b><br/>Story & Data Book Dragon Raid Senryuden<br/>2014</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/white_dragon_maiden.jpg" height="240"><br/><b>グランドキャンペーン ドラゴンレイドビギンズ ‐白き竜の乙女‐</b><br/>Grand Campaign Dragon Raid Begins-White Dragon Maiden-<br/>2014</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/dragon_raid_senryuden2.jpg" height="240"><br/><b>ストーリー&データブック ドラゴンレイド戦竜伝 (2)</b><br/>Story & Data Book Dragon Raid Senryuden (2)<br/>2015</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/labyrinth_magic_sword.jpg" height="240"><br/><b>シナリオ集　挑戦! 魔剣が呼ぶ迷宮</b><br/>Scenario Collection: Challenge! Labyrinth Called by the Magic Sword<br/>2008</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/sword-world-2/fengyun.jpg" height="240"><br/><b>シナリオ集(2) 風雲!歌声が響く都市</b><br/>Scenario Collection (2) Fengyun! A City Where the Singing Voice Echoes<br/>2008</td>
+</tr><tr>
 </tr></table>
