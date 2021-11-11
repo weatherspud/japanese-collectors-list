@@ -1,6 +1,6 @@
 <table><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/metalhead.jpg" height="240"><br/><b>メタルヘッド</b><br/>Metal Head<br/>1990</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/metalhead_alternate.jpg" height="240"><br/><b>メタルヘッド</b><br/>Metal Head<br/>1990</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/metalhead_alternate.jpg" height="240"><br/><b>メタルヘッド</b><br/>Metal Head (alternate cover)<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/psyclone.jpg" height="240"><br/><b>サイクロン</b><br/>Psy-Clone<br/>1990</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/metalhead/backup_screen.jpg" height="240"><br/><b>Metal Head Backup Screen</b><br/>Metalhead Backup Screen<br/>1991</td>
 </tr><tr>
