@@ -1,8 +1,4 @@
 ﻿year,japanese,english,publisher,image,product_type,product_code
-1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide.jpg,supplement,
-1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide_alt.jpg,supplement,
-1996,ソード・ワールドRPG 完全版,Sword World RPG Complete Edition,Fujimi Shobo,sword_world_complete.jpg,rulebook,
-1996,西部諸国ワールドガイド,Ten Children World Guide,Fujimi Shobo,western_countries_world_guide.jpg,supplement,
 1989,ソード・ワールドRPG,Sword World RPG,Fujimi Shobo,sword_world.jpg,rulebook,6-1
 1989,石巨人の迷宮,Stone Giant Labyrinth,Fujimi Shobo,stone_giant_labyrinth.jpg,scenario,6-2
 1989,ユニコーンの探索,Unicorn Quest,Fujimi Shobo,unicorn_quest.jpg,scenario,6-3
@@ -16,6 +12,8 @@
 1991,闇からの脅威,Threat from Darkness,Fujimi Shobo,threat_from_darkness.jpg,scenario,6-11
 1992,魔境の支配者ソード・ワールドRPGリプレイ集〈4〉,Makai Ruler: Sword World Replay 4,Fujimi Shobo,makai_ruler.jpg,replay,6-12
 1992,猫だけが知っている,Only Cats Know,Fujimi Shobo,only_cats_know.jpg,scenario,6-13
+1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide.jpg,supplement,
+1993,ソード・ワールドRPGワールドガイド,Sword World RPG World Guide,Fujimi Shobo,sword_world_world_guide_alt.jpg,supplement,
 1993,南海の勝利者ソード・ワールドRPGリプレイ集〈5〉,South Sea Victor: Sword World Replay 5,Fujimi Shobo,south_sea_victor.jpg,replay,6-14
 1993,異界への門,Gates to Another World,Fujimi Shobo,gates_to_another_world.jpg,scenario,6-15
 1993,バラールの館,Ballard House,Fujimi Shobo,ballard_house.jpg,scenario,6-16
@@ -27,13 +25,15 @@
 1995,アルバトロス追撃 ソード・ワールドRPGアドベンチャー〈2〉,Sword World RPG Adventure <2> Albatross Pursuit,Fujimi Shobo,albatross_pursuit.jpg,novel,6-22
 1995,迷探偵登場!デュダRPGリプレイ集〈1〉,The Detective Appears! Duda RPG Replay Collection <1>,Fujimi Shobo,detective_appears.jpg,replay,6-23
 1995,バブリーズ・フォーエバーソード・ワールドRPGリプレイ集〈9〉,Bablies Forever: Sword World Replay 9,Fujimi Shobo,bablies_forever.jpg,replay,6-24
+1996,ソード・ワールドRPG 完全版,Sword World RPG Complete Edition,Fujimi Shobo,sword_world_complete.jpg,rulebook,
+1996,西部諸国ワールドガイド,Ten Children World Guide,Fujimi Shobo,western_countries_world_guide.jpg,supplement,
 1996,タイデル騒乱!―ソード・ワールドRPGアドベンチャー〈3〉,Tyder Mayhem!-Sword World RPG Adventure <3>,Fujimi Shobo,tyder_mayhem.jpg,novel,6-25
 1996,アサシンをやりこめろ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈1〉,Talk Down the Assassin! Sword World Replay Collection 1,Fujimi Shobo,talk_down_the_assassin.jpg,replay,6-26
-1997,黒き魔人の森,Forest of the Black Demon,Fujimi Shobo,forest_of_the_black_demon.jpg,scenario,6-27
 1996,ソード・ワールドRPG「Q&Aブック」,Sword World RPG Q&A Book,Fujimi Shobo,sword_world_qna_book.jpg,supplement,6-28
 1996,疑惑の石像―デュダRPGリプレイ集〈2〉,Alleged Stone Statue-Duda RPG Replay Collection <2>,Fujimi Shobo,alleged_stone_statue.jpg,replay,6-29
 1996,プロミジー急転!―ソード・ワールドRPGアドベンチャー〈4〉,Promygy sudden turn!-Sword World RPG Adventure <4>,Fujimi Shobo,promygy_sudden_turn.jpg,novel,6-30
 1996,アドベンチャラーに任せとけ!―ソード・ワールドRPGリプレイ集 風雲ミラルゴ編〈2〉,Leave It To the Adventurer: Sword World Replay Collection 2,Fujimi Shobo,leave_it_to_the_adventurer.jpg,replay,6-31
+1997,黒き魔人の森,Forest of the Black Demon,Fujimi Shobo,forest_of_the_black_demon.jpg,scenario,6-27
 1997,悪魔が闇に踊る街,The City Where the Devil Dances in the Dark,Fujimi Shobo,city_where_devil_dances_in_the_dark.jpg,scenario,6-32
 1997,ナイトブレイカーズ爆発!―ソード・ワールドRPGアドベンチャー〈5〉,Night Breakers Explosion!-Sword World RPG Adventure <5>,Fujimi Shobo,night_breakers_explosion.jpeg,novel,6-33
 1997,迷探偵がいっぱい―デュダRPGリプレイ集〈3〉,Lots of Detectives-Duda RPG Replay Collection <3>,Fujimi Shobo,lots_of_detectives.jpg,replay,6-34
@@ -56,16 +56,15 @@
 2003,走れ!神秘の大森林―新ソード・ワールドRPGリプレイ集〈7〉,Run! Mysterious New World: New Sword World RPG Replay Collection 7,Fujimi Shobo,run_mysterious_new_world.jpg,replay,6-54
 2004,ソード・ワールドRPGベーシック ,Sword World RPG Basic,Fujimi Shobo,sword_world_basic.jpg,rulebook,6-55
 2004,救え!かつての大親友―新ソード・ワールドRPGリプレイ集〈8〉,Save! Former Great Friend: New Sword World RPG Replay Collection 8,Fujimi Shobo,save_former_great_friend.jpg,replay,6-56
-2005,挑め!捨身の大決戦―新ソード・ワールドRPGリプレイ集〈9〉,Challenge! The Great Decisive Battle: New Sword World RPG Replay Collection 9,Fujimi Shobo,challenge_the_great_decisive_battle.jpg,replay,6-57
 2004,ロマール・ノワール新ソードワールドRPGリプレイ集NEXT(1) ,Roman Noir: New Sword World RPG Replay Collection NEXT(1),Fujimi Shobo,roman_noir.jpg,replay,6-58
 2004,ダンジョン・パッション新ソードワールドRPGリプレイ集NEXT(2) ,Dungeon Passion: New Sword World RPG Replay Collection NEXT(2) ,Fujimi Shobo,dungeon_passion.jpg,replay,6-59
+2005,挑め!捨身の大決戦―新ソード・ワールドRPGリプレイ集〈9〉,Challenge! The Great Decisive Battle: New Sword World RPG Replay Collection 9,Fujimi Shobo,challenge_the_great_decisive_battle.jpg,replay,6-57
 2005,コロシアム・プレミアム新ソード・ワールドRPGリプレイ集NEXT(3) ,Coliseum Premium: New Sword World RPG Replay Collection NEXT(3) ,Fujimi Shobo,coliseum_premium.jpg,replay,6-60
 2005,名乗れ!今こそ大英雄―新ソード・ワールドRPGリプレイ集〈10〉,Name Yourself! The Great Hero: New Sword World RPG Replay Collection 10,Fujimi Shobo,name_yourself_the_great_hero.jpg,replay,6-61
 2005,ファンドリア・ファンクション新ソード・ワールドRPGリプレイ集NEXT(4) ,Fundria Function: New Sword World RPG Replay Collection NEXT(4),Fujimi Shobo,fundria_function.jpg,replay,6-62
 2005,ソード・ワールドRPGリプレイ・アンソロジー デーモン・アゲイン,Sword World RPG Replay Anthology Demon Again,Fujimi Shobo,demon_again.jpg,replay,6-63
 2005,トライアル・トラブル―新ソード・ワールドRPGリプレイ集NEXT〈5〉,Trial Trouble-New Sword World RPG Replay Collection NEXT <5>,Fujimi Shobo,trial_trouble.jpg,replay,6-64
 2006,明かせ!へっぽこ大冒険―新ソード・ワールドRPGリプレイ集ガイドブック,Let's Reveal! Heppoko's Great Adventure: New Sword World RPG Replay Collection Guide Book,Fujimi Shobo,heppoko_great_adventure.jpg,replay,6-65
-2007,賽子(ダイス)の国の魔法戦士―ソード・ワールドRPGリプレイ・アンソロジー〈2〉,Magic Warrior of the Country of Said (Dice)-Sword World RPG Replay Anthology <2>,Fujimi Shobo,magic_warrior_of_the_country_said.jpeg,replay,6-65
 2006,マリン・マーベル 新ソード・ワールドRPGリプレイ集NEXT(6),Marine Marvel New Sword World RPG Replay Collection NEXT(6),Fujimi Shobo,marine_marvel.jpg,replay,6-66
 2006,レイド・レボルト新ソード・ワールドRPGリプレイ集NEXT(7) ,Raid Rebolt: New Sword World RPG Replay Collection NEXT(7),Fujimi Shobo,raid_rebolt.jpg,replay,6-67
 2006,盗賊たちの狂詩曲(ラプソディ)―ソード・ワールドRPGリプレイ集スチャラカ編(1),Rhapsody of Bandits (Rhapsody)-Sword World RPG Replay Collection Scharaka (1),Fujimi Shobo,rhapsody_of_rogues_2006.jpg,replay,6-68
@@ -73,13 +72,14 @@
 2006,終わりなき即興曲(トッカータ)―ソード・ワールドRPGリプレイ集スチャラカ編 (3),Endless Improvisations (Toccata)-Sword World RPG Replays by Scharaka (3),Fujimi Shobo,endless_improvisation_2006.jpg,replay,6-70
 2006,猫の手冒険隊、集結!―ソード・ワールドRPGリプレイ集×S〈1〉,"Cat's Hand Adventure Corps, Gathering!-Sword World RPG Replay Collection x S <1>",Fujimi Shobo,cats_hand_adventure.jpg,replay,6-71
 2006,スカイ・ステージ―新ソード・ワールドRPGリプレイ集NEXT〈8〉,Sky Stage: New Sworld World RPG Replay Collection NEXT(8),Fujimi Shobo,sky_stage.jpg,replay,6-72
+2006,新ソード・ワールドRPGリプレイ集Waltz〈1〉旅立ち・お祭り・子供たち ,New Sword World RPG Replay Collection Waltz <1> Departure/Festival/Children,Fujimi Shobo,departure_festival_children.jpg,replay,6-81
+2007,賽子(ダイス)の国の魔法戦士―ソード・ワールドRPGリプレイ・アンソロジー〈2〉,Magic Warrior of the Country of Said (Dice)-Sword World RPG Replay Anthology <2>,Fujimi Shobo,magic_warrior_of_the_country_said.jpeg,replay,6-65
 2007,クリティカル・クライマックス新ソード・ワールドRPGリプレイ集NEXT9,Critical Climax: New Sword World RPG Replay Collection NEXT 9 ,Fujimi Shobo,critical_climax.jpg,replay,6-73
 2007,ギャンブル・ランブル―新ソード・ワールドRPGリプレイ集NEXT〈0〉,Gamble Rumble-New Sword World RPG Replay Collection NEXT <0>,Fujimi Shobo,gamble_rumble.jpg,replay,6-75
 2007,猫の手勇者くん、突撃!―ソード・ワールドRPGリプレイ集×S〈2〉,"Cat brave man, assault!-Sword World RPG replay collection × S <2>",Fujimi Shobo,cat_brave_man_assault.jpg,replay,6-76
 2007,猫の手お気楽娘、幻惑?―ソード・ワールドRPGリプレイ集xS〈3〉,"Cat's Hand Easy Girl, Illusion?-Sword World RPG Replay Collection xS <3>",Fujimi Shobo,cats_easy_hand_girl.jpg,replay,6-77
-2008,猫の手超人王、激闘!―ソード・ワールドRPGリプレイ集XS〈4〉,"Cat's Hand, Super King, Fierce Fight!-Sword World RPG Replay Collection XS <4>",Fujimi Shobo,cats_hand_super_king.jpg,replay,6-78
-2006,新ソード・ワールドRPGリプレイ集Waltz〈1〉旅立ち・お祭り・子供たち ,New Sword World RPG Replay Collection Waltz <1> Departure/Festival/Children,Fujimi Shobo,departure_festival_children.jpg,replay,6-81
 2007,新ソード・ワールドRPGリプレイ集Waltz〈2〉競争・怪盗・大湿原,New Sword World RPG Replay Collection Waltz <2> Competition / Kaito / Great Marsh,Fujimi Shobo,competition_kaito_great_marsh.jpg,replay,6-82
 2007,新ソード・ワールドRPGリプレイ集Waltz〈3〉駆け込み・災厄・学者サマ,"New Sword World RPG Replay Collection Waltz <3> rush, disaster, scholar Sama",Fujimi Shobo,rush_disaster_scholar_sama.jpg,replay,6-83
 2007,新ソード・ワールドRPGリプレイ集Waltz〈4〉誘拐・ヤキモチ・すれ違い,"New Sword World RPG Replay Collection Waltz <4> Kidnapping, Yakimochi, Passing each other",Fujimi Shobo,kidnapping_yakimochi.jpg,replay,6-84
+2008,猫の手超人王、激闘!―ソード・ワールドRPGリプレイ集XS〈4〉,"Cat's Hand, Super King, Fierce Fight!-Sword World RPG Replay Collection XS <4>",Fujimi Shobo,cats_hand_super_king.jpg,replay,6-78
 2008,新ソード・ワールドRPGリプレイ集Waltz5　誓い・陰謀・巣立ちの日,"New Sword World RPG Replay Collection Waltz 5 Oath, Conspiracy, Leaving Day",Fujimi Shobo,oath_conspiracy.jpg,replay,6-85
