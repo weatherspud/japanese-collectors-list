@@ -4,4 +4,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/witch-quest/witchquest4.jpg" height="240"><br/><b>ウィッチクエスト２　エディスと猫のいない街上卷</b><br/>Witch Quest 2: City Without Edith and the Cat Vol 1<br/>1991</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/witch-quest/witchquest2.jpg" height="240"><br/><b>ウィッチクエスト２　エディスと猫のいない街下卷</b><br/>Witch Quest 2: City Without Edith and the Cat Vol 2<br/>1991</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/witch-quest/slipcase_2001.jpg" height="240"><br/><b>ウィッチクエスト再編集版</b><br/>Witch Quest Re-edited Version<br/>2001</td>
 </tr></table>
