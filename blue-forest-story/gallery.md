@@ -6,4 +6,8 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/blue-forest-story/blue_forest_wars_designers_ed.jpg" height="240"><br/><b>ブルーフォレスト戦乱 THE DESIGNER'S EDITION</b><br/>Blue Forest Wars: The Designer's Edition<br/>1997</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/blue-forest-story/blue_forest_tactics.jpg" height="240"><br/><b>ブルーフォレスト風雲録</b><br/>Blue Forest Tactics<br/>1998</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/blue-forest-story/blue_forest_report.jpg" height="240"><br/><b>ブルーフォレスト通信</b><br/>Blue Forest Report<br/>2010</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/blue-forest-story/blue_forest_report2.jpg" height="240"><br/><b>ブルーフォレスト通信2</b><br/>Blue Forest Report 2<br/>2010</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/blue-forest-story/blue_forest_report3.jpg" height="240"><br/><b>ブルーフォレスト通信3</b><br/>Blue Forest Report 3<br/>2011</td>
 </tr></table>
