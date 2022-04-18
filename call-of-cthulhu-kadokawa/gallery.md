@@ -46,14 +46,17 @@
 </tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/kingsport.jpg" height="240"><br/><b>クトゥルフ神話TRPG キングスポートのすべて</b><br/>H.P. Lovecraft's Kingsport<br/>2016</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/modular_cthulhu.jpg" height="240"><br/><b>クトゥルフ神話TRPG モジュラー・クトゥルフ</b><br/>Modular Cthulhu<br/>2016</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/lovecraftian_horrors.jpg" height="240"><br/><b>クトゥルフ神話怪物図鑑</b><br/>S. Petersen's Field Guide to Lovecraftian Horrors<br/>2016</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_codex.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフ・コデックス</b><br/>Cthulhu Codex<br/>2017</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/stars_are_right.jpg" height="240"><br/><b>クトゥルフ神話TRPG シナリオ集 星辰正しき刻</b><br/>The Stars Are Right!<br/>2018</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/stars_are_right.jpg" height="240"><br/><b>クトゥルフ神話TRPG シナリオ集 星辰正しき刻</b><br/>The Stars Are Right!<br/>2018</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/akashic_13.jpg" height="240"><br/><b>クトゥルフ神話TRPG シナリオ集 アカシック13</b><br/>Akashic 13<br/>2018</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/call-of-cthulhu-7th.jpg" height="240"><br/><b>新クトゥルフ神話TRPG ルールブック</b><br/>Call of Cthulhu<br/>2019</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_tablet.jpg" height="240"><br/><b>クトゥルフ神話TRPG クトゥルフ・タブレット</b><br/>Cthulhu Tablet<br/>2019</td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_2020.jpg" height="240"><br/><b>新クトゥルフ神話TRPG クトゥルフ2020</b><br/>New Cthulhu Myth TRPG Cthulhu 2020<br/>2020</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/cthulhu_2020.jpg" height="240"><br/><b>新クトゥルフ神話TRPG クトゥルフ2020</b><br/>New Cthulhu Myth TRPG Cthulhu 2020<br/>2020</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/new_cthulhu_myth_start_set.jpg" height="240"><br/><b>新クトゥルフ神話TRPG スタートセット</b><br/>New Cthulhu Myth TRPG Start Set<br/>2020</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/maleus_monstrorum_vol1.jpg" height="240"><br/><b>新クトゥルフ神話TRPG マレウス・モンストロルム Vol.1 クリーチャー編</b><br/>Malleus Monstrorum Vol.1 Creature Edition<br/>2021</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/call-of-cthulhu-kadokawa/maleus_monstrorum_vol2.jpg" height="240"><br/><b>新クトゥルフ神話TRPG マレウス・モンストロルム Vol.2 神格編</b><br/>Malleus Monstrorum Vol.2 Diety Edition<br/>2021</td>
+</tr><tr>
 </tr></table>
