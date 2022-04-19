@@ -9,5 +9,5 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/torg/torg6.jpg" height="240"><br/><b>オーロシュ―トーグ・ソースブック</b><br/>Orrosh: Torg Sourcebook<br/>1995</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/torg/torg7.jpg" height="240"><br/><b>力の遺品―トーグ・シナリオブック</b><br/>The Relics of Power: Torg Scenario Book<br/>1994</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/torg/torg8.jpg" height="240"><br/><b>トーグガイドブック</b><br/>Torg Guidebook<br/>1994</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/torg/torg8.png" height="240"><br/><b>トーグガイドブック</b><br/>Torg Guidebook<br/>1994</td>
 </tr></table>
