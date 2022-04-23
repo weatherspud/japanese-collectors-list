@@ -17,4 +17,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shinobigami/wrestling.jpg" height="240"><br/><b>シノビガミ リプレイ　プロレス忍法帖</b><br/>Shinobigami Replay Wrestling Ninpocho<br/>2015</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shinobigami/masanobu_approval.jpg" height="240"><br/><b>シノビガミ シナリオ集 正忍記・認</b><br/>Shinobigami Scenario Collection Masanobu / Approval<br/>2020</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shinobigami/10th_anniversary_rulebook.jpg" height="240"><br/><b>シノビガミ十周年記念ルールブック シノビガミ華</b><br/>Shinobigami 10th Anniversary Rulebook Shinobigami Hana<br/>2020</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shinobigami/hirakasa_organization.jpg" height="240"><br/><b>シノビガミ 流派ブック 比良坂機関</b><br/>シノビガミ 流派ブック 比良坂機関<br/>2021</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shinobigami/kuruma_shinryu.jpg" height="240"><br/><b>シノビガミ 流派ブック 鞍馬神流 </b><br/>Shinobigami School Book Kurama Shinryu<br/>2022</td>
 </tr></table>
