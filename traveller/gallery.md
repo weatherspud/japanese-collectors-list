@@ -19,7 +19,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/traveller_handbook.jpg" height="240"><br/><b>トラベラーハンドブック</b><br/>Traveller Handbook<br/>1987</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/megatraveller.jpg" height="240"><br/><b>メガトラベラー</b><br/>MegaTraveller<br/>1991</td>
 </tr><tr>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/rebellion.jpg" height="240"><br/><b>反乱軍ソースブック</b><br/>Rebellion Sourcebook<br/></td>
-<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/knight_fall.jpg" height="240"><br/><b>ナイトフォール</b><br/>Knightfall<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/rebellion.jpg" height="240"><br/><b>反乱軍ソースブック</b><br/>Rebellion Sourcebook<br/>1991</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/knight_fall.jpg" height="240"><br/><b>ナイトフォール</b><br/>Knightfall<br/>1992</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/traveller/hard_times.jpg" height="240"><br/><b>ハードタイムズ</b><br/>Hard Times<br/></td>
 </tr></table>
