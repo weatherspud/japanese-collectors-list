@@ -27,4 +27,7 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/runners_companion.jpg" height="240"><br/><b>ランナーズ・コンパニオン</b><br/>Runner's Companion<br/>2015</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/5th_edition.jpg" height="240"><br/><b>シャドウラン 5th Edition</b><br/>Shadowrun 5th Edition<br/>2018</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/sprawl_wilds.jpg" height="240"><br/><b>スプロール・ワイルド</b><br/>Sprawl Wilds<br/>2019</td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/firing_line.jpg" height="240"><br/><b>ファイアリング・ライン</b><br/>Firing Line<br/>2020</td>
+</tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/shadowrun/run_and_gun.jpg" height="240"><br/><b>ラン&ガン</b><br/>Run & Gun<br/>2021</td>
 </tr></table>
