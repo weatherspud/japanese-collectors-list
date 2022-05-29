@@ -19,6 +19,11 @@
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/getchu_kingdom.jpg" height="240"><br/><b>げっちゅー★キングダム!</b><br/>Get You Kingdom!!<br/>2008</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/city_adventure.jpg" height="240"><br/><b>シティアドベンチャー</b><br/>City Adventure<br/>2008</td>
 </tr><tr>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/mayo_card1.jpg" height="240"><br/><b>まよカード Vol.1 キャラクター編</b><br/>Mayo Card Vol.1 Character Edition<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/mayo_card2.jpg" height="240"><br/><b>まよカード Vol.2 モンスター編</b><br/>Mayo Card Vol.2 Monster Edition<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/mayo_card3.jpg" height="240"><br/><b>まよカード Vol.3 アイテム編</b><br/>Mayo Card Vol.3 Item Edition<br/></td>
+<td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/mayo_card4.jpg" height="240"><br/><b>まよカード Vol.4 げっちゅー＆トラップ編</b><br/>Mayo Card Vol.4 Getchu & Trap Edition<br/></td>
+</tr><tr>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/kingdom_book_2010.jpg" height="240"><br/><b>迷宮キングダム 王国ブック</b><br/>Make You Kingdom: Kingdom Book<br/>2010</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/queens_return.jpg" height="240"><br/><b>迷宮キングダム・リプレイ 女王の帰還</b><br/>Queen's Return<br/>2010</td>
 <td valign="top" width="25%"><img src="https://raw.githubusercontent.com/weatherspud/japanese-collectors-list/master/meikyuu-kingdom/labyrinth_book_2010.jpg" height="240"><br/><b>迷宮キングダム 迷宮ブック</b><br/>Make You Kingdom: Labyrinth Book<br/>2011</td>
